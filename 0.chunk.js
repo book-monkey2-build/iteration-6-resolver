@@ -5406,10 +5406,10 @@ var BookFormComponent = (function () {
         this.isUpdatingBook = false;
     }
     BookFormComponent.prototype.ngOnInit = function () {
-        var isbn = this.route.snapshot.params['isbn'];
-        if (isbn) {
+        var data = this.route.snapshot.data;
+        if (data.hasOwnProperty('book')) {
             this.isUpdatingBook = true;
-            this.book = this.route.snapshot.data['book'];
+            this.book = data['book'];
         }
         this.initBook();
     };
