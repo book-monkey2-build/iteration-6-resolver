@@ -5929,7 +5929,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var routes = [
     {
         path: '',
-        component: __WEBPACK_IMPORTED_MODULE_2__book_form_book_form_component__["a" /* BookFormComponent */],
+        component: __WEBPACK_IMPORTED_MODULE_2__book_form_book_form_component__["a" /* BookFormComponent */]
     },
     {
         path: ':isbn',
