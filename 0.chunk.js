@@ -766,6 +766,7 @@ function isJsObject(o) {
     return o !== null && (typeof o === 'function' || typeof o === 'object');
 }
 function print(obj) {
+    // tslint:disable-next-line:no-console
     console.log(obj);
 }
 function warn(obj) {
