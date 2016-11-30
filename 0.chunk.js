@@ -5421,7 +5421,7 @@ var BookFormComponent = (function () {
             isbn: [this.book.isbn, [
                     __WEBPACK_IMPORTED_MODULE_2__angular_forms__["Validators"].required,
                     this.bv.isbnFormat
-                ], this.isUpdatingBook ? null : this.bv.isbnExists.bind(this)],
+                ], this.isUpdatingBook ? null : this.bv.isbnExists(this.bs)],
             description: [this.book.description],
             authors: this.buildAuthorsArray(),
             thumbnails: this.buildThumbnailsArray(),
@@ -5493,7 +5493,6 @@ var BookFormComponent = (function () {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__shared_book_store_service__ = __webpack_require__(201);
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return BookValidatorsService; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -5505,10 +5504,8 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 
-
 var BookValidatorsService = (function () {
-    function BookValidatorsService(bs) {
-        this.bs = bs;
+    function BookValidatorsService() {
     }
     BookValidatorsService.prototype.isbnFormat = function (control) {
         if (!control.value) {
@@ -5528,18 +5525,19 @@ var BookValidatorsService = (function () {
             atLeastOneAuthor: { valid: false }
         };
     };
-    BookValidatorsService.prototype.isbnExists = function (control) {
-        return this.bs.check(control.value)
-            .map(function (exists) { return (exists === false) ? null : {
-            isbnExists: { valid: false }
-        }; });
+    BookValidatorsService.prototype.isbnExists = function (bs) {
+        return function (control) {
+            return bs.check(control.value)
+                .map(function (exists) { return (exists === false) ? null : {
+                isbnExists: { valid: false }
+            }; });
+        };
     };
     BookValidatorsService = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__shared_book_store_service__["a" /* BookStoreService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__shared_book_store_service__["a" /* BookStoreService */]) === 'function' && _a) || Object])
+        __metadata('design:paramtypes', [])
     ], BookValidatorsService);
     return BookValidatorsService;
-    var _a;
 }());
 
 
