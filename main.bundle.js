@@ -396,7 +396,8 @@ var AppModule = (function () {
             ],
             providers: [
                 __WEBPACK_IMPORTED_MODULE_5__shared_book_store_service__["a" /* BookStoreService */],
-                __WEBPACK_IMPORTED_MODULE_7__shared_book_resolver_service__["a" /* BookResolver */]
+                __WEBPACK_IMPORTED_MODULE_7__shared_book_resolver_service__["a" /* BookResolver */],
+                { provide: __WEBPACK_IMPORTED_MODULE_2__angular_core__["LOCALE_ID"], useValue: 'de' }
             ],
             bootstrap: [__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* AppComponent */]]
         }), 
