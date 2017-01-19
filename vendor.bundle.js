@@ -78,7 +78,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ReflectiveInjector", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Y"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ResolvedReflectiveFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_43"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ReflectiveKey", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_44"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "OpaqueToken", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "InjectionToken", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "OpaqueToken", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_45"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Inject", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["l"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Optional", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["m"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Injectable", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["c"]; });
@@ -86,57 +87,57 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "SkipSelf", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["n"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Host", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["P"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "NgZone", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["A"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "RenderComponentType", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_45"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "RenderComponentType", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_46"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Renderer", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["S"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "RootRenderer", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["y"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "COMPILER_OPTIONS", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_46"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "COMPILER_OPTIONS", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_47"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Compiler", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "CompilerFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_47"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "ModuleWithComponentFactories", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_48"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "ComponentFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_49"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "ComponentRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_50"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "CompilerFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_48"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "ModuleWithComponentFactories", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_49"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "ComponentFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_50"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "ComponentRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_51"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ComponentFactoryResolver", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["W"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ElementRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["T"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "NgModuleFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_51"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "NgModuleRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_52"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "NgModuleFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_52"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "NgModuleRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_53"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "NgModuleFactoryLoader", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["o"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "getModuleFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_53"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "QueryList", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_54"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "getModuleFactory", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_54"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "QueryList", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_55"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "SystemJsNgModuleLoader", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["p"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "SystemJsNgModuleLoaderConfig", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_55"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "SystemJsNgModuleLoaderConfig", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_56"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "TemplateRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Q"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ViewContainerRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["R"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "EmbeddedViewRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_56"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "ViewRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_57"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "ChangeDetectionStrategy", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_58"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "EmbeddedViewRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_57"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "ViewRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_58"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "ChangeDetectionStrategy", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_59"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "ChangeDetectorRef", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["K"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "DefaultIterableDiffer", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_59"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "DefaultIterableDiffer", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_60"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "IterableDiffers", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["V"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "KeyValueDiffers", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["U"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "SimpleChange", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_60"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "SimpleChange", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_61"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "WrappedValue", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["L"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "platformCore", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["z"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "__core_private__", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["B"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "AUTO_STYLE", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["r"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationEntryMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_61"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStateMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_62"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStateDeclarationMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_63"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStateTransitionMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_64"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_65"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationKeyframesSequenceMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_66"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStyleMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_67"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationAnimateMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_68"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationWithStepsMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_69"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationSequenceMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_70"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationGroupMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_71"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "animate", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_72"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "group", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_73"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "sequence", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_74"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "style", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_75"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "state", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_76"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "keyframes", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_77"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "transition", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_78"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "trigger", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_79"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationEntryMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_62"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStateMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_63"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStateDeclarationMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_64"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStateTransitionMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_65"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_66"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationKeyframesSequenceMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_67"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationStyleMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_68"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationAnimateMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_69"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationWithStepsMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_70"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationSequenceMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_71"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "AnimationGroupMetadata", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_72"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "animate", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_73"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "group", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_74"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "sequence", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_75"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "style", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_76"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "state", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_77"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "keyframes", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_78"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "transition", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_79"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "trigger", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_80"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -3439,7 +3440,7 @@ function tokenReference(token) {
     }
 }
 /**
- *  Metadata about a stylesheet
+ * Metadata about a stylesheet
  */
 var CompileStylesheetMetadata = (function () {
     /**
@@ -3462,7 +3463,7 @@ function CompileStylesheetMetadata_tsickle_Closure_declarations() {
     CompileStylesheetMetadata.prototype.styleUrls;
 }
 /**
- *  Metadata regarding compilation of a template.
+ * Metadata regarding compilation of a template.
  */
 var CompileTemplateMetadata = (function () {
     /**
@@ -3516,7 +3517,7 @@ function CompileTemplateMetadata_tsickle_Closure_declarations() {
     CompileTemplateMetadata.prototype.interpolation;
 }
 /**
- *  Metadata regarding compilation of a directive.
+ * Metadata regarding compilation of a directive.
  */
 var CompileDirectiveMetadata = (function () {
     /**
@@ -3678,7 +3679,7 @@ function CompileDirectiveMetadata_tsickle_Closure_declarations() {
     CompileDirectiveMetadata.prototype.componentFactory;
 }
 /**
- *  Construct {@link CompileDirectiveMetadata} from {@link ComponentTypeMetadata} and a selector.
+ * Construct {\@link CompileDirectiveMetadata} from {\@link ComponentTypeMetadata} and a selector.
  * @param {?} hostTypeReference
  * @param {?} compMeta
  * @param {?} hostViewType
@@ -3743,7 +3744,7 @@ function CompilePipeMetadata_tsickle_Closure_declarations() {
     CompilePipeMetadata.prototype.pure;
 }
 /**
- *  Metadata regarding compilation of a module.
+ * Metadata regarding compilation of a module.
  */
 var CompileNgModuleMetadata = (function () {
     /**
@@ -3988,9 +3989,9 @@ $exports.store = store;
 "use strict";
 /* harmony export (immutable) */ exports["a"] = CompilerInjectable;
 /**
- *  A replacement for @Injectable to be used in the compiler, so that
-  * we don't try to evaluate the metadata in the compiler during AoT.
-  * This decorator is enough to make the compiler work with the ReflectiveInjector though.
+ * A replacement for \@Injectable to be used in the compiler, so that
+ * we don't try to evaluate the metadata in the compiler during AoT.
+ * This decorator is enough to make the compiler work with the ReflectiveInjector though.
  * @return {?}
  */
 function CompilerInjectable() {
@@ -4614,9 +4615,10 @@ function setRootDomAdapter(adapter) {
     }
 }
 /**
- *  Provides DOM operations in an environment-agnostic way.
-  * *
-  * can introduce XSS risks.
+ * Provides DOM operations in an environment-agnostic way.
+ *
+ * \@security Tread carefully! Interacting with the DOM directly is dangerous and
+ * can introduce XSS risks.
  * @abstract
  */
 var DomAdapter = (function () {
@@ -4678,8 +4680,8 @@ var DomAdapter = (function () {
     DomAdapter.prototype.logGroupEnd = function () { };
     Object.defineProperty(DomAdapter.prototype, "attrToPropMap", {
         /**
-         *  Maps attribute names to their corresponding property names for cases
-          * where attribute name doesn't match property name.
+         * Maps attribute names to their corresponding property names for cases
+         * where attribute name doesn't match property name.
          * @return {?}
          */
         get: function () { return this._attrToPropMap; },
@@ -4773,7 +4775,7 @@ var DomAdapter = (function () {
      */
     DomAdapter.prototype.getInnerHTML = function (el) { };
     /**
-     *  Returns content if el is a <template> element, null otherwise.
+     * Returns content if el is a <template> element, null otherwise.
      * @abstract
      * @param {?} el
      * @return {?}
@@ -5389,7 +5391,10 @@ var DomAdapter = (function () {
 function DomAdapter_tsickle_Closure_declarations() {
     /** @type {?} */
     DomAdapter.prototype.resourceLoaderType;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     DomAdapter.prototype._attrToPropMap;
 }
 //# sourceMappingURL=dom_adapter.js.map
@@ -5680,18 +5685,18 @@ var __extends = (this && this.__extends) || function (d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  * @return {?}
  */
 function unimplemented() {
     throw new Error('unimplemented');
 }
 /**
- * @stable
+ * \@stable
  */
 var BaseError = (function (_super) {
     __extends(BaseError, _super);
@@ -5748,11 +5753,14 @@ var BaseError = (function (_super) {
     return BaseError;
 }(Error));
 function BaseError_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal *
+     * @type {?}
+     */
     BaseError.prototype._nativeError;
 }
 /**
- * @stable
+ * \@stable
  */
 var WrappedError = (function (_super) {
     __extends(WrappedError, _super);
@@ -6254,12 +6262,12 @@ function ParseError_tsickle_Closure_declarations() {
 /***/ function(module, exports, __webpack_require__) {
 
 "use strict";
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["c"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__di_metadata__ = __webpack_require__(84);
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["d"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["e"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["a"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "j", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["d"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["f"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__di_forward_ref__ = __webpack_require__(162);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "i", function() { return __WEBPACK_IMPORTED_MODULE_1__di_forward_ref__["b"]; });
@@ -6272,8 +6280,9 @@ function ParseError_tsickle_Closure_declarations() {
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "l", function() { return __WEBPACK_IMPORTED_MODULE_4__di_reflective_provider__["c"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__di_reflective_key__ = __webpack_require__(164);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "m", function() { return __WEBPACK_IMPORTED_MODULE_5__di_reflective_key__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__di_opaque_token__ = __webpack_require__(163);
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "b", function() { return __WEBPACK_IMPORTED_MODULE_6__di_opaque_token__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__di_injection_token__ = __webpack_require__(163);
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "b", function() { return __WEBPACK_IMPORTED_MODULE_6__di_injection_token__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "n", function() { return __WEBPACK_IMPORTED_MODULE_6__di_injection_token__["b"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -6486,7 +6495,7 @@ var /** @type {?} */ DEFAULT_INTERPOLATION_CONFIG = new InterpolationConfig('{{'
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  A segment of text within the template.
+ * A segment of text within the template.
  */
 var TextAst = (function () {
     /**
@@ -6516,7 +6525,7 @@ function TextAst_tsickle_Closure_declarations() {
     TextAst.prototype.sourceSpan;
 }
 /**
- *  A bound expression within the text of a template.
+ * A bound expression within the text of a template.
  */
 var BoundTextAst = (function () {
     /**
@@ -6548,7 +6557,7 @@ function BoundTextAst_tsickle_Closure_declarations() {
     BoundTextAst.prototype.sourceSpan;
 }
 /**
- *  A plain attribute on an element.
+ * A plain attribute on an element.
  */
 var AttrAst = (function () {
     /**
@@ -6578,8 +6587,8 @@ function AttrAst_tsickle_Closure_declarations() {
     AttrAst.prototype.sourceSpan;
 }
 /**
- *  A binding for an element property (e.g. `[property]="expression"`) or an animation trigger (e.g.
-  * `[@trigger]="stateExp"`)
+ * A binding for an element property (e.g. `[property]="expression"`) or an animation trigger (e.g.
+ * `[\@trigger]="stateExp"`)
  */
 var BoundElementPropertyAst = (function () {
     /**
@@ -6635,8 +6644,8 @@ function BoundElementPropertyAst_tsickle_Closure_declarations() {
     BoundElementPropertyAst.prototype.sourceSpan;
 }
 /**
- *  A binding for an element event (e.g. `(event)="handler()"`) or an animation trigger event (e.g.
-  * `(@trigger.phase)="callback($event)"`).
+ * A binding for an element event (e.g. `(event)="handler()"`) or an animation trigger event (e.g.
+ * `(\@trigger.phase)="callback($event)"`).
  */
 var BoundEventAst = (function () {
     /**
@@ -6709,7 +6718,7 @@ function BoundEventAst_tsickle_Closure_declarations() {
     BoundEventAst.prototype.sourceSpan;
 }
 /**
- *  A reference declaration on an element (e.g. `let someName="expression"`).
+ * A reference declaration on an element (e.g. `let someName="expression"`).
  */
 var ReferenceAst = (function () {
     /**
@@ -6741,7 +6750,7 @@ function ReferenceAst_tsickle_Closure_declarations() {
     ReferenceAst.prototype.sourceSpan;
 }
 /**
- *  A variable declaration on a <template> (e.g. `var-someName="someLocalName"`).
+ * A variable declaration on a <template> (e.g. `var-someName="someLocalName"`).
  */
 var VariableAst = (function () {
     /**
@@ -6773,7 +6782,7 @@ function VariableAst_tsickle_Closure_declarations() {
     VariableAst.prototype.sourceSpan;
 }
 /**
- *  An element declaration in a template.
+ * An element declaration in a template.
  */
 var ElementAst = (function () {
     /**
@@ -6841,7 +6850,7 @@ function ElementAst_tsickle_Closure_declarations() {
     ElementAst.prototype.endSourceSpan;
 }
 /**
- *  A `<template>` element included in an Angular template.
+ * A `<template>` element included in an Angular template.
  */
 var EmbeddedTemplateAst = (function () {
     /**
@@ -6901,7 +6910,7 @@ function EmbeddedTemplateAst_tsickle_Closure_declarations() {
     EmbeddedTemplateAst.prototype.sourceSpan;
 }
 /**
- *  A directive property with a bound value (e.g. `*ngIf="condition").
+ * A directive property with a bound value (e.g. `*ngIf="condition").
  */
 var BoundDirectivePropertyAst = (function () {
     /**
@@ -6937,7 +6946,7 @@ function BoundDirectivePropertyAst_tsickle_Closure_declarations() {
     BoundDirectivePropertyAst.prototype.sourceSpan;
 }
 /**
- *  A directive declared on an element.
+ * A directive declared on an element.
  */
 var DirectiveAst = (function () {
     /**
@@ -6977,7 +6986,7 @@ function DirectiveAst_tsickle_Closure_declarations() {
     DirectiveAst.prototype.sourceSpan;
 }
 /**
- *  A provider declared on an element
+ * A provider declared on an element
  */
 var ProviderAst = (function () {
     /**
@@ -7037,7 +7046,7 @@ ProviderAstType[ProviderAstType.Component] = "Component";
 ProviderAstType[ProviderAstType.Directive] = "Directive";
 ProviderAstType[ProviderAstType.Builtin] = "Builtin";
 /**
- *  Position where content is to be projected (instance of `<ng-content>` in a template).
+ * Position where content is to be projected (instance of `<ng-content>` in a template).
  */
 var NgContentAst = (function () {
     /**
@@ -7080,7 +7089,7 @@ PropertyBindingType[PropertyBindingType.Class] = "Class";
 PropertyBindingType[PropertyBindingType.Style] = "Style";
 PropertyBindingType[PropertyBindingType.Animation] = "Animation";
 /**
- *  Visit every node in a list of {@link TemplateAst}s with the given {@link TemplateAstVisitor}.
+ * Visit every node in a list of {\@link TemplateAst}s with the given {\@link TemplateAstVisitor}.
  * @param {?} visitor
  * @param {?} asts
  * @param {?=} context
@@ -7439,9 +7448,9 @@ module.exports = function(KEY, exec){
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return StaticSymbol; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return StaticSymbolCache; });
 /**
- *  A token representing the a reference to a static type.
-  * *
-  * This token is unique for a filePath and name and can be used as a hash table key.
+ * A token representing the a reference to a static type.
+ *
+ * This token is unique for a filePath and name and can be used as a hash table key.
  */
 var StaticSymbol = (function () {
     /**
@@ -7473,8 +7482,8 @@ function StaticSymbol_tsickle_Closure_declarations() {
     StaticSymbol.prototype.members;
 }
 /**
- *  A cache of static symbol used by the StaticReflector to return the same symbol for the
-  * same symbol values.
+ * A cache of static symbol used by the StaticReflector to return the same symbol for the
+ * same symbol values.
  */
 var StaticSymbolCache = (function () {
     function StaticSymbolCache() {
@@ -8155,9 +8164,9 @@ function CompilerConfig_tsickle_Closure_declarations() {
     CompilerConfig.prototype.useJit;
 }
 /**
- *  Types used for the renderer.
-  * Can be replaced to specialize the generated output to a specific renderer
-  * to help tree shaking.
+ * Types used for the renderer.
+ * Can be replaced to specialize the generated output to a specific renderer
+ * to help tree shaking.
  * @abstract
  */
 var RenderTypes = (function () {
@@ -8330,12 +8339,12 @@ var /** @type {?} */ RENDER_EL_VAR = __WEBPACK_IMPORTED_MODULE_10__output_output
 var /** @type {?} */ EVENT_NAME_VAR = __WEBPACK_IMPORTED_MODULE_10__output_output_ast__["a" /* variable */]('eventName');
 var /** @type {?} */ RESET_CHANGES_STMT = __WEBPACK_IMPORTED_MODULE_10__output_output_ast__["e" /* THIS_EXPR */].prop(CHANGES_FIELD_NAME).set(__WEBPACK_IMPORTED_MODULE_10__output_output_ast__["l" /* literalMap */]([])).toStmt();
 /**
- *  We generate directive wrappers to prevent code bloat when a directive is used.
-  * A directive wrapper encapsulates
-  * the dirty checking for `@Input`, the handling of `@HostListener` / `@HostBinding`
-  * and calling the lifecyclehooks `ngOnInit`, `ngOnChanges`, `ngDoCheck`.
-  * *
-  * So far, only `@Input` and the lifecycle hooks have been implemented.
+ * We generate directive wrappers to prevent code bloat when a directive is used.
+ * A directive wrapper encapsulates
+ * the dirty checking for `\@Input`, the handling of `\@HostListener` / `\@HostBinding`
+ * and calling the lifecyclehooks `ngOnInit`, `ngOnChanges`, `ngDoCheck`.
+ *
+ * So far, only `\@Input` and the lifecycle hooks have been implemented.
  */
 var DirectiveWrapperCompiler = (function () {
     /**
@@ -9398,7 +9407,7 @@ var InvalidPipeArgumentError = (function (_super) {
  */
 
 /**
- *  Wraps Javascript Objects
+ * Wraps Javascript Objects
  */
 var StringMapWrapper = (function () {
     function StringMapWrapper() {
@@ -9963,7 +9972,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 /**
- *  Create a {@link UrlResolver} with no package prefix.
+ * Create a {\@link UrlResolver} with no package prefix.
  * @return {?}
  */
 function createUrlResolverWithoutPackagePrefix() {
@@ -9983,19 +9992,20 @@ var /** @type {?} */ DEFAULT_PACKAGE_URL_PROVIDER = {
     useValue: '/'
 };
 /**
- *  Used by the {@link Compiler} when resolving HTML and CSS template URLs.
-  * *
-  * This class can be overridden by the application developer to create custom behavior.
-  * *
-  * See {@link Compiler}
-  * *
-  * ## Example
-  * *
-  * {@example compiler/ts/url_resolver/url_resolver.ts region='url_resolver'}
-  * *
-  * ensure that the entire template comes from a trusted source.
-  * Attacker-controlled data introduced by a template could expose your
-  * application to XSS risks. For more detail, see the [Security Guide](http://g.co/ng/security).
+ * Used by the {\@link Compiler} when resolving HTML and CSS template URLs.
+ *
+ * This class can be overridden by the application developer to create custom behavior.
+ *
+ * See {\@link Compiler}
+ *
+ * ## Example
+ *
+ * {\@example compiler/ts/url_resolver/url_resolver.ts region='url_resolver'}
+ *
+ * \@security When compiling templates at runtime, you must
+ * ensure that the entire template comes from a trusted source.
+ * Attacker-controlled data introduced by a template could expose your
+ * application to XSS risks. For more detail, see the [Security Guide](http://g.co/ng/security).
  */
 var UrlResolver = (function () {
     /**
@@ -10006,12 +10016,12 @@ var UrlResolver = (function () {
         this._packagePrefix = _packagePrefix;
     }
     /**
-     *  Resolves the `url` given the `baseUrl`:
-      * - when the `url` is null, the `baseUrl` is returned,
-      * - if `url` is relative ('path/to/here', './path/to/here'), the resolved url is a combination of
-      * `baseUrl` and `url`,
-      * - if `url` is absolute (it has a scheme: 'http://', 'https://' or start with '/'), the `url` is
-      * returned as is (ignoring the `baseUrl`)
+     * Resolves the `url` given the `baseUrl`:
+     * - when the `url` is null, the `baseUrl` is returned,
+     * - if `url` is relative ('path/to/here', './path/to/here'), the resolved url is a combination of
+     * `baseUrl` and `url`,
+     * - if `url` is absolute (it has a scheme: 'http://', 'https://' or start with '/'), the `url` is
+     * returned as is (ignoring the `baseUrl`)
      * @param {?} baseUrl
      * @param {?} url
      * @return {?}
@@ -10052,7 +10062,7 @@ function UrlResolver_tsickle_Closure_declarations() {
     UrlResolver.prototype._packagePrefix;
 }
 /**
- *  Extract the scheme of a URL.
+ * Extract the scheme of a URL.
  * @param {?} url
  * @return {?}
  */
@@ -10061,18 +10071,18 @@ function getUrlScheme(url) {
     return (match && match[_ComponentIndex.Scheme]) || '';
 }
 /**
- *  Builds a URI string from already-encoded parts.
-  * *
-  * No encoding is performed.  Any component may be omitted as either null or
-  * undefined.
-  * *
+ * Builds a URI string from already-encoded parts.
+ *
+ * No encoding is performed.  Any component may be omitted as either null or
+ * undefined.
+ *
  * @param {?=} opt_scheme The scheme such as 'http'.
- * @param {?=} opt_userInfo The user name before the '@'.
+ * @param {?=} opt_userInfo The user name before the '\@'.
  * @param {?=} opt_domain The domain such as 'www.google.com', already
-  * URI-encoded.
+ *     URI-encoded.
  * @param {?=} opt_port The port number.
  * @param {?=} opt_path The path, already URI-encoded.  If it is not
-  * empty, it must begin with a slash.
+ *     empty, it must begin with a slash.
  * @param {?=} opt_queryData The URI-encoded query data.
  * @param {?=} opt_fragment The URI-encoded fragment identifier.
  * @return {?} The fully combined URI.
@@ -10198,27 +10208,27 @@ _ComponentIndex[_ComponentIndex.Path] = "Path";
 _ComponentIndex[_ComponentIndex.QueryData] = "QueryData";
 _ComponentIndex[_ComponentIndex.Fragment] = "Fragment";
 /**
- *  Splits a URI into its component parts.
-  * *
-  * Each component can be accessed via the component indices; for example:
-  * <pre>
-  * goog.uri.utils.split(someStr)[goog.uri.utils.CompontentIndex.QUERY_DATA];
-  * </pre>
-  * *
+ * Splits a URI into its component parts.
+ *
+ * Each component can be accessed via the component indices; for example:
+ * <pre>
+ * goog.uri.utils.split(someStr)[goog.uri.utils.CompontentIndex.QUERY_DATA];
+ * </pre>
+ *
  * @param {?} uri The URI string to examine.
  * @return {?} Each component still URI-encoded.
-  * Each component that is present will contain the encoded value, whereas
-  * components that are not present will be undefined or empty, depending
-  * on the browser's regular expression implementation.  Never null, since
-  * arbitrary strings may still look like path names.
+ *     Each component that is present will contain the encoded value, whereas
+ *     components that are not present will be undefined or empty, depending
+ *     on the browser's regular expression implementation.  Never null, since
+ *     arbitrary strings may still look like path names.
  */
 function _split(uri) {
     return uri.match(_splitRe);
 }
 /**
- *  Removes dot segments in given path component, as described in
-  * RFC 3986, section 5.2.4.
-  * *
+ * Removes dot segments in given path component, as described in
+ * RFC 3986, section 5.2.4.
+ *
  * @param {?} path A non-empty path component.
  * @return {?} Path component with removed dot segments.
  */
@@ -10258,8 +10268,8 @@ function _removeDotSegments(path) {
     return leadingSlash + out.join('/') + trailingSlash;
 }
 /**
- *  Takes an array of the parts from split and canonicalizes the path part
-  * and then joins all the parts.
+ * Takes an array of the parts from split and canonicalizes the path part
+ * and then joins all the parts.
  * @param {?} parts
  * @return {?}
  */
@@ -10270,7 +10280,7 @@ function _joinAndCanonicalizePath(parts) {
     return _buildFromEncodedParts(parts[_ComponentIndex.Scheme], parts[_ComponentIndex.UserInfo], parts[_ComponentIndex.Domain], parts[_ComponentIndex.Port], path, parts[_ComponentIndex.QueryData], parts[_ComponentIndex.Fragment]);
 }
 /**
- *  Resolves a URL.
+ * Resolves a URL.
  * @param {?} base The URL acting as the base URL.
  * @param {?} url
  * @return {?}
@@ -10432,31 +10442,37 @@ function containsSegmentGroupHelper(container, containee, containeePaths) {
     }
 }
 /**
- *  *
-  * *
-  * ```
-  * class MyComponent {
-  * constructor(router: Router) {
-  * const tree: UrlTree =
-  * router.parseUrl('/team/33/(user/victor//support:help)?debug=true#fragment');
-  * const f = tree.fragment; // return 'fragment'
-  * const q = tree.queryParams; // returns {debug: 'true'}
-  * const g: UrlSegmentGroup = tree.root.children[PRIMARY_OUTLET];
-  * const s: UrlSegment[] = g.segments; // returns 2 segments 'team' and '33'
-  * g.children[PRIMARY_OUTLET].segments; // returns 2 segments 'user' and 'victor'
-  * g.children['support'].segments; // return 1 segment 'help'
-  * }
-  * }
-  * ```
-  * *
-  * *
-  * Since a router state is a tree, and the URL is nothing but a serialized state, the URL is a
-  * serialized tree.
-  * UrlTree is a data structure that provides a lot of affordances in dealing with URLs
-  * *
+ * \@whatItDoes Represents the parsed URL.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const tree: UrlTree =
+ *       router.parseUrl('/team/33/(user/victor//support:help)?debug=true#fragment');
+ *     const f = tree.fragment; // return 'fragment'
+ *     const q = tree.queryParams; // returns {debug: 'true'}
+ *     const g: UrlSegmentGroup = tree.root.children[PRIMARY_OUTLET];
+ *     const s: UrlSegment[] = g.segments; // returns 2 segments 'team' and '33'
+ *     g.children[PRIMARY_OUTLET].segments; // returns 2 segments 'user' and 'victor'
+ *     g.children['support'].segments; // return 1 segment 'help'
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ *
+ * Since a router state is a tree, and the URL is nothing but a serialized state, the URL is a
+ * serialized tree.
+ * UrlTree is a data structure that provides a lot of affordances in dealing with URLs
+ *
+ * \@stable
  */
 var UrlTree = (function () {
     /**
+     * \@internal
      * @param {?} root
      * @param {?} queryParams
      * @param {?} fragment
@@ -10467,6 +10483,7 @@ var UrlTree = (function () {
         this.fragment = fragment;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     UrlTree.prototype.toString = function () { return new DefaultUrlSerializer().serialize(this); };
@@ -10490,9 +10507,11 @@ function UrlTree_tsickle_Closure_declarations() {
     UrlTree.prototype.fragment;
 }
 /**
- *  *
-  * See {@link UrlTree} for more information.
-  * *
+ * \@whatItDoes Represents the parsed URL segment group.
+ *
+ * See {\@link UrlTree} for more information.
+ *
+ * \@stable
  */
 var UrlSegmentGroup = (function () {
     /**
@@ -10508,13 +10527,13 @@ var UrlSegmentGroup = (function () {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["d" /* forEach */])(children, function (v, k) { return v.parent = _this; });
     }
     /**
-     *  Wether the segment has child segments
+     * Wether the segment has child segments
      * @return {?}
      */
     UrlSegmentGroup.prototype.hasChildren = function () { return this.numberOfChildren > 0; };
     Object.defineProperty(UrlSegmentGroup.prototype, "numberOfChildren", {
         /**
-         *  Number of child segments
+         * Number of child segments
          * @return {?}
          */
         get: function () { return Object.keys(this.children).length; },
@@ -10522,15 +10541,22 @@ var UrlSegmentGroup = (function () {
         configurable: true
     });
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     UrlSegmentGroup.prototype.toString = function () { return serializePaths(this); };
     return UrlSegmentGroup;
 }());
 function UrlSegmentGroup_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     UrlSegmentGroup.prototype._sourceSegment;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     UrlSegmentGroup.prototype._segmentIndexShift;
     /**
      * The parent node in the url tree
@@ -10538,7 +10564,7 @@ function UrlSegmentGroup_tsickle_Closure_declarations() {
      */
     UrlSegmentGroup.prototype.parent;
     /**
-     * The URL segments of this group. See {@link UrlSegment} for more information
+     * The URL segments of this group. See {\@link UrlSegment} for more information
      * @type {?}
      */
     UrlSegmentGroup.prototype.segments;
@@ -10549,24 +10575,29 @@ function UrlSegmentGroup_tsickle_Closure_declarations() {
     UrlSegmentGroup.prototype.children;
 }
 /**
- *  *
-  * *
-  * ```
-  * class MyComponent {
-  * constructor(router: Router) {
-  * const tree: UrlTree = router.parseUrl('/team;id=33');
-  * const g: UrlSegmentGroup = tree.root.children[PRIMARY_OUTLET];
-  * const s: UrlSegment[] = g.segments;
-  * s[0].path; // returns 'team'
-  * s[0].parameters; // returns {id: 33}
-  * }
-  * }
-  * ```
-  * *
-  * *
-  * A UrlSegment is a part of a URL between the two slashes. It contains a path and the matrix
-  * parameters associated with the segment.
-  * *
+ * \@whatItDoes Represents a single URL segment.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const tree: UrlTree = router.parseUrl('/team;id=33');
+ *     const g: UrlSegmentGroup = tree.root.children[PRIMARY_OUTLET];
+ *     const s: UrlSegment[] = g.segments;
+ *     s[0].path; // returns 'team'
+ *     s[0].parameters; // returns {id: 33}
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ *
+ * A UrlSegment is a part of a URL between the two slashes. It contains a path and the matrix
+ * parameters associated with the segment.
+ *
+ * \@stable
  */
 var UrlSegment = (function () {
     /**
@@ -10578,6 +10609,7 @@ var UrlSegment = (function () {
         this.parameters = parameters;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     UrlSegment.prototype.toString = function () { return serializePath(this); };
@@ -10645,25 +10677,28 @@ function mapChildrenIntoArray(segment, fn) {
     return res;
 }
 /**
- *  *
-  * make all URLs case insensitive by providing a custom UrlSerializer.
-  * *
-  * See {@link DefaultUrlSerializer} for an example of a URL serializer.
-  * *
+ * \@whatItDoes Serializes and deserializes a URL string into a URL tree.
+ *
+ * \@description The url serialization strategy is customizable. You can
+ * make all URLs case insensitive by providing a custom UrlSerializer.
+ *
+ * See {\@link DefaultUrlSerializer} for an example of a URL serializer.
+ *
+ * \@stable
  * @abstract
  */
 var UrlSerializer = (function () {
     function UrlSerializer() {
     }
     /**
-     *  Parse a url into a {@link UrlTree}
+     * Parse a url into a {\@link UrlTree}
      * @abstract
      * @param {?} url
      * @return {?}
      */
     UrlSerializer.prototype.parse = function (url) { };
     /**
-     *  Converts a {@link UrlTree} into a url
+     * Converts a {\@link UrlTree} into a url
      * @abstract
      * @param {?} tree
      * @return {?}
@@ -10672,25 +10707,28 @@ var UrlSerializer = (function () {
     return UrlSerializer;
 }());
 /**
- *  *
-  * *
-  * Example URLs:
-  * *
-  * ```
-  * /inbox/33(popup:compose)
-  * /inbox/33;open=true/messages/44
-  * ```
-  * *
-  * DefaultUrlSerializer uses parentheses to serialize secondary segments (e.g., popup:compose), the
-  * colon syntax to specify the outlet, and the ';parameter=value' syntax (e.g., open=true) to
-  * specify route specific parameters.
-  * *
+ * \@whatItDoes A default implementation of the {\@link UrlSerializer}.
+ *
+ * \@description
+ *
+ * Example URLs:
+ *
+ * ```
+ * /inbox/33(popup:compose)
+ * /inbox/33;open=true/messages/44
+ * ```
+ *
+ * DefaultUrlSerializer uses parentheses to serialize secondary segments (e.g., popup:compose), the
+ * colon syntax to specify the outlet, and the ';parameter=value' syntax (e.g., open=true) to
+ * specify route specific parameters.
+ *
+ * \@stable
  */
 var DefaultUrlSerializer = (function () {
     function DefaultUrlSerializer() {
     }
     /**
-     *  Parses a url into a {@link UrlTree}
+     * Parses a url into a {\@link UrlTree}
      * @param {?} url
      * @return {?}
      */
@@ -10699,7 +10737,7 @@ var DefaultUrlSerializer = (function () {
         return new UrlTree(p.parseRootSegment(), p.parseQueryParams(), p.parseFragment());
     };
     /**
-     *  Converts a {@link UrlTree} into a url
+     * Converts a {\@link UrlTree} into a url
      * @param {?} tree
      * @return {?}
      */
@@ -11988,7 +12026,7 @@ var _ParseAST = (function () {
         return (positionals);
     };
     /**
-     *  An identifier, a keyword, a string with an optional `-` inbetween.
+     * An identifier, a keyword, a string with an optional `-` inbetween.
      * @return {?}
      */
     _ParseAST.prototype.expectTemplateBindingKey = function () {
@@ -12676,9 +12714,9 @@ var _TreeBuilder = (function () {
         return this._elementStack.length > 0 ? this._elementStack[this._elementStack.length - 1] : null;
     };
     /**
-     *  Returns the parent in the DOM and the container.
-      * *
-      * `<ng-container>` elements are skipped as they are not rendered as DOM element.
+     * Returns the parent in the DOM and the container.
+     *
+     * `<ng-container>` elements are skipped as they are not rendered as DOM element.
      * @return {?}
      */
     _TreeBuilder.prototype._getParentElementSkippingContainers = function () {
@@ -12705,10 +12743,11 @@ var _TreeBuilder = (function () {
         }
     };
     /**
-     *  Insert a node between the parent and the container.
-      * When no container is given, the node is appended as a child of the parent.
-      * Also updates the element stack accordingly.
-      * *
+     * Insert a node between the parent and the container.
+     * When no container is given, the node is appended as a child of the parent.
+     * Also updates the element stack accordingly.
+     *
+     * \@internal
      * @param {?} parent
      * @param {?} container
      * @param {?} node
@@ -12979,85 +13018,86 @@ function applyParams(fnOrArray, key) {
     throw new Error("Only Function or Array is supported in Class definition for key '" + key + "' is '" + __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["c" /* stringify */])(fnOrArray) + "'");
 }
 /**
- *  Provides a way for expressing ES6 classes with parameter annotations in ES5.
-  * *
-  * ## Basic Example
-  * *
-  * ```
-  * var Greeter = ng.Class({
-  * constructor: function(name) {
-  * this.name = name;
-  * },
-  * *
-  * greet: function() {
-  * alert('Hello ' + this.name + '!');
-  * }
-  * });
-  * ```
-  * *
-  * is equivalent to ES6:
-  * *
-  * ```
-  * class Greeter {
-  * constructor(name) {
-  * this.name = name;
-  * }
-  * *
-  * greet() {
-  * alert('Hello ' + this.name + '!');
-  * }
-  * }
-  * ```
-  * *
-  * or equivalent to ES5:
-  * *
-  * ```
-  * var Greeter = function (name) {
-  * this.name = name;
-  * }
-  * *
-  * Greeter.prototype.greet = function () {
-  * alert('Hello ' + this.name + '!');
-  * }
-  * ```
-  * *
-  * ### Example with parameter annotations
-  * *
-  * ```
-  * var MyService = ng.Class({
-  * constructor: [String, [new Optional(), Service], function(name, myService) {
-  * ...
-  * }]
-  * });
-  * ```
-  * *
-  * is equivalent to ES6:
-  * *
-  * ```
-  * class MyService {
-  * constructor(name: string, @Optional() myService: Service) {
-  * ...
-  * }
-  * }
-  * ```
-  * *
-  * ### Example with inheritance
-  * *
-  * ```
-  * var Shape = ng.Class({
-  * constructor: (color) {
-  * this.color = color;
-  * }
-  * });
-  * *
-  * var Square = ng.Class({
-  * extends: Shape,
-  * constructor: function(color, size) {
-  * Shape.call(this, color);
-  * this.size = size;
-  * }
-  * });
-  * ```
+ * Provides a way for expressing ES6 classes with parameter annotations in ES5.
+ *
+ * ## Basic Example
+ *
+ * ```
+ * var Greeter = ng.Class({
+ *   constructor: function(name) {
+ *     this.name = name;
+ *   },
+ *
+ *   greet: function() {
+ *     alert('Hello ' + this.name + '!');
+ *   }
+ * });
+ * ```
+ *
+ * is equivalent to ES6:
+ *
+ * ```
+ * class Greeter {
+ *   constructor(name) {
+ *     this.name = name;
+ *   }
+ *
+ *   greet() {
+ *     alert('Hello ' + this.name + '!');
+ *   }
+ * }
+ * ```
+ *
+ * or equivalent to ES5:
+ *
+ * ```
+ * var Greeter = function (name) {
+ *   this.name = name;
+ * }
+ *
+ * Greeter.prototype.greet = function () {
+ *   alert('Hello ' + this.name + '!');
+ * }
+ * ```
+ *
+ * ### Example with parameter annotations
+ *
+ * ```
+ * var MyService = ng.Class({
+ *   constructor: [String, [new Optional(), Service], function(name, myService) {
+ *     ...
+ *   }]
+ * });
+ * ```
+ *
+ * is equivalent to ES6:
+ *
+ * ```
+ * class MyService {
+ *   constructor(name: string, \@Optional() myService: Service) {
+ *     ...
+ *   }
+ * }
+ * ```
+ *
+ * ### Example with inheritance
+ *
+ * ```
+ * var Shape = ng.Class({
+ *   constructor: (color) {
+ *     this.color = color;
+ *   }
+ * });
+ *
+ * var Square = ng.Class({
+ *   extends: Shape,
+ *   constructor: function(color, size) {
+ *     Shape.call(this, color);
+ *     this.size = size;
+ *   }
+ * });
+ * ```
+ * \@stable
  * @param {?} clsDef
  * @return {?}
  */
@@ -13269,9 +13309,9 @@ function makePropDecorator(name, props, parentClass) {
 /**
  * @stable
  */
-var /** @type {?} */ EVENT_MANAGER_PLUGINS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('EventManagerPlugins');
+var /** @type {?} */ EVENT_MANAGER_PLUGINS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('EventManagerPlugins');
 /**
- * @stable
+ * \@stable
  */
 var EventManager = (function () {
     /**
@@ -13310,6 +13350,7 @@ var EventManager = (function () {
      */
     EventManager.prototype.getZone = function () { return this._zone; };
     /**
+     * \@internal
      * @param {?} eventName
      * @return {?}
      */
@@ -13433,30 +13474,36 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  *
-  * *
-  * ```
-  * class MyComponent {
-  * constructor(router: Router) {
-  * const state: RouterState = router.routerState;
-  * const root: ActivatedRoute = state.root;
-  * const child = root.firstChild;
-  * const id: Observable<string> = child.params.map(p => p.id);
-  * //...
-  * }
-  * }
-  * ```
-  * *
-  * RouterState is a tree of activated routes. Every node in this tree knows about the "consumed" URL
-  * segments,
-  * the extracted parameters, and the resolved data.
-  * *
-  * See {@link ActivatedRoute} for more information.
-  * *
+ * \@whatItDoes Represents the state of the router.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const state: RouterState = router.routerState;
+ *     const root: ActivatedRoute = state.root;
+ *     const child = root.firstChild;
+ *     const id: Observable<string> = child.params.map(p => p.id);
+ *     //...
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ * RouterState is a tree of activated routes. Every node in this tree knows about the "consumed" URL
+ * segments,
+ * the extracted parameters, and the resolved data.
+ *
+ * See {\@link ActivatedRoute} for more information.
+ *
+ * \@stable
  */
 var RouterState = (function (_super) {
     __extends(RouterState, _super);
     /**
+     * \@internal
      * @param {?} root
      * @param {?} snapshot
      */
@@ -13508,24 +13555,29 @@ function createEmptyStateSnapshot(urlTree, rootComponent) {
     return new RouterStateSnapshot('', new __WEBPACK_IMPORTED_MODULE_4__utils_tree__["b" /* TreeNode */](activated, []));
 }
 /**
- *  outlet.
-  * An `ActivatedRoute` can also be used to traverse the router state tree.
-  * *
-  * *
-  * ```
-  * class MyComponent {
-  * constructor(route: ActivatedRoute) {
-  * const id: Observable<string> = route.params.map(p => p.id);
-  * const url: Observable<string> = route.url.map(segments => segments.join(''));
-  * // route.data includes both `data` and `resolve`
-  * const user = route.data.map(d => d.user);
-  * }
-  * }
-  * ```
-  * *
+ * \@whatItDoes Contains the information about a route associated with a component loaded in an
+ * outlet.
+ * An `ActivatedRoute` can also be used to traverse the router state tree.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({...})
+ * class MyComponent {
+ *   constructor(route: ActivatedRoute) {
+ *     const id: Observable<string> = route.params.map(p => p.id);
+ *     const url: Observable<string> = route.url.map(segments => segments.join(''));
+ *     // route.data includes both `data` and `resolve`
+ *     const user = route.data.map(d => d.user);
+ *   }
+ * }
+ * ```
+ *
+ * \@stable
  */
 var ActivatedRoute = (function () {
     /**
+     * \@internal
      * @param {?} url
      * @param {?} params
      * @param {?} queryParams
@@ -13547,7 +13599,7 @@ var ActivatedRoute = (function () {
     }
     Object.defineProperty(ActivatedRoute.prototype, "routeConfig", {
         /**
-         *  The configuration used to match this route
+         * The configuration used to match this route
          * @return {?}
          */
         get: function () { return this._futureSnapshot.routeConfig; },
@@ -13556,7 +13608,7 @@ var ActivatedRoute = (function () {
     });
     Object.defineProperty(ActivatedRoute.prototype, "root", {
         /**
-         *  The root of the router state
+         * The root of the router state
          * @return {?}
          */
         get: function () { return this._routerState.root; },
@@ -13565,7 +13617,7 @@ var ActivatedRoute = (function () {
     });
     Object.defineProperty(ActivatedRoute.prototype, "parent", {
         /**
-         *  The parent of this route in the router state tree
+         * The parent of this route in the router state tree
          * @return {?}
          */
         get: function () { return this._routerState.parent(this); },
@@ -13574,7 +13626,7 @@ var ActivatedRoute = (function () {
     });
     Object.defineProperty(ActivatedRoute.prototype, "firstChild", {
         /**
-         *  The first child of this route in the router state tree
+         * The first child of this route in the router state tree
          * @return {?}
          */
         get: function () { return this._routerState.firstChild(this); },
@@ -13583,7 +13635,7 @@ var ActivatedRoute = (function () {
     });
     Object.defineProperty(ActivatedRoute.prototype, "children", {
         /**
-         *  The children of this route in the router state tree
+         * The children of this route in the router state tree
          * @return {?}
          */
         get: function () { return this._routerState.children(this); },
@@ -13592,7 +13644,7 @@ var ActivatedRoute = (function () {
     });
     Object.defineProperty(ActivatedRoute.prototype, "pathFromRoot", {
         /**
-         *  The path from the root of the router state tree to this route
+         * The path from the root of the router state tree to this route
          * @return {?}
          */
         get: function () { return this._routerState.pathFromRoot(this); },
@@ -13613,9 +13665,15 @@ function ActivatedRoute_tsickle_Closure_declarations() {
      * @type {?}
      */
     ActivatedRoute.prototype.snapshot;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ActivatedRoute.prototype._futureSnapshot;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ActivatedRoute.prototype._routerState;
     /**
      * An observable of the URL segments matched by this route
@@ -13651,6 +13709,7 @@ function ActivatedRoute_tsickle_Closure_declarations() {
     ActivatedRoute.prototype.component;
 }
 /**
+ * \@internal
  * @param {?} route
  * @return {?}
  */
@@ -13679,24 +13738,29 @@ function inheritedParamsDataResolve(route) {
     }, /** @type {?} */ ({ params: {}, data: {}, resolve: {} }));
 }
 /**
- *  outlet
-  * at a particular moment in time. ActivatedRouteSnapshot can also be used to traverse the router
-  * state tree.
-  * *
-  * *
-  * ```
-  * class MyComponent {
-  * constructor(route: ActivatedRoute) {
-  * const id: string = route.snapshot.params.id;
-  * const url: string = route.snapshot.url.join('');
-  * const user = route.snapshot.data.user;
-  * }
-  * }
-  * ```
-  * *
+ * \@whatItDoes Contains the information about a route associated with a component loaded in an
+ * outlet
+ * at a particular moment in time. ActivatedRouteSnapshot can also be used to traverse the router
+ * state tree.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'./my-component.html'})
+ * class MyComponent {
+ *   constructor(route: ActivatedRoute) {
+ *     const id: string = route.snapshot.params.id;
+ *     const url: string = route.snapshot.url.join('');
+ *     const user = route.snapshot.data.user;
+ *   }
+ * }
+ * ```
+ *
+ * \@stable
  */
 var ActivatedRouteSnapshot = (function () {
     /**
+     * \@internal
      * @param {?} url
      * @param {?} params
      * @param {?} queryParams
@@ -13724,7 +13788,7 @@ var ActivatedRouteSnapshot = (function () {
     }
     Object.defineProperty(ActivatedRouteSnapshot.prototype, "routeConfig", {
         /**
-         *  The configuration used to match this route
+         * The configuration used to match this route
          * @return {?}
          */
         get: function () { return this._routeConfig; },
@@ -13733,7 +13797,7 @@ var ActivatedRouteSnapshot = (function () {
     });
     Object.defineProperty(ActivatedRouteSnapshot.prototype, "root", {
         /**
-         *  The root of the router state
+         * The root of the router state
          * @return {?}
          */
         get: function () { return this._routerState.root; },
@@ -13742,7 +13806,7 @@ var ActivatedRouteSnapshot = (function () {
     });
     Object.defineProperty(ActivatedRouteSnapshot.prototype, "parent", {
         /**
-         *  The parent of this route in the router state tree
+         * The parent of this route in the router state tree
          * @return {?}
          */
         get: function () { return this._routerState.parent(this); },
@@ -13751,7 +13815,7 @@ var ActivatedRouteSnapshot = (function () {
     });
     Object.defineProperty(ActivatedRouteSnapshot.prototype, "firstChild", {
         /**
-         *  The first child of this route in the router state tree
+         * The first child of this route in the router state tree
          * @return {?}
          */
         get: function () { return this._routerState.firstChild(this); },
@@ -13760,7 +13824,7 @@ var ActivatedRouteSnapshot = (function () {
     });
     Object.defineProperty(ActivatedRouteSnapshot.prototype, "children", {
         /**
-         *  The children of this route in the router state tree
+         * The children of this route in the router state tree
          * @return {?}
          */
         get: function () { return this._routerState.children(this); },
@@ -13769,7 +13833,7 @@ var ActivatedRouteSnapshot = (function () {
     });
     Object.defineProperty(ActivatedRouteSnapshot.prototype, "pathFromRoot", {
         /**
-         *  The path from the root of the router state tree to this route
+         * The path from the root of the router state tree to this route
          * @return {?}
          */
         get: function () { return this._routerState.pathFromRoot(this); },
@@ -13787,17 +13851,35 @@ var ActivatedRouteSnapshot = (function () {
     return ActivatedRouteSnapshot;
 }());
 function ActivatedRouteSnapshot_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal *
+     * @type {?}
+     */
     ActivatedRouteSnapshot.prototype._routeConfig;
-    /** @type {?} */
+    /**
+     * \@internal *
+     * @type {?}
+     */
     ActivatedRouteSnapshot.prototype._urlSegment;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ActivatedRouteSnapshot.prototype._lastPathIndex;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ActivatedRouteSnapshot.prototype._resolve;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ActivatedRouteSnapshot.prototype._resolvedData;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ActivatedRouteSnapshot.prototype._routerState;
     /**
      * The URL segments matched by this route
@@ -13836,28 +13918,34 @@ function ActivatedRouteSnapshot_tsickle_Closure_declarations() {
     ActivatedRouteSnapshot.prototype.component;
 }
 /**
- *  *
-  * *
-  * ```
-  * class MyComponent {
-  * constructor(router: Router) {
-  * const state: RouterState = router.routerState;
-  * const snapshot: RouterStateSnapshot = state.snapshot;
-  * const root: ActivatedRouteSnapshot = snapshot.root;
-  * const child = root.firstChild;
-  * const id: Observable<string> = child.params.map(p => p.id);
-  * //...
-  * }
-  * }
-  * ```
-  * *
-  * RouterStateSnapshot is a tree of activated route snapshots. Every node in this tree knows about
-  * the "consumed" URL segments, the extracted parameters, and the resolved data.
-  * *
+ * \@whatItDoes Represents the state of the router at a moment in time.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const state: RouterState = router.routerState;
+ *     const snapshot: RouterStateSnapshot = state.snapshot;
+ *     const root: ActivatedRouteSnapshot = snapshot.root;
+ *     const child = root.firstChild;
+ *     const id: Observable<string> = child.params.map(p => p.id);
+ *     //...
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ * RouterStateSnapshot is a tree of activated route snapshots. Every node in this tree knows about
+ * the "consumed" URL segments, the extracted parameters, and the resolved data.
+ *
+ * \@stable
  */
 var RouterStateSnapshot = (function (_super) {
     __extends(RouterStateSnapshot, _super);
     /**
+     * \@internal
      * @param {?} url
      * @param {?} root
      */
@@ -13897,9 +13985,9 @@ function serializeNode(node) {
     return "" + node.value + c;
 }
 /**
- *  The expectation is that the activate route is created with the right set of parameters.
-  * So we push new values into the observables only when they are not the initial values.
-  * And we detect that by checking if the snapshot field is set.
+ * The expectation is that the activate route is created with the right set of parameters.
+ * So we push new values into the observables only when they are not the initial values.
+ * And we detect that by checking if the snapshot field is set.
  * @param {?} route
  * @return {?}
  */
@@ -14109,8 +14197,8 @@ function ConvertPropertyBindingResult_tsickle_Closure_declarations() {
     ConvertPropertyBindingResult.prototype.forceUpdate;
 }
 /**
- *  Converts the given expression AST into an executable output AST, assuming the expression is
-  * used in a property binding.
+ * Converts the given expression AST into an executable output AST, assuming the expression is
+ * used in a property binding.
  * @param {?} builder
  * @param {?} nameResolver
  * @param {?} implicitReceiver
@@ -14165,8 +14253,8 @@ function ConvertActionBindingResult_tsickle_Closure_declarations() {
     ConvertActionBindingResult.prototype.preventDefault;
 }
 /**
- *  Converts the given expression AST into an executable output AST, assuming the expression is
-  * used in an action binding (e.g. an event handler).
+ * Converts the given expression AST into an executable output AST, assuming the expression is
+ * used in an action binding (e.g. an event handler).
  * @param {?} builder
  * @param {?} nameResolver
  * @param {?} implicitReceiver
@@ -14199,8 +14287,8 @@ function convertActionBinding(builder, nameResolver, implicitReceiver, action, b
     return new ConvertActionBindingResult(actionStmts, preventDefaultVar);
 }
 /**
- *  Creates variables that are shared by multiple calls to `convertActionBinding` /
-  * `convertPropertyBinding`
+ * Creates variables that are shared by multiple calls to `convertActionBinding` /
+ * `convertPropertyBinding`
  * @param {?} stmts
  * @return {?}
  */
@@ -15422,13 +15510,6 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
-/*
- * Resolve a `Type` for {@link Directive}.
- *
- * This interface can be overridden by the application developer to create custom behavior.
- *
- * See {@link Compiler}
- */
 var DirectiveResolver = (function () {
     /**
      * @param {?=} _reflector
@@ -15446,7 +15527,7 @@ var DirectiveResolver = (function () {
         return typeMetadata && typeMetadata.some(isDirectiveMetadata);
     };
     /**
-     *  Return {@link Directive} for a given `Type`.
+     * Return {\@link Directive} for a given `Type`.
      * @param {?} type
      * @param {?=} throwIfNotFound
      * @return {?}
@@ -15959,8 +16040,8 @@ var _Scanner = (function () {
         return newOperatorToken(start, str);
     };
     /**
-     *  Tokenize a 2/3 char long operator
-      * *
+     * Tokenize a 2/3 char long operator
+     *
      * @param {?} start start index in the expression
      * @param {?} one first symbol (always part of the operator)
      * @param {?} twoCode code point for the second symbol
@@ -16233,14 +16314,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
-var /** @type {?} */ ERROR_COLLECTOR_TOKEN = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('ErrorCollector');
-// Design notes:
-// - don't lazily create metadata:
-//   For some metadata, we need to do async work sometimes,
-//   so the user has to kick off this loading.
-//   But we want to report errors even when the async work is
-//   not required to check that the user would have been able
-//   to wait correctly.
+var /** @type {?} */ ERROR_COLLECTOR_TOKEN = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('ErrorCollector');
 var CompileMetadataResolver = (function () {
     /**
      * @param {?} _ngModuleResolver
@@ -16622,8 +16696,8 @@ var CompileMetadataResolver = (function () {
         return cacheEntry;
     };
     /**
-     *  Gets the metadata for the given directive.
-      * This assumes `loadNgModuleMetadata` has been called first.
+     * Gets the metadata for the given directive.
+     * This assumes `loadNgModuleMetadata` has been called first.
      * @param {?} directiveType
      * @return {?}
      */
@@ -16671,7 +16745,7 @@ var CompileMetadataResolver = (function () {
         return moduleSummary;
     };
     /**
-     *  Loads the declared directives and pipes of an NgModule.
+     * Loads the declared directives and pipes of an NgModule.
      * @param {?} moduleType
      * @param {?} isSync
      * @param {?=} throwIfNotFound
@@ -16982,8 +17056,8 @@ var CompileMetadataResolver = (function () {
         return { reference: factory, diDeps: this._getDependenciesMetadata(factory, dependencies) };
     };
     /**
-     *  Gets the metadata for the given pipe.
-      * This assumes `loadNgModuleMetadata` has been called first.
+     * Gets the metadata for the given pipe.
+     * This assumes `loadNgModuleMetadata` has been called first.
      * @param {?} pipeType
      * @return {?}
      */
@@ -17509,7 +17583,7 @@ function _isNgModuleMetadata(obj) {
     return obj instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"];
 }
 /**
- *  Resolves types to {@link NgModule}.
+ * Resolves types to {\@link NgModule}.
  */
 var NgModuleResolver = (function () {
     /**
@@ -17594,11 +17668,11 @@ function _isPipeMetadata(type) {
     return type instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["Pipe"];
 }
 /**
- *  Resolve a `Type` for {@link Pipe}.
-  * *
-  * This interface can be overridden by the application developer to create custom behavior.
-  * *
-  * See {@link Compiler}
+ * Resolve a `Type` for {\@link Pipe}.
+ *
+ * This interface can be overridden by the application developer to create custom behavior.
+ *
+ * See {\@link Compiler}
  */
 var PipeResolver = (function () {
     /**
@@ -17617,7 +17691,7 @@ var PipeResolver = (function () {
         return typeMetadata && typeMetadata.some(_isPipeMetadata);
     };
     /**
-     *  Return {@link Pipe} for a given `Type`.
+     * Return {\@link Pipe} for a given `Type`.
      * @param {?} type
      * @param {?=} throwIfNotFound
      * @return {?}
@@ -17758,7 +17832,7 @@ var /** @type {?} */ TEXT_CSS_SELECTOR = __WEBPACK_IMPORTED_MODULE_16__selector_
  *
  * This is currently an internal-only feature and not meant for general use.
  */
-var /** @type {?} */ TEMPLATE_TRANSFORMS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('TemplateTransforms');
+var /** @type {?} */ TEMPLATE_TRANSFORMS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('TemplateTransforms');
 var TemplateParseError = (function (_super) {
     __extends(TemplateParseError, _super);
     /**
@@ -17904,6 +17978,7 @@ var TemplateParser = (function () {
         }
     };
     /**
+     * \@internal
      * @param {?} result
      * @param {?} errors
      * @return {?}
@@ -18411,11 +18486,11 @@ var TemplateParseVisitor = (function () {
         }
     };
     /**
-     *  Make sure that non-angular tags conform to the schemas.
-      * *
-      * Note: An element is considered an angular tag when at least one directive selector matches the
-      * tag name.
-      * *
+     * Make sure that non-angular tags conform to the schemas.
+     *
+     * Note: An element is considered an angular tag when at least one directive selector matches the
+     * tag name.
+     *
      * @param {?} matchElement Whether any directive has matched on the tag name
      * @param {?} element the html element
      * @return {?}
@@ -18749,31 +18824,30 @@ var _NullInjector = (function () {
     return _NullInjector;
 }());
 /**
- *  ```
-  * const injector: Injector = ...;
-  * injector.get(...);
-  * ```
-  * *
-  * For more details, see the {@linkDocs guide/dependency-injection "Dependency Injection Guide"}.
-  * *
-  * ### Example
-  * *
-  * {@example core/di/ts/injector_spec.ts region='Injector'}
-  * *
-  * `Injector` returns itself when given `Injector` as a token:
-  * {@example core/di/ts/injector_spec.ts region='injectInjector'}
-  * *
+ * \@whatItDoes Injector interface
+ * \@howToUse
+ * ```
+ * const injector: Injector = ...;
+ * injector.get(...);
+ * ```
+ *
+ * \@description
+ * For more details, see the {\@linkDocs guide/dependency-injection "Dependency Injection Guide"}.
+ *
+ * ### Example
+ *
+ * {\@example core/di/ts/injector_spec.ts region='Injector'}
+ *
+ * `Injector` returns itself when given `Injector` as a token:
+ * {\@example core/di/ts/injector_spec.ts region='injectInjector'}
+ *
+ * \@stable
  * @abstract
  */
 var Injector = (function () {
     function Injector() {
     }
     /**
-     *  Retrieves an instance from the injector based on the provided token.
-      * If not found:
-      * - Throws {@link NoProviderError} if no `notFoundValue` that is not equal to
-      * Injector.THROW_IF_NOT_FOUND is given
-      * - Returns the `notFoundValue` otherwise
      * @param {?} token
      * @param {?=} notFoundValue
      * @return {?}
@@ -18875,7 +18949,7 @@ var /** @type {?} */ Host = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__u
  */
 
 /**
- *  Wraps Javascript Objects
+ * Wraps Javascript Objects
  */
 var StringMapWrapper = (function () {
     function StringMapWrapper() {
@@ -19067,8 +19141,9 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Indicates that a component is still being loaded in a synchronous compile.
-  * *
+ * Indicates that a component is still being loaded in a synchronous compile.
+ *
+ * \@stable
  */
 var ComponentStillLoadingError = (function (_super) {
     __extends(ComponentStillLoadingError, _super);
@@ -19086,8 +19161,9 @@ function ComponentStillLoadingError_tsickle_Closure_declarations() {
     ComponentStillLoadingError.prototype.compType;
 }
 /**
- *  Combination of NgModuleFactory and ComponentFactorys.
-  * *
+ * Combination of NgModuleFactory and ComponentFactorys.
+ *
+ * \@experimental
  */
 var ModuleWithComponentFactories = (function () {
     /**
@@ -19113,33 +19189,34 @@ function _throwError() {
     throw new Error("Runtime compiler is not loaded");
 }
 /**
- *  Low-level service for running the angular compiler during runtime
-  * to create {@link ComponentFactory}s, which
-  * can later be used to create and render a Component instance.
-  * *
-  * Each `@NgModule` provides an own `Compiler` to its injector,
-  * that will use the directives/pipes of the ng module for compilation
-  * of components.
+ * Low-level service for running the angular compiler during runtime
+ * to create {\@link ComponentFactory}s, which
+ * can later be used to create and render a Component instance.
+ *
+ * Each `\@NgModule` provides an own `Compiler` to its injector,
+ * that will use the directives/pipes of the ng module for compilation
+ * of components.
+ * \@stable
  */
 var Compiler = (function () {
     function Compiler() {
     }
     /**
-     *  Compiles the given NgModule and all of its components. All templates of the components listed
-      * in `entryComponents`
-      * have to be inlined. Otherwise throws a {@link ComponentStillLoadingError}.
+     * Compiles the given NgModule and all of its components. All templates of the components listed
+     * in `entryComponents`
+     * have to be inlined. Otherwise throws a {\@link ComponentStillLoadingError}.
      * @param {?} moduleType
      * @return {?}
      */
     Compiler.prototype.compileModuleSync = function (moduleType) { throw _throwError(); };
     /**
-     *  Compiles the given NgModule and all of its components
+     * Compiles the given NgModule and all of its components
      * @param {?} moduleType
      * @return {?}
      */
     Compiler.prototype.compileModuleAsync = function (moduleType) { throw _throwError(); };
     /**
-     *  Same as {@link compileModuleSync} but also creates ComponentFactories for all components.
+     * Same as {\@link compileModuleSync} but also creates ComponentFactories for all components.
      * @param {?} moduleType
      * @return {?}
      */
@@ -19147,7 +19224,7 @@ var Compiler = (function () {
         throw _throwError();
     };
     /**
-     *  Same as {@link compileModuleAsync} but also creates ComponentFactories for all components.
+     * Same as {\@link compileModuleAsync} but also creates ComponentFactories for all components.
      * @param {?} moduleType
      * @return {?}
      */
@@ -19155,21 +19232,21 @@ var Compiler = (function () {
         throw _throwError();
     };
     /**
-     *  Exposes the CSS-style selectors that have been used in `ngContent` directives within
-      * the template of the given component.
-      * This is used by the `upgrade` library to compile the appropriate transclude content
-      * in the Angular 1 wrapper component.
+     * Exposes the CSS-style selectors that have been used in `ngContent` directives within
+     * the template of the given component.
+     * This is used by the `upgrade` library to compile the appropriate transclude content
+     * in the Angular 1 wrapper component.
      * @param {?} component
      * @return {?}
      */
     Compiler.prototype.getNgContentSelectors = function (component) { throw _throwError(); };
     /**
-     *  Clears all caches.
+     * Clears all caches.
      * @return {?}
      */
     Compiler.prototype.clearCache = function () { };
     /**
-     *  Clears the cache for the given component/ngModule.
+     * Clears the cache for the given component/ngModule.
      * @param {?} type
      * @return {?}
      */
@@ -19195,10 +19272,11 @@ function Compiler_tsickle_Closure_declarations() {
  *
  * @experimental
  */
-var /** @type {?} */ COMPILER_OPTIONS = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* OpaqueToken */]('compilerOptions');
+var /** @type {?} */ COMPILER_OPTIONS = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* InjectionToken */]('compilerOptions');
 /**
- *  A factory for creating a Compiler
-  * *
+ * A factory for creating a Compiler
+ *
+ * \@experimental
  * @abstract
  */
 var CompilerFactory = (function () {
@@ -19220,28 +19298,6 @@ var CompilerFactory = (function () {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return ElementRef; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-/**
- * A wrapper around a native element inside of a View.
- *
- * An `ElementRef` is backed by a render-specific element. In the browser, this is usually a DOM
- * element.
- *
- * @security Permitting direct access to the DOM can make your application more vulnerable to
- * XSS attacks. Carefully review any use of `ElementRef` in your code. For more detail, see the
- * [Security Guide](http://g.co/ng/security).
- *
- * @stable
- */
-// Note: We don't expose things like `Injector`, `ViewContainer`, ... here,
-// i.e. users have to ask for what they need. With that, we can build better analysis tools
-// and could do better codegen in the future.
 var ElementRef = (function () {
     /**
      * @param {?} nativeElement
@@ -19255,21 +19311,22 @@ function ElementRef_tsickle_Closure_declarations() {
     /**
      * The underlying native element or `null` if direct access to native elements is not supported
      * (e.g. when the application runs in a web worker).
-     * *
+     *
      * <div class="callout is-critical">
-     * <header>Use with caution</header>
-     * <p>
-     * Use this API as the last resort when direct access to DOM is needed. Use templating and
-     * data-binding provided by Angular instead. Alternatively you take a look at {@link Renderer}
-     * which provides API that can safely be used even when direct access to native elements is not
-     * supported.
-     * </p>
-     * <p>
-     * Relying on direct DOM access creates tight coupling between your application and rendering
-     * layers which will make it impossible to separate the two and deploy your application into a
-     * web worker.
-     * </p>
+     *   <header>Use with caution</header>
+     *   <p>
+     *    Use this API as the last resort when direct access to DOM is needed. Use templating and
+     *    data-binding provided by Angular instead. Alternatively you take a look at {\@link Renderer}
+     *    which provides API that can safely be used even when direct access to native elements is not
+     *    supported.
+     *   </p>
+     *   <p>
+     *    Relying on direct DOM access creates tight coupling between your application and rendering
+     *    layers which will make it impossible to separate the two and deploy your application into a
+     *    web worker.
+     *   </p>
      * </div>
+     * \@stable
      * @type {?}
      */
     ElementRef.prototype.nativeElement;
@@ -19283,31 +19340,32 @@ function ElementRef_tsickle_Closure_declarations() {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return Headers; });
 /**
- *  Polyfill for [Headers](https://developer.mozilla.org/en-US/docs/Web/API/Headers/Headers), as
-  * specified in the [Fetch Spec](https://fetch.spec.whatwg.org/#headers-class).
-  * *
-  * The only known difference between this `Headers` implementation and the spec is the
-  * lack of an `entries` method.
-  * *
-  * ### Example
-  * *
-  * ```
-  * import {Headers} from '@angular/http';
-  * *
-  * var firstHeaders = new Headers();
-  * firstHeaders.append('Content-Type', 'image/jpeg');
-  * console.log(firstHeaders.get('Content-Type')) //'image/jpeg'
-  * *
-  * // Create headers from Plain Old JavaScript Object
-  * var secondHeaders = new Headers({
-  * 'X-My-Custom-Header': 'Angular'
-  * });
-  * console.log(secondHeaders.get('X-My-Custom-Header')); //'Angular'
-  * *
-  * var thirdHeaders = new Headers(secondHeaders);
-  * console.log(thirdHeaders.get('X-My-Custom-Header')); //'Angular'
-  * ```
-  * *
+ * Polyfill for [Headers](https://developer.mozilla.org/en-US/docs/Web/API/Headers/Headers), as
+ * specified in the [Fetch Spec](https://fetch.spec.whatwg.org/#headers-class).
+ *
+ * The only known difference between this `Headers` implementation and the spec is the
+ * lack of an `entries` method.
+ *
+ * ### Example
+ *
+ * ```
+ * import {Headers} from '\@angular/http';
+ *
+ * var firstHeaders = new Headers();
+ * firstHeaders.append('Content-Type', 'image/jpeg');
+ * console.log(firstHeaders.get('Content-Type')) //'image/jpeg'
+ *
+ * // Create headers from Plain Old JavaScript Object
+ * var secondHeaders = new Headers({
+ *   'X-My-Custom-Header': 'Angular'
+ * });
+ * console.log(secondHeaders.get('X-My-Custom-Header')); //'Angular'
+ *
+ * var thirdHeaders = new Headers(secondHeaders);
+ * console.log(thirdHeaders.get('X-My-Custom-Header')); //'Angular'
+ * ```
+ *
+ * \@experimental
  */
 var Headers = (function () {
     /**
@@ -19335,7 +19393,7 @@ var Headers = (function () {
         });
     }
     /**
-     *  Returns a new Headers instance from the given DOMString of Response Headers
+     * Returns a new Headers instance from the given DOMString of Response Headers
      * @param {?} headersString
      * @return {?}
      */
@@ -19352,7 +19410,7 @@ var Headers = (function () {
         return headers;
     };
     /**
-     *  Appends a header to existing list of header values for a given header name.
+     * Appends a header to existing list of header values for a given header name.
      * @param {?} name
      * @param {?} value
      * @return {?}
@@ -19367,7 +19425,7 @@ var Headers = (function () {
         }
     };
     /**
-     *  Deletes all header values for the given name.
+     * Deletes all header values for the given name.
      * @param {?} name
      * @return {?}
      */
@@ -19385,7 +19443,7 @@ var Headers = (function () {
         this._headers.forEach(function (values, lcName) { return fn(values, _this._normalizedNames.get(lcName), _this._headers); });
     };
     /**
-     *  Returns first header that matches given name.
+     * Returns first header that matches given name.
      * @param {?} name
      * @return {?}
      */
@@ -19397,18 +19455,18 @@ var Headers = (function () {
         return values.length > 0 ? values[0] : null;
     };
     /**
-     *  Checks for existence of header by given name.
+     * Checks for existence of header by given name.
      * @param {?} name
      * @return {?}
      */
     Headers.prototype.has = function (name) { return this._headers.has(name.toLowerCase()); };
     /**
-     *  Returns the names of the headers
+     * Returns the names of the headers
      * @return {?}
      */
     Headers.prototype.keys = function () { return Array.from(this._normalizedNames.values()); };
     /**
-     *  Sets or overrides header value for given name.
+     * Sets or overrides header value for given name.
      * @param {?} name
      * @param {?} value
      * @return {?}
@@ -19425,7 +19483,7 @@ var Headers = (function () {
         this.mayBeSetNormalizedName(name);
     };
     /**
-     *  Returns values of all headers.
+     * Returns values of all headers.
      * @return {?}
      */
     Headers.prototype.values = function () { return Array.from(this._headers.values()); };
@@ -19443,7 +19501,7 @@ var Headers = (function () {
         return serialized;
     };
     /**
-     *  Returns list of header values for a given name.
+     * Returns list of header values for a given name.
      * @param {?} name
      * @return {?}
      */
@@ -19451,7 +19509,7 @@ var Headers = (function () {
         return this.has(name) ? this._headers.get(name.toLowerCase()) : null;
     };
     /**
-     *  This method is not implemented.
+     * This method is not implemented.
      * @return {?}
      */
     Headers.prototype.entries = function () { throw new Error('"entries" method is not implemented on Headers class'); };
@@ -19468,9 +19526,15 @@ var Headers = (function () {
     return Headers;
 }());
 function Headers_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal header names are lower case
+     * @type {?}
+     */
     Headers.prototype._headers;
-    /** @type {?} */
+    /**
+     * \@internal map lower case names to actual names
+     * @type {?}
+     */
     Headers.prototype._normalizedNames;
 }
 //# sourceMappingURL=headers.js.map
@@ -19491,11 +19555,12 @@ function Headers_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  Abstract class from which real backends are derived.
-  * *
-  * The primary purpose of a `ConnectionBackend` is to create new connections to fulfill a given
-  * {@link Request}.
-  * *
+ * Abstract class from which real backends are derived.
+ *
+ * The primary purpose of a `ConnectionBackend` is to create new connections to fulfill a given
+ * {\@link Request}.
+ *
+ * \@experimental
  * @abstract
  */
 var ConnectionBackend = (function () {
@@ -19510,8 +19575,9 @@ var ConnectionBackend = (function () {
     return ConnectionBackend;
 }());
 /**
- *  Abstract class from which real connections are derived.
-  * *
+ * Abstract class from which real connections are derived.
+ *
+ * \@experimental
  * @abstract
  */
 var Connection = (function () {
@@ -19528,8 +19594,9 @@ function Connection_tsickle_Closure_declarations() {
     Connection.prototype.response;
 }
 /**
- *  An XSRFStrategy configures XSRF protection (e.g. via headers) on an HTTP request.
-  * *
+ * An XSRFStrategy configures XSRF protection (e.g. via headers) on an HTTP request.
+ *
+ * \@experimental
  * @abstract
  */
 var XSRFStrategy = (function () {
@@ -19622,7 +19689,9 @@ var XSRFStrategy = (function () {
 
 
 /**
- *  *
+ * \@whatItDoes Represents an event triggered when a navigation starts.
+ *
+ * \@stable
  */
 var NavigationStart = (function () {
     /**
@@ -19634,19 +19703,28 @@ var NavigationStart = (function () {
         this.url = url;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     NavigationStart.prototype.toString = function () { return "NavigationStart(id: " + this.id + ", url: '" + this.url + "')"; };
     return NavigationStart;
 }());
 function NavigationStart_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationStart.prototype.id;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationStart.prototype.url;
 }
 /**
- *  *
+ * \@whatItDoes Represents an event triggered when a navigation ends successfully.
+ *
+ * \@stable
  */
 var NavigationEnd = (function () {
     /**
@@ -19660,6 +19738,7 @@ var NavigationEnd = (function () {
         this.urlAfterRedirects = urlAfterRedirects;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     NavigationEnd.prototype.toString = function () {
@@ -19668,15 +19747,26 @@ var NavigationEnd = (function () {
     return NavigationEnd;
 }());
 function NavigationEnd_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationEnd.prototype.id;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationEnd.prototype.url;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationEnd.prototype.urlAfterRedirects;
 }
 /**
- *  *
+ * \@whatItDoes Represents an event triggered when a navigation is canceled.
+ *
+ * \@stable
  */
 var NavigationCancel = (function () {
     /**
@@ -19690,21 +19780,33 @@ var NavigationCancel = (function () {
         this.reason = reason;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     NavigationCancel.prototype.toString = function () { return "NavigationCancel(id: " + this.id + ", url: '" + this.url + "')"; };
     return NavigationCancel;
 }());
 function NavigationCancel_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationCancel.prototype.id;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationCancel.prototype.url;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationCancel.prototype.reason;
 }
 /**
- *  *
+ * \@whatItDoes Represents an event triggered when a navigation fails due to an unexpected error.
+ *
+ * \@stable
  */
 var NavigationError = (function () {
     /**
@@ -19718,6 +19820,7 @@ var NavigationError = (function () {
         this.error = error;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     NavigationError.prototype.toString = function () {
@@ -19726,15 +19829,26 @@ var NavigationError = (function () {
     return NavigationError;
 }());
 function NavigationError_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationError.prototype.id;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationError.prototype.url;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     NavigationError.prototype.error;
 }
 /**
- *  *
+ * \@whatItDoes Represents an event triggered when routes are recognized.
+ *
+ * \@stable
  */
 var RoutesRecognized = (function () {
     /**
@@ -19750,6 +19864,7 @@ var RoutesRecognized = (function () {
         this.state = state;
     }
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     RoutesRecognized.prototype.toString = function () {
@@ -19758,13 +19873,25 @@ var RoutesRecognized = (function () {
     return RoutesRecognized;
 }());
 function RoutesRecognized_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     RoutesRecognized.prototype.id;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     RoutesRecognized.prototype.url;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     RoutesRecognized.prototype.urlAfterRedirects;
-    /** @type {?} */
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
     RoutesRecognized.prototype.state;
 }
 /**
@@ -19775,7 +19902,7 @@ function defaultErrorHandler(error) {
     throw error;
 }
 /**
- *  Does not detach any subtrees. Reuses routes as long as their route config is the same.
+ * Does not detach any subtrees. Reuses routes as long as their route config is the same.
  */
 var DefaultRouteReuseStrategy = (function () {
     function DefaultRouteReuseStrategy() {
@@ -19812,10 +19939,13 @@ var DefaultRouteReuseStrategy = (function () {
     return DefaultRouteReuseStrategy;
 }());
 /**
- *  *
-  * See {@link Routes} for more details and examples.
-  * *
-  * *
+ * \@whatItDoes Provides the navigation and url manipulation capabilities.
+ *
+ * See {\@link Routes} for more details and examples.
+ *
+ * \@ngModule RouterModule
+ *
+ * \@stable
  */
 var Router = (function () {
     /**
@@ -19861,7 +19991,8 @@ var Router = (function () {
         this.processNavigations();
     }
     /**
-     *  TODO: this should be removed once the constructor of the router made internal
+     * \@internal
+     * TODO: this should be removed once the constructor of the router made internal
      * @param {?} rootComponentType
      * @return {?}
      */
@@ -19872,7 +20003,7 @@ var Router = (function () {
         this.currentRouterState.root.component = this.rootComponentType;
     };
     /**
-     *  Sets up the location change listener and performs the initial navigation.
+     * Sets up the location change listener and performs the initial navigation.
      * @return {?}
      */
     Router.prototype.initialNavigation = function () {
@@ -19880,7 +20011,7 @@ var Router = (function () {
         this.navigateByUrl(this.location.path(true), { replaceUrl: true });
     };
     /**
-     *  Sets up the location change listener.
+     * Sets up the location change listener.
      * @return {?}
      */
     Router.prototype.setUpLocationChangeListener = function () {
@@ -19897,7 +20028,7 @@ var Router = (function () {
     };
     Object.defineProperty(Router.prototype, "routerState", {
         /**
-         *  The current route state
+         * The current route state
          * @return {?}
          */
         get: function () { return this.currentRouterState; },
@@ -19906,7 +20037,7 @@ var Router = (function () {
     });
     Object.defineProperty(Router.prototype, "url", {
         /**
-         *  The current url
+         * The current url
          * @return {?}
          */
         get: function () { return this.serializeUrl(this.currentUrlTree); },
@@ -19915,7 +20046,7 @@ var Router = (function () {
     });
     Object.defineProperty(Router.prototype, "events", {
         /**
-         *  An observable of router events
+         * An observable of router events
          * @return {?}
          */
         get: function () { return this.routerEvents; },
@@ -19923,18 +20054,18 @@ var Router = (function () {
         configurable: true
     });
     /**
-     *  Resets the configuration used for navigation and generating links.
-      * *
-      * ### Usage
-      * *
-      * ```
-      * router.resetConfig([
-      * { path: 'team/:id', component: TeamCmp, children: [
-      * { path: 'simple', component: SimpleCmp },
-      * { path: 'user/:name', component: UserCmp }
-      * ]}
-      * ]);
-      * ```
+     * Resets the configuration used for navigation and generating links.
+     *
+     * ### Usage
+     *
+     * ```
+     * router.resetConfig([
+     *  { path: 'team/:id', component: TeamCmp, children: [
+     *    { path: 'simple', component: SimpleCmp },
+     *    { path: 'user/:name', component: UserCmp }
+     *  ]}
+     * ]);
+     * ```
      * @param {?} config
      * @return {?}
      */
@@ -19943,11 +20074,12 @@ var Router = (function () {
         this.config = config;
     };
     /**
+     * \@docsNotRequired
      * @return {?}
      */
     Router.prototype.ngOnDestroy = function () { this.dispose(); };
     /**
-     *  Disposes of the router
+     * Disposes of the router
      * @return {?}
      */
     Router.prototype.dispose = function () {
@@ -19957,45 +20089,45 @@ var Router = (function () {
         }
     };
     /**
-     *  Applies an array of commands to the current url tree and creates a new url tree.
-      * *
-      * When given an activate route, applies the given commands starting from the route.
-      * When not given a route, applies the given command starting from the root.
-      * *
-      * ### Usage
-      * *
-      * ```
-      * // create /team/33/user/11
-      * router.createUrlTree(['/team', 33, 'user', 11]);
-      * *
-      * // create /team/33;expand=true/user/11
-      * router.createUrlTree(['/team', 33, {expand: true}, 'user', 11]);
-      * *
-      * // you can collapse static segments like this (this works only with the first passed-in value):
-      * router.createUrlTree(['/team/33/user', userId]);
-      * *
-      * // If the first segment can contain slashes, and you do not want the router to split it, you
-      * // can do the following:
-      * *
-      * router.createUrlTree([{segmentPath: '/one/two'}]);
-      * *
-      * // create /team/33/(user/11//right:chat)
-      * router.createUrlTree(['/team', 33, {outlets: {primary: 'user/11', right: 'chat'}}]);
-      * *
-      * // remove the right secondary node
-      * router.createUrlTree(['/team', 33, {outlets: {primary: 'user/11', right: null}}]);
-      * *
-      * // assuming the current url is `/team/33/user/11` and the route points to `user/11`
-      * *
-      * // navigate to /team/33/user/11/details
-      * router.createUrlTree(['details'], {relativeTo: route});
-      * *
-      * // navigate to /team/33/user/22
-      * router.createUrlTree(['../22'], {relativeTo: route});
-      * *
-      * // navigate to /team/44/user/22
-      * router.createUrlTree(['../../team/44/user/22'], {relativeTo: route});
-      * ```
+     * Applies an array of commands to the current url tree and creates a new url tree.
+     *
+     * When given an activate route, applies the given commands starting from the route.
+     * When not given a route, applies the given command starting from the root.
+     *
+     * ### Usage
+     *
+     * ```
+     * // create /team/33/user/11
+     * router.createUrlTree(['/team', 33, 'user', 11]);
+     *
+     * // create /team/33;expand=true/user/11
+     * router.createUrlTree(['/team', 33, {expand: true}, 'user', 11]);
+     *
+     * // you can collapse static segments like this (this works only with the first passed-in value):
+     * router.createUrlTree(['/team/33/user', userId]);
+     *
+     * // If the first segment can contain slashes, and you do not want the router to split it, you
+     * // can do the following:
+     *
+     * router.createUrlTree([{segmentPath: '/one/two'}]);
+     *
+     * // create /team/33/(user/11//right:chat)
+     * router.createUrlTree(['/team', 33, {outlets: {primary: 'user/11', right: 'chat'}}]);
+     *
+     * // remove the right secondary node
+     * router.createUrlTree(['/team', 33, {outlets: {primary: 'user/11', right: null}}]);
+     *
+     * // assuming the current url is `/team/33/user/11` and the route points to `user/11`
+     *
+     * // navigate to /team/33/user/11/details
+     * router.createUrlTree(['details'], {relativeTo: route});
+     *
+     * // navigate to /team/33/user/22
+     * router.createUrlTree(['../22'], {relativeTo: route});
+     *
+     * // navigate to /team/44/user/22
+     * router.createUrlTree(['../../team/44/user/22'], {relativeTo: route});
+     * ```
      * @param {?} commands
      * @param {?=} __1
      * @return {?}
@@ -20008,24 +20140,24 @@ var Router = (function () {
         return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_14__create_url_tree__["a" /* createUrlTree */])(a, this.currentUrlTree, commands, q, f);
     };
     /**
-     *  Navigate based on the provided url. This navigation is always absolute.
-      * *
-      * Returns a promise that:
-      * - resolves to 'true' when navigation succeeds,
-      * - resolves to 'false' when navigation fails,
-      * - is rejected when an error happens.
-      * *
-      * ### Usage
-      * *
-      * ```
-      * router.navigateByUrl("/team/33/user/11");
-      * *
-      * // Navigate without updating the URL
-      * router.navigateByUrl("/team/33/user/11", { skipLocationChange: true });
-      * ```
-      * *
-      * In opposite to `navigate`, `navigateByUrl` takes a whole URL
-      * and does not apply any delta to the current one.
+     * Navigate based on the provided url. This navigation is always absolute.
+     *
+     * Returns a promise that:
+     * - resolves to 'true' when navigation succeeds,
+     * - resolves to 'false' when navigation fails,
+     * - is rejected when an error happens.
+     *
+     * ### Usage
+     *
+     * ```
+     * router.navigateByUrl("/team/33/user/11");
+     *
+     * // Navigate without updating the URL
+     * router.navigateByUrl("/team/33/user/11", { skipLocationChange: true });
+     * ```
+     *
+     * In opposite to `navigate`, `navigateByUrl` takes a whole URL
+     * and does not apply any delta to the current one.
      * @param {?} url
      * @param {?=} extras
      * @return {?}
@@ -20039,25 +20171,25 @@ var Router = (function () {
         return this.scheduleNavigation(this.urlHandlingStrategy.merge(urlTree, this.rawUrlTree), 'imperative', extras);
     };
     /**
-     *  Navigate based on the provided array of commands and a starting point.
-      * If no starting route is provided, the navigation is absolute.
-      * *
-      * Returns a promise that:
-      * - resolves to 'true' when navigation succeeds,
-      * - resolves to 'false' when navigation fails,
-      * - is rejected when an error happens.
-      * *
-      * ### Usage
-      * *
-      * ```
-      * router.navigate(['team', 33, 'user', 11], {relativeTo: route});
-      * *
-      * // Navigate without updating the URL
-      * router.navigate(['team', 33, 'user', 11], {relativeTo: route, skipLocationChange: true});
-      * ```
-      * *
-      * In opposite to `navigateByUrl`, `navigate` always takes a delta that is applied to the current
-      * URL.
+     * Navigate based on the provided array of commands and a starting point.
+     * If no starting route is provided, the navigation is absolute.
+     *
+     * Returns a promise that:
+     * - resolves to 'true' when navigation succeeds,
+     * - resolves to 'false' when navigation fails,
+     * - is rejected when an error happens.
+     *
+     * ### Usage
+     *
+     * ```
+     * router.navigate(['team', 33, 'user', 11], {relativeTo: route});
+     *
+     * // Navigate without updating the URL
+     * router.navigate(['team', 33, 'user', 11], {relativeTo: route, skipLocationChange: true});
+     * ```
+     *
+     * In opposite to `navigateByUrl`, `navigate` always takes a delta that is applied to the current
+     * URL.
      * @param {?} commands
      * @param {?=} extras
      * @return {?}
@@ -20071,19 +20203,19 @@ var Router = (function () {
         return this.navigateByUrl(this.createUrlTree(commands, extras), extras);
     };
     /**
-     *  Serializes a {@link UrlTree} into a string
+     * Serializes a {\@link UrlTree} into a string
      * @param {?} url
      * @return {?}
      */
     Router.prototype.serializeUrl = function (url) { return this.urlSerializer.serialize(url); };
     /**
-     *  Parses a string into a {@link UrlTree}
+     * Parses a string into a {\@link UrlTree}
      * @param {?} url
      * @return {?}
      */
     Router.prototype.parseUrl = function (url) { return this.urlSerializer.parse(url); };
     /**
-     *  Returns whether the url is activated
+     * Returns whether the url is activated
      * @param {?} url
      * @param {?} exact
      * @return {?}
@@ -20351,8 +20483,8 @@ function Router_tsickle_Closure_declarations() {
     Router.prototype.configLoader;
     /**
      * Error handler that is invoked when a navigation errors.
-     * *
-     * See {@link ErrorHandler} for more information.
+     *
+     * See {\@link ErrorHandler} for more information.
      * @type {?}
      */
     Router.prototype.errorHandler;
@@ -21023,7 +21155,7 @@ function validateCommands(commands) {
 /**
  * @experimental
  */
-var /** @type {?} */ ROUTES = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('ROUTES');
+var /** @type {?} */ ROUTES = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('ROUTES');
 var LoadedRouterConfig = (function () {
     /**
      * @param {?} routes
@@ -21671,6 +21803,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 
 /**
+ * \@experimental
  * @abstract
  */
 var NgLocalization = (function () {
@@ -21685,10 +21818,11 @@ var NgLocalization = (function () {
     return NgLocalization;
 }());
 /**
- *  Returns the plural category for a given value.
-  * - "=value" when the case exists,
-  * - the plural category otherwise
-  * *
+ * Returns the plural category for a given value.
+ * - "=value" when the case exists,
+ * - the plural category otherwise
+ *
+ * \@internal
  * @param {?} value
  * @param {?} cases
  * @param {?} ngLocalization
@@ -21709,8 +21843,9 @@ function getPluralCategory(value, cases, ngLocalization) {
     throw new Error("No plural message found for value \"" + value + "\"");
 }
 /**
- *  Returns the plural case based on the locale
-  * *
+ * Returns the plural case based on the locale
+ *
+ * \@experimental
  */
 var NgLocaleLocalization = (function (_super) {
     __extends(NgLocaleLocalization, _super);
@@ -21776,8 +21911,9 @@ Plural[Plural.Few] = "Few";
 Plural[Plural.Many] = "Many";
 Plural[Plural.Other] = "Other";
 /**
- *  Returns the plural case based on the locale
-  * *
+ * Returns the plural case based on the locale
+ *
+ * \@experimental
  * @param {?} locale
  * @param {?} nLike
  * @return {?}
@@ -22201,21 +22337,22 @@ function getPluralCase(locale, nLike) {
  */
 
 /**
- *  `LocationStrategy` is responsible for representing and reading route state
-  * from the browser's URL. Angular provides two strategies:
-  * {@link HashLocationStrategy} and {@link PathLocationStrategy}.
-  * *
-  * This is used under the hood of the {@link Location} service.
-  * *
-  * Applications should use the {@link Router} or {@link Location} services to
-  * interact with application route state.
-  * *
-  * For instance, {@link HashLocationStrategy} produces URLs like
-  * `http://example.com#/foo`, and {@link PathLocationStrategy} produces
-  * `http://example.com/foo` as an equivalent URL.
-  * *
-  * See these two classes for more.
-  * *
+ * `LocationStrategy` is responsible for representing and reading route state
+ * from the browser's URL. Angular provides two strategies:
+ * {\@link HashLocationStrategy} and {\@link PathLocationStrategy}.
+ *
+ * This is used under the hood of the {\@link Location} service.
+ *
+ * Applications should use the {\@link Router} or {\@link Location} services to
+ * interact with application route state.
+ *
+ * For instance, {\@link HashLocationStrategy} produces URLs like
+ * `http://example.com#/foo`, and {\@link PathLocationStrategy} produces
+ * `http://example.com/foo` as an equivalent URL.
+ *
+ * See these two classes for more.
+ *
+ * \@stable
  * @abstract
  */
 var LocationStrategy = (function () {
@@ -22296,7 +22433,7 @@ var LocationStrategy = (function () {
  *
  * @stable
  */
-var /** @type {?} */ APP_BASE_HREF = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('appBaseHref');
+var /** @type {?} */ APP_BASE_HREF = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('appBaseHref');
 //# sourceMappingURL=location_strategy.js.map
 
 /***/ },
@@ -23537,7 +23674,6 @@ function Text_tsickle_Closure_declarations() {
     /** @type {?} */
     Text.prototype.sourceSpan;
 }
-// TODO(vicb): do we really need this node (vs an array) ?
 var Container = (function () {
     /**
      * @param {?} children
@@ -23805,7 +23941,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 
 /**
- *  An i18n error.
+ * An i18n error.
  */
 var I18nError = (function (_super) {
     __extends(I18nError, _super);
@@ -23867,8 +24003,8 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 /**
- *  This is currently not read, but will probably be used in the future.
-  * We keep it as we already pass it through all the rigth places...
+ * This is currently not read, but will probably be used in the future.
+ * We keep it as we already pass it through all the rigth places...
  */
 var ComponentFactoryDependency = (function () {
     /**
@@ -24505,14 +24641,14 @@ var DomElementSchemaRegistry = (function (_super) {
         return !!this._schema[tagName.toLowerCase()];
     };
     /**
-     *  securityContext returns the security context for the given property on the given DOM tag.
-      * *
-      * Tag and property name are statically known and cannot change at runtime, i.e. it is not
-      * possible to bind a value into a changing attribute or tag name.
-      * *
-      * The filtering is white list based. All attributes in the schema above are assumed to have the
-      * 'NONE' security context, i.e. that they are safe inert string values. Only specific well known
-      * attack vectors are assigned their appropriate context.
+     * securityContext returns the security context for the given property on the given DOM tag.
+     *
+     * Tag and property name are statically known and cannot change at runtime, i.e. it is not
+     * possible to bind a value into a changing attribute or tag name.
+     *
+     * The filtering is white list based. All attributes in the schema above are assumed to have the
+     * 'NONE' security context, i.e. that they are safe inert string values. Only specific well known
+     * attack vectors are assigned their appropriate context.
      * @param {?} tagName
      * @param {?} propName
      * @param {?} isAttribute
@@ -24684,9 +24820,9 @@ var /** @type {?} */ _SELECTOR_REGEXP = new RegExp('(\\:not\\()|' +
     '(\\s*,\\s*)', // ","
 'g');
 /**
- *  A css selector contains an element name,
-  * css classes and attribute/value pairs with the purpose
-  * of selecting subsets out of them.
+ * A css selector contains an element name,
+ * css classes and attribute/value pairs with the purpose
+ * of selecting subsets out of them.
  */
 var CssSelector = (function () {
     function CssSelector() {
@@ -24766,7 +24902,7 @@ var CssSelector = (function () {
         this.element = element;
     };
     /**
-     *  Gets a template string for an element that matches the selector.
+     * Gets a template string for an element that matches the selector.
      * @return {?}
      */
     CssSelector.prototype.getMatchingElementTemplate = function () {
@@ -24826,8 +24962,8 @@ function CssSelector_tsickle_Closure_declarations() {
     CssSelector.prototype.notSelectors;
 }
 /**
- *  Reads a list of CssSelectors and allows to calculate which ones
-  * are contained in a given CssSelector.
+ * Reads a list of CssSelectors and allows to calculate which ones
+ * are contained in a given CssSelector.
  */
 var SelectorMatcher = (function () {
     function SelectorMatcher() {
@@ -24864,7 +25000,7 @@ var SelectorMatcher = (function () {
         }
     };
     /**
-     *  Add an object that can be found later on by calling `match`.
+     * Add an object that can be found later on by calling `match`.
      * @param {?} cssSelector A css selector
      * @param {?} callbackCtxt An opaque object that will be given to the callback of the `match` function
      * @param {?} listContext
@@ -24951,8 +25087,8 @@ var SelectorMatcher = (function () {
         return matcher;
     };
     /**
-     *  Find the objects that have been added via `addSelectable`
-      * whose css selector is contained in the given css selector.
+     * Find the objects that have been added via `addSelectable`
+     * whose css selector is contained in the given css selector.
      * @param {?} cssSelector A css selector
      * @param {?} matchedCallback This callback will be called with the object handed into `addSelectable`
      * @return {?} boolean true if a match was found
@@ -25000,6 +25136,7 @@ var SelectorMatcher = (function () {
         return result;
     };
     /**
+     * \@internal
      * @param {?} map
      * @param {?} name
      * @param {?} cssSelector
@@ -25027,6 +25164,7 @@ var SelectorMatcher = (function () {
         return result;
     };
     /**
+     * \@internal
      * @param {?} map
      * @param {?} name
      * @param {?} cssSelector
@@ -25080,7 +25218,6 @@ function SelectorListContext_tsickle_Closure_declarations() {
     /** @type {?} */
     SelectorListContext.prototype.selectors;
 }
-// Store context to pass back selector and context when a selector is matched
 var SelectorContext = (function () {
     /**
      * @param {?} selector
@@ -25455,7 +25592,7 @@ function ViewCompiler_tsickle_Closure_declarations() {
  * using this token.
  * @experimental
  */
-var /** @type {?} */ APP_ID = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* OpaqueToken */]('AppId');
+var /** @type {?} */ APP_ID = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* InjectionToken */]('AppId');
 /**
  * @return {?}
  */
@@ -25481,7 +25618,7 @@ function _randomChar() {
  * A function that will be executed when a platform is initialized.
  * @experimental
  */
-var /** @type {?} */ PLATFORM_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* OpaqueToken */]('Platform Initializer');
+var /** @type {?} */ PLATFORM_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* InjectionToken */]('Platform Initializer');
 /**
  * All callbacks provided via this token will be called for every component that is bootstrapped.
  * Signature of the callback:
@@ -25490,12 +25627,12 @@ var /** @type {?} */ PLATFORM_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_0__di_
  *
  * @experimental
  */
-var /** @type {?} */ APP_BOOTSTRAP_LISTENER = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* OpaqueToken */]('appBootstrapListener');
+var /** @type {?} */ APP_BOOTSTRAP_LISTENER = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* InjectionToken */]('appBootstrapListener');
 /**
  * A token which indicates the root directory of the application
  * @experimental
  */
-var /** @type {?} */ PACKAGE_ROOT_URL = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* OpaqueToken */]('Application Packages Root URL');
+var /** @type {?} */ PACKAGE_ROOT_URL = new __WEBPACK_IMPORTED_MODULE_0__di__["b" /* InjectionToken */]('Application Packages Root URL');
 //# sourceMappingURL=application_tokens.js.map
 
 /***/ },
@@ -25627,7 +25764,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- * @stable
+ * \@stable
  */
 var NoComponentFactoryError = (function (_super) {
     __extends(NoComponentFactoryError, _super);
@@ -25657,6 +25794,7 @@ var _NullComponentFactoryResolver = (function () {
     return _NullComponentFactoryResolver;
 }());
 /**
+ * \@stable
  * @abstract
  */
 var ComponentFactoryResolver = (function () {
@@ -25803,6 +25941,7 @@ var ViewUtils = (function () {
         this.sanitizer = sanitizer;
     }
     /**
+     * \@internal
      * @param {?} renderComponentType
      * @return {?}
      */
@@ -26877,7 +27016,7 @@ function InlineArrayDynamic_tsickle_Closure_declarations() {
 }
 var /** @type {?} */ EMPTY_INLINE_ARRAY = new InlineArray0();
 /**
- *  This is a private API only used by the compiler to read the view class.
+ * This is a private API only used by the compiler to read the view class.
  * @param {?} componentFactory
  * @return {?}
  */
@@ -26997,72 +27136,74 @@ var /** @type {?} */ wtfEndTimeRange = wtfEnabled ? __WEBPACK_IMPORTED_MODULE_0_
  */
 
 /**
- *  An injectable service for executing work inside or outside of the Angular zone.
-  * *
-  * The most common use of this service is to optimize performance when starting a work consisting of
-  * one or more asynchronous tasks that don't require UI updates or error handling to be handled by
-  * Angular. Such tasks can be kicked off via {@link runOutsideAngular} and if needed, these tasks
-  * can reenter the Angular zone via {@link run}.
-  * *
-  * <!-- TODO: add/fix links to:
-  * - docs explaining zones and the use of zones in Angular and change-detection
-  * - link to runOutsideAngular/run (throughout this file!)
-  * -->
-  * *
-  * ### Example
-  * ```
-  * import {Component, NgZone} from '@angular/core';
-  * import {NgIf} from '@angular/common';
-  * *
-  * selector: 'ng-zone-demo'.
-  * template: `
-  * <h2>Demo: NgZone</h2>
-  * *
-  * <p>Progress: {{progress}}%</p>
-  * <p *ngIf="progress >= 100">Done processing {{label}} of Angular zone!</p>
-  * *
-  * <button (click)="processWithinAngularZone()">Process within Angular zone</button>
-  * <button (click)="processOutsideOfAngularZone()">Process outside of Angular zone</button>
-  * `,
-  * })
-  * export class NgZoneDemo {
-  * progress: number = 0;
-  * label: string;
-  * *
-  * constructor(private _ngZone: NgZone) {}
-  * *
-  * // Loop inside the Angular zone
-  * // so the UI DOES refresh after each setTimeout cycle
-  * processWithinAngularZone() {
-  * this.label = 'inside';
-  * this.progress = 0;
-  * this._increaseProgress(() => console.log('Inside Done!'));
-  * }
-  * *
-  * // Loop outside of the Angular zone
-  * // so the UI DOES NOT refresh after each setTimeout cycle
-  * processOutsideOfAngularZone() {
-  * this.label = 'outside';
-  * this.progress = 0;
-  * this._ngZone.runOutsideAngular(() => {
-  * this._increaseProgress(() => {
-  * // reenter the Angular zone and display done
-  * this._ngZone.run(() => {console.log('Outside Done!') });
-  * }}));
-  * }
-  * *
-  * _increaseProgress(doneCallback: () => void) {
-  * this.progress += 1;
-  * console.log(`Current progress: ${this.progress}%`);
-  * *
-  * if (this.progress < 100) {
-  * window.setTimeout(() => this._increaseProgress(doneCallback)), 10)
-  * } else {
-  * doneCallback();
-  * }
-  * }
-  * }
-  * ```
+ * An injectable service for executing work inside or outside of the Angular zone.
+ *
+ * The most common use of this service is to optimize performance when starting a work consisting of
+ * one or more asynchronous tasks that don't require UI updates or error handling to be handled by
+ * Angular. Such tasks can be kicked off via {\@link runOutsideAngular} and if needed, these tasks
+ * can reenter the Angular zone via {\@link run}.
+ *
+ * <!-- TODO: add/fix links to:
+ *   - docs explaining zones and the use of zones in Angular and change-detection
+ *   - link to runOutsideAngular/run (throughout this file!)
+ *   -->
+ *
+ * ### Example
+ * ```
+ * import {Component, NgZone} from '\@angular/core';
+ * import {NgIf} from '\@angular/common';
+ *
+ * \@Component({
+ *   selector: 'ng-zone-demo'.
+ *   template: `
+ *     <h2>Demo: NgZone</h2>
+ *
+ *     <p>Progress: {{progress}}%</p>
+ *     <p *ngIf="progress >= 100">Done processing {{label}} of Angular zone!</p>
+ *
+ *     <button (click)="processWithinAngularZone()">Process within Angular zone</button>
+ *     <button (click)="processOutsideOfAngularZone()">Process outside of Angular zone</button>
+ *   `,
+ * })
+ * export class NgZoneDemo {
+ *   progress: number = 0;
+ *   label: string;
+ *
+ *   constructor(private _ngZone: NgZone) {}
+ *
+ *   // Loop inside the Angular zone
+ *   // so the UI DOES refresh after each setTimeout cycle
+ *   processWithinAngularZone() {
+ *     this.label = 'inside';
+ *     this.progress = 0;
+ *     this._increaseProgress(() => console.log('Inside Done!'));
+ *   }
+ *
+ *   // Loop outside of the Angular zone
+ *   // so the UI DOES NOT refresh after each setTimeout cycle
+ *   processOutsideOfAngularZone() {
+ *     this.label = 'outside';
+ *     this.progress = 0;
+ *     this._ngZone.runOutsideAngular(() => {
+ *       this._increaseProgress(() => {
+ *       // reenter the Angular zone and display done
+ *       this._ngZone.run(() => {console.log('Outside Done!') });
+ *     }}));
+ *   }
+ *
+ *   _increaseProgress(doneCallback: () => void) {
+ *     this.progress += 1;
+ *     console.log(`Current progress: ${this.progress}%`);
+ *
+ *     if (this.progress < 100) {
+ *       window.setTimeout(() => this._increaseProgress(doneCallback)), 10)
+ *     } else {
+ *       doneCallback();
+ *     }
+ *   }
+ * }
+ * ```
+ * \@experimental
  */
 var NgZone = (function () {
     /**
@@ -27112,45 +27253,45 @@ var NgZone = (function () {
         }
     };
     /**
-     *  Executes the `fn` function synchronously within the Angular zone and returns value returned by
-      * the function.
-      * *
-      * Running functions via `run` allows you to reenter Angular zone from a task that was executed
-      * outside of the Angular zone (typically started via {@link runOutsideAngular}).
-      * *
-      * Any future tasks or microtasks scheduled from within this function will continue executing from
-      * within the Angular zone.
-      * *
-      * If a synchronous error happens it will be rethrown and not reported via `onError`.
+     * Executes the `fn` function synchronously within the Angular zone and returns value returned by
+     * the function.
+     *
+     * Running functions via `run` allows you to reenter Angular zone from a task that was executed
+     * outside of the Angular zone (typically started via {\@link runOutsideAngular}).
+     *
+     * Any future tasks or microtasks scheduled from within this function will continue executing from
+     * within the Angular zone.
+     *
+     * If a synchronous error happens it will be rethrown and not reported via `onError`.
      * @param {?} fn
      * @return {?}
      */
     NgZone.prototype.run = function (fn) { return this.inner.run(fn); };
     /**
-     *  Same as `run`, except that synchronous errors are caught and forwarded via `onError` and not
-      * rethrown.
+     * Same as `run`, except that synchronous errors are caught and forwarded via `onError` and not
+     * rethrown.
      * @param {?} fn
      * @return {?}
      */
     NgZone.prototype.runGuarded = function (fn) { return this.inner.runGuarded(fn); };
     /**
-     *  Executes the `fn` function synchronously in Angular's parent zone and returns value returned by
-      * the function.
-      * *
-      * Running functions via `runOutsideAngular` allows you to escape Angular's zone and do work that
-      * doesn't trigger Angular change-detection or is subject to Angular's error handling.
-      * *
-      * Any future tasks or microtasks scheduled from within this function will continue executing from
-      * outside of the Angular zone.
-      * *
-      * Use {@link run} to reenter the Angular zone and do work that updates the application model.
+     * Executes the `fn` function synchronously in Angular's parent zone and returns value returned by
+     * the function.
+     *
+     * Running functions via `runOutsideAngular` allows you to escape Angular's zone and do work that
+     * doesn't trigger Angular change-detection or is subject to Angular's error handling.
+     *
+     * Any future tasks or microtasks scheduled from within this function will continue executing from
+     * outside of the Angular zone.
+     *
+     * Use {\@link run} to reenter the Angular zone and do work that updates the application model.
      * @param {?} fn
      * @return {?}
      */
     NgZone.prototype.runOutsideAngular = function (fn) { return this.outer.run(fn); };
     Object.defineProperty(NgZone.prototype, "onUnstable", {
         /**
-         *  Notifies when code enters Angular Zone. This gets fired first on VM Turn.
+         * Notifies when code enters Angular Zone. This gets fired first on VM Turn.
          * @return {?}
          */
         get: function () { return this._onUnstable; },
@@ -27159,9 +27300,9 @@ var NgZone = (function () {
     });
     Object.defineProperty(NgZone.prototype, "onMicrotaskEmpty", {
         /**
-         *  Notifies when there is no more microtasks enqueue in the current VM Turn.
-          * This is a hint for Angular to do change detection, which may enqueue more microtasks.
-          * For this reason this event can fire multiple times per VM Turn.
+         * Notifies when there is no more microtasks enqueue in the current VM Turn.
+         * This is a hint for Angular to do change detection, which may enqueue more microtasks.
+         * For this reason this event can fire multiple times per VM Turn.
          * @return {?}
          */
         get: function () { return this._onMicrotaskEmpty; },
@@ -27170,9 +27311,9 @@ var NgZone = (function () {
     });
     Object.defineProperty(NgZone.prototype, "onStable", {
         /**
-         *  Notifies when the last `onMicrotaskEmpty` has run and there are no more microtasks, which
-          * implies we are about to relinquish VM turn.
-          * This event gets called just once.
+         * Notifies when the last `onMicrotaskEmpty` has run and there are no more microtasks, which
+         * implies we are about to relinquish VM turn.
+         * This event gets called just once.
          * @return {?}
          */
         get: function () { return this._onStable; },
@@ -27181,7 +27322,7 @@ var NgZone = (function () {
     });
     Object.defineProperty(NgZone.prototype, "onError", {
         /**
-         *  Notify that an error has been delivered.
+         * Notify that an error has been delivered.
          * @return {?}
          */
         get: function () { return this._onErrorEvents; },
@@ -27190,7 +27331,7 @@ var NgZone = (function () {
     });
     Object.defineProperty(NgZone.prototype, "isStable", {
         /**
-         *  Whether there are no outstanding microtasks or macrotasks.
+         * Whether there are no outstanding microtasks or macrotasks.
          * @return {?}
          */
         get: function () { return this._isStable; },
@@ -27369,31 +27510,32 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Creates a response options object to be optionally provided when instantiating a
-  * {@link Response}.
-  * *
-  * This class is based on the `ResponseInit` description in the [Fetch
-  * Spec](https://fetch.spec.whatwg.org/#responseinit).
-  * *
-  * All values are null by default. Typical defaults can be found in the
-  * {@link BaseResponseOptions} class, which sub-classes `ResponseOptions`.
-  * *
-  * This class may be used in tests to build {@link Response Responses} for
-  * mock responses (see {@link MockBackend}).
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/P9Jkk8e8cz6NVzbcxEsD?p=preview))
-  * *
-  * ```typescript
-  * import {ResponseOptions, Response} from '@angular/http';
-  * *
-  * var options = new ResponseOptions({
-  * body: '{"name":"Jeff"}'
-  * });
-  * var res = new Response(options);
-  * *
-  * console.log('res.json():', res.json()); // Object {name: "Jeff"}
-  * ```
-  * *
+ * Creates a response options object to be optionally provided when instantiating a
+ * {\@link Response}.
+ *
+ * This class is based on the `ResponseInit` description in the [Fetch
+ * Spec](https://fetch.spec.whatwg.org/#responseinit).
+ *
+ * All values are null by default. Typical defaults can be found in the
+ * {\@link BaseResponseOptions} class, which sub-classes `ResponseOptions`.
+ *
+ * This class may be used in tests to build {\@link Response Responses} for
+ * mock responses (see {\@link MockBackend}).
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/P9Jkk8e8cz6NVzbcxEsD?p=preview))
+ *
+ * ```typescript
+ * import {ResponseOptions, Response} from '\@angular/http';
+ *
+ * var options = new ResponseOptions({
+ *   body: '{"name":"Jeff"}'
+ * });
+ * var res = new Response(options);
+ *
+ * console.log('res.json():', res.json()); // Object {name: "Jeff"}
+ * ```
+ *
+ * \@experimental
  */
 var ResponseOptions = (function () {
     /**
@@ -27409,29 +27551,29 @@ var ResponseOptions = (function () {
         this.url = url != null ? url : null;
     }
     /**
-     *  Creates a copy of the `ResponseOptions` instance, using the optional input as values to
-      * override
-      * existing values. This method will not change the values of the instance on which it is being
-      * called.
-      * *
-      * This may be useful when sharing a base `ResponseOptions` object inside tests,
-      * where certain properties may change from test to test.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/1lXquqFfgduTFBWjNoRE?p=preview))
-      * *
-      * ```typescript
-      * import {ResponseOptions, Response} from '@angular/http';
-      * *
-      * var options = new ResponseOptions({
-      * body: {name: 'Jeff'}
-      * });
-      * var res = new Response(options.merge({
-      * url: 'https://google.com'
-      * }));
-      * console.log('options.url:', options.url); // null
-      * console.log('res.json():', res.json()); // Object {name: "Jeff"}
-      * console.log('res.url:', res.url); // https://google.com
-      * ```
+     * Creates a copy of the `ResponseOptions` instance, using the optional input as values to
+     * override
+     * existing values. This method will not change the values of the instance on which it is being
+     * called.
+     *
+     * This may be useful when sharing a base `ResponseOptions` object inside tests,
+     * where certain properties may change from test to test.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/1lXquqFfgduTFBWjNoRE?p=preview))
+     *
+     * ```typescript
+     * import {ResponseOptions, Response} from '\@angular/http';
+     *
+     * var options = new ResponseOptions({
+     *   body: {name: 'Jeff'}
+     * });
+     * var res = new Response(options.merge({
+     *   url: 'https://google.com'
+     * }));
+     * console.log('options.url:', options.url); // null
+     * console.log('res.json():', res.json()); // Object {name: "Jeff"}
+     * console.log('res.url:', res.url); // https://google.com
+     * ```
      * @param {?=} options
      * @return {?}
      */
@@ -27449,72 +27591,79 @@ var ResponseOptions = (function () {
 }());
 function ResponseOptions_tsickle_Closure_declarations() {
     /**
-     * String, Object, ArrayBuffer or Blob representing the body of the {@link Response}.
+     * String, Object, ArrayBuffer or Blob representing the body of the {\@link Response}.
      * @type {?}
      */
     ResponseOptions.prototype.body;
     /**
-     * Http {@link http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html status code}
+     * Http {\@link http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html status code}
      * associated with the response.
      * @type {?}
      */
     ResponseOptions.prototype.status;
     /**
-     * Response {@link Headers headers}
+     * Response {\@link Headers headers}
      * @type {?}
      */
     ResponseOptions.prototype.headers;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ResponseOptions.prototype.statusText;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ResponseOptions.prototype.type;
     /** @type {?} */
     ResponseOptions.prototype.url;
 }
 /**
- *  Subclass of {@link ResponseOptions}, with default values.
-  * *
-  * Default values:
-  * * status: 200
-  * * headers: empty {@link Headers} object
-  * *
-  * This class could be extended and bound to the {@link ResponseOptions} class
-  * when configuring an {@link Injector}, in order to override the default options
-  * used by {@link Http} to create {@link Response Responses}.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/qv8DLT?p=preview))
-  * *
-  * ```typescript
-  * import {provide} from '@angular/core';
-  * import {bootstrap} from '@angular/platform-browser/browser';
-  * import {HTTP_PROVIDERS, Headers, Http, BaseResponseOptions, ResponseOptions} from
-  * '@angular/http';
-  * import {App} from './myapp';
-  * *
-  * class MyOptions extends BaseResponseOptions {
-  * headers:Headers = new Headers({network: 'github'});
-  * }
-  * *
-  * bootstrap(App, [HTTP_PROVIDERS, {provide: ResponseOptions, useClass: MyOptions}]);
-  * ```
-  * *
-  * The options could also be extended when manually creating a {@link Response}
-  * object.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/VngosOWiaExEtbstDoix?p=preview))
-  * *
-  * ```
-  * import {BaseResponseOptions, Response} from '@angular/http';
-  * *
-  * var options = new BaseResponseOptions();
-  * var res = new Response(options.merge({
-  * body: 'Angular',
-  * headers: new Headers({framework: 'angular'})
-  * }));
-  * console.log('res.headers.get("framework"):', res.headers.get('framework')); // angular
-  * console.log('res.text():', res.text()); // Angular;
-  * ```
-  * *
+ * Subclass of {\@link ResponseOptions}, with default values.
+ *
+ * Default values:
+ *  * status: 200
+ *  * headers: empty {\@link Headers} object
+ *
+ * This class could be extended and bound to the {\@link ResponseOptions} class
+ * when configuring an {\@link Injector}, in order to override the default options
+ * used by {\@link Http} to create {\@link Response Responses}.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/qv8DLT?p=preview))
+ *
+ * ```typescript
+ * import {provide} from '\@angular/core';
+ * import {bootstrap} from '\@angular/platform-browser/browser';
+ * import {HTTP_PROVIDERS, Headers, Http, BaseResponseOptions, ResponseOptions} from
+ * '\@angular/http';
+ * import {App} from './myapp';
+ *
+ * class MyOptions extends BaseResponseOptions {
+ *   headers:Headers = new Headers({network: 'github'});
+ * }
+ *
+ * bootstrap(App, [HTTP_PROVIDERS, {provide: ResponseOptions, useClass: MyOptions}]);
+ * ```
+ *
+ * The options could also be extended when manually creating a {\@link Response}
+ * object.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/VngosOWiaExEtbstDoix?p=preview))
+ *
+ * ```
+ * import {BaseResponseOptions, Response} from '\@angular/http';
+ *
+ * var options = new BaseResponseOptions();
+ * var res = new Response(options.merge({
+ *   body: 'Angular',
+ *   headers: new Headers({framework: 'angular'})
+ * }));
+ * console.log('res.headers.get("framework"):', res.headers.get('framework')); // angular
+ * console.log('res.text():', res.text()); // Angular;
+ * ```
+ *
+ * \@experimental
  */
 var BaseResponseOptions = (function (_super) {
     __extends(BaseResponseOptions, _super);
@@ -27617,11 +27766,11 @@ function stringToArrayBuffer(input) {
 /* unused harmony export QueryEncoder */
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return URLSearchParams; });
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  * @param {?=} rawParams
  * @return {?}
  */
@@ -27641,7 +27790,8 @@ function paramParser(rawParams) {
     return map;
 }
 /**
- *  *
+ * \@experimental
+ *
  */
 var QueryEncoder = (function () {
     function QueryEncoder() {
@@ -27675,38 +27825,39 @@ function standardEncoding(v) {
         .replace(/%2F/gi, '/');
 }
 /**
- *  Map-like representation of url search parameters, based on
-  * [URLSearchParams](https://url.spec.whatwg.org/#urlsearchparams) in the url living standard,
-  * with several extensions for merging URLSearchParams objects:
-  * - setAll()
-  * - appendAll()
-  * - replaceAll()
-  * *
-  * This class accepts an optional second parameter of ${@link QueryEncoder},
-  * which is used to serialize parameters before making a request. By default,
-  * `QueryEncoder` encodes keys and values of parameters using `encodeURIComponent`,
-  * and then un-encodes certain characters that are allowed to be part of the query
-  * according to IETF RFC 3986: https://tools.ietf.org/html/rfc3986.
-  * *
-  * These are the characters that are not encoded: `! $ \' ( ) * + , ; A 9 - . _ ~ ? /`
-  * *
-  * If the set of allowed query characters is not acceptable for a particular backend,
-  * `QueryEncoder` can be subclassed and provided as the 2nd argument to URLSearchParams.
-  * *
-  * ```
-  * import {URLSearchParams, QueryEncoder} from '@angular/http';
-  * class MyQueryEncoder extends QueryEncoder {
-  * encodeKey(k: string): string {
-  * return myEncodingFunction(k);
-  * }
-  * *
-  * encodeValue(v: string): string {
-  * return myEncodingFunction(v);
-  * }
-  * }
-  * *
-  * let params = new URLSearchParams('', new MyQueryEncoder());
-  * ```
+ * Map-like representation of url search parameters, based on
+ * [URLSearchParams](https://url.spec.whatwg.org/#urlsearchparams) in the url living standard,
+ * with several extensions for merging URLSearchParams objects:
+ *   - setAll()
+ *   - appendAll()
+ *   - replaceAll()
+ *
+ * This class accepts an optional second parameter of ${\@link QueryEncoder},
+ * which is used to serialize parameters before making a request. By default,
+ * `QueryEncoder` encodes keys and values of parameters using `encodeURIComponent`,
+ * and then un-encodes certain characters that are allowed to be part of the query
+ * according to IETF RFC 3986: https://tools.ietf.org/html/rfc3986.
+ *
+ * These are the characters that are not encoded: `! $ \' ( ) * + , ; A 9 - . _ ~ ? /`
+ *
+ * If the set of allowed query characters is not acceptable for a particular backend,
+ * `QueryEncoder` can be subclassed and provided as the 2nd argument to URLSearchParams.
+ *
+ * ```
+ * import {URLSearchParams, QueryEncoder} from '\@angular/http';
+ * class MyQueryEncoder extends QueryEncoder {
+ *   encodeKey(k: string): string {
+ *     return myEncodingFunction(k);
+ *   }
+ *
+ *   encodeValue(v: string): string {
+ *     return myEncodingFunction(v);
+ *   }
+ * }
+ *
+ * let params = new URLSearchParams('', new MyQueryEncoder());
+ * ```
+ * \@experimental
  */
 var URLSearchParams = (function () {
     /**
@@ -27904,7 +28055,7 @@ function URLSearchParams_tsickle_Closure_declarations() {
  *
  * @stable
  */
-var /** @type {?} */ DOCUMENT = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('DocumentToken');
+var /** @type {?} */ DOCUMENT = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('DocumentToken');
 //# sourceMappingURL=dom_tokens.js.map
 
 /***/ },
@@ -27921,7 +28072,9 @@ var /** @type {?} */ DOCUMENT = new __WEBPACK_IMPORTED_MODULE_0__angular_core__[
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  *
+ * \@whatItDoes Contains all the router outlets created in a component.
+ *
+ * \@stable
  */
 var RouterOutletMap = (function () {
     function RouterOutletMap() {
@@ -27929,14 +28082,14 @@ var RouterOutletMap = (function () {
         this._outlets = {};
     }
     /**
-     *  Adds an outlet to this map.
+     * Adds an outlet to this map.
      * @param {?} name
      * @param {?} outlet
      * @return {?}
      */
     RouterOutletMap.prototype.registerOutlet = function (name, outlet) { this._outlets[name] = outlet; };
     /**
-     *  Removes an outlet from this map.
+     * Removes an outlet from this map.
      * @param {?} name
      * @return {?}
      */
@@ -27944,7 +28097,10 @@ var RouterOutletMap = (function () {
     return RouterOutletMap;
 }());
 function RouterOutletMap_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     RouterOutletMap.prototype._outlets;
 }
 //# sourceMappingURL=router_outlet_map.js.map
@@ -28140,22 +28296,25 @@ __webpack_require__(195)(String, 'String', function(iterated){
 
 
 /**
- *  Depending on which {@link LocationStrategy} is used, `Location` will either persist
-  * to the URL's path or the URL's hash segment.
-  * *
-  * Note: it's better to use {@link Router#navigate} service to trigger route changes. Use
-  * `Location` only if you need to interact with or create normalized URLs outside of
-  * routing.
-  * *
-  * `Location` is responsible for normalizing the URL against the application's base href.
-  * A normalized URL is absolute from the URL host, includes the application's base href, and has no
-  * trailing slash:
-  * - `/my/app/user/123` is normalized
-  * - `my/app/user/123` **is not** normalized
-  * - `/my/app/user/123/` **is not** normalized
-  * *
-  * ### Example
-  * {@example common/location/ts/path_location_component.ts region='LocationComponent'}
+ * \@whatItDoes `Location` is a service that applications can use to interact with a browser's URL.
+ * \@description
+ * Depending on which {\@link LocationStrategy} is used, `Location` will either persist
+ * to the URL's path or the URL's hash segment.
+ *
+ * Note: it's better to use {\@link Router#navigate} service to trigger route changes. Use
+ * `Location` only if you need to interact with or create normalized URLs outside of
+ * routing.
+ *
+ * `Location` is responsible for normalizing the URL against the application's base href.
+ * A normalized URL is absolute from the URL host, includes the application's base href, and has no
+ * trailing slash:
+ * - `/my/app/user/123` is normalized
+ * - `my/app/user/123` **is not** normalized
+ * - `/my/app/user/123/` **is not** normalized
+ *
+ * ### Example
+ * {\@example common/location/ts/path_location_component.ts region='LocationComponent'}
+ * \@stable
  */
 var Location = (function () {
     /**
@@ -28185,7 +28344,7 @@ var Location = (function () {
         return this.normalize(this._platformStrategy.path(includeHash));
     };
     /**
-     *  Normalizes the given path and compares to the current normalized path.
+     * Normalizes the given path and compares to the current normalized path.
      * @param {?} path
      * @param {?=} query
      * @return {?}
@@ -28195,8 +28354,8 @@ var Location = (function () {
         return this.path() == this.normalize(path + Location.normalizeQueryParams(query));
     };
     /**
-     *  Given a string representing a URL, returns the normalized URL path without leading or
-      * trailing slashes.
+     * Given a string representing a URL, returns the normalized URL path without leading or
+     * trailing slashes.
      * @param {?} url
      * @return {?}
      */
@@ -28204,10 +28363,10 @@ var Location = (function () {
         return Location.stripTrailingSlash(_stripBaseHref(this._baseHref, _stripIndexHtml(url)));
     };
     /**
-     *  Given a string representing a URL, returns the platform-specific external URL path.
-      * If the given URL doesn't begin with a leading slash (`'/'`), this method adds one
-      * before normalizing. This method will also add a hash if `HashLocationStrategy` is
-      * used, or the `APP_BASE_HREF` if the `PathLocationStrategy` is in use.
+     * Given a string representing a URL, returns the platform-specific external URL path.
+     * If the given URL doesn't begin with a leading slash (`'/'`), this method adds one
+     * before normalizing. This method will also add a hash if `HashLocationStrategy` is
+     * used, or the `APP_BASE_HREF` if the `PathLocationStrategy` is in use.
      * @param {?} url
      * @return {?}
      */
@@ -28218,8 +28377,8 @@ var Location = (function () {
         return this._platformStrategy.prepareExternalUrl(url);
     };
     /**
-     *  Changes the browsers URL to the normalized version of the given URL, and pushes a
-      * new item onto the platform's history.
+     * Changes the browsers URL to the normalized version of the given URL, and pushes a
+     * new item onto the platform's history.
      * @param {?} path
      * @param {?=} query
      * @return {?}
@@ -28229,8 +28388,8 @@ var Location = (function () {
         this._platformStrategy.pushState(null, '', path, query);
     };
     /**
-     *  Changes the browsers URL to the normalized version of the given URL, and replaces
-      * the top item on the platform's history stack.
+     * Changes the browsers URL to the normalized version of the given URL, and replaces
+     * the top item on the platform's history stack.
      * @param {?} path
      * @param {?=} query
      * @return {?}
@@ -28240,17 +28399,17 @@ var Location = (function () {
         this._platformStrategy.replaceState(null, '', path, query);
     };
     /**
-     *  Navigates forward in the platform's history.
+     * Navigates forward in the platform's history.
      * @return {?}
      */
     Location.prototype.forward = function () { this._platformStrategy.forward(); };
     /**
-     *  Navigates back in the platform's history.
+     * Navigates back in the platform's history.
      * @return {?}
      */
     Location.prototype.back = function () { this._platformStrategy.back(); };
     /**
-     *  Subscribe to the platform's `popState` events.
+     * Subscribe to the platform's `popState` events.
      * @param {?} onNext
      * @param {?=} onThrow
      * @param {?=} onReturn
@@ -28262,8 +28421,8 @@ var Location = (function () {
         return this._subject.subscribe({ next: onNext, error: onThrow, complete: onReturn });
     };
     /**
-     *  Given a string of url parameters, prepend with '?' if needed, otherwise return parameters as
-      * is.
+     * Given a string of url parameters, prepend with '?' if needed, otherwise return parameters as
+     * is.
      * @param {?} params
      * @return {?}
      */
@@ -28271,7 +28430,7 @@ var Location = (function () {
         return params && params[0] !== '?' ? '?' + params : params;
     };
     /**
-     *  Given 2 parts of a url, join them with a slash if needed.
+     * Given 2 parts of a url, join them with a slash if needed.
      * @param {?} start
      * @param {?} end
      * @return {?}
@@ -28299,7 +28458,7 @@ var Location = (function () {
         return start + '/' + end;
     };
     /**
-     *  If url has a trailing slash, remove it, otherwise return url as is.
+     * If url has a trailing slash, remove it, otherwise return url as is.
      * @param {?} url
      * @return {?}
      */
@@ -28321,11 +28480,20 @@ function Location_tsickle_Closure_declarations() {
      * @type {?}
      */
     Location.ctorParameters;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Location.prototype._subject;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Location.prototype._baseHref;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Location.prototype._platformStrategy;
 }
 /**
@@ -28352,29 +28520,30 @@ function _stripIndexHtml(url) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return PlatformLocation; });
 /**
- *  This class should not be used directly by an application developer. Instead, use
-  * {@link Location}.
-  * *
-  * `PlatformLocation` encapsulates all calls to DOM apis, which allows the Router to be platform
-  * agnostic.
-  * This means that we can have different implementation of `PlatformLocation` for the different
-  * platforms
-  * that angular supports. For example, the default `PlatformLocation` is {@link
-  * BrowserPlatformLocation},
-  * however when you run your app in a WebWorker you use {@link WebWorkerPlatformLocation}.
-  * *
-  * The `PlatformLocation` class is used directly by all implementations of {@link LocationStrategy}
-  * when
-  * they need to interact with the DOM apis like pushState, popState, etc...
-  * *
-  * {@link LocationStrategy} in turn is used by the {@link Location} service which is used directly
-  * by
-  * the {@link Router} in order to navigate between routes. Since all interactions between {@link
-  * Router} /
-  * {@link Location} / {@link LocationStrategy} and DOM apis flow through the `PlatformLocation`
-  * class
-  * they are all platform independent.
-  * *
+ * This class should not be used directly by an application developer. Instead, use
+ * {\@link Location}.
+ *
+ * `PlatformLocation` encapsulates all calls to DOM apis, which allows the Router to be platform
+ * agnostic.
+ * This means that we can have different implementation of `PlatformLocation` for the different
+ * platforms
+ * that angular supports. For example, the default `PlatformLocation` is {\@link
+ * BrowserPlatformLocation},
+ * however when you run your app in a WebWorker you use {\@link WebWorkerPlatformLocation}.
+ *
+ * The `PlatformLocation` class is used directly by all implementations of {\@link LocationStrategy}
+ * when
+ * they need to interact with the DOM apis like pushState, popState, etc...
+ *
+ * {\@link LocationStrategy} in turn is used by the {\@link Location} service which is used directly
+ * by
+ * the {\@link Router} in order to navigate between routes. Since all interactions between {\@link
+ * Router} /
+ * {\@link Location} / {\@link LocationStrategy} and DOM apis flow through the `PlatformLocation`
+ * class
+ * they are all platform independent.
+ *
+ * \@stable
  * @abstract
  */
 var PlatformLocation = (function () {
@@ -29066,14 +29235,15 @@ var /** @type {?} */ ANGULAR_IMPORT_LOCATIONS = {
     coreDecorators: '@angular/core/src/metadata',
     diDecorators: '@angular/core/src/di/metadata',
     diMetadata: '@angular/core/src/di/metadata',
-    diOpaqueToken: '@angular/core/src/di/opaque_token',
+    diInjectionToken: '@angular/core/src/di/injection_token',
+    diOpaqueToken: '@angular/core/src/di/injection_token',
     animationMetadata: '@angular/core/src/animation/metadata',
     provider: '@angular/core/src/di/provider'
 };
 var /** @type {?} */ HIDDEN_KEY = /^\$.*\$$/;
 /**
- *  A static reflector implements enough of the Reflector API that is necessary to compile
-  * templates statically.
+ * A static reflector implements enough of the Reflector API that is necessary to compile
+ * templates statically.
  */
 var StaticReflector = (function () {
     /**
@@ -29320,8 +29490,9 @@ var StaticReflector = (function () {
      * @return {?}
      */
     StaticReflector.prototype.initializeConversionMap = function () {
-        var coreDecorators = ANGULAR_IMPORT_LOCATIONS.coreDecorators, diDecorators = ANGULAR_IMPORT_LOCATIONS.diDecorators, diMetadata = ANGULAR_IMPORT_LOCATIONS.diMetadata, diOpaqueToken = ANGULAR_IMPORT_LOCATIONS.diOpaqueToken, animationMetadata = ANGULAR_IMPORT_LOCATIONS.animationMetadata, provider = ANGULAR_IMPORT_LOCATIONS.provider;
-        this.opaqueToken = this.findDeclaration(diOpaqueToken, 'OpaqueToken');
+        var coreDecorators = ANGULAR_IMPORT_LOCATIONS.coreDecorators, diDecorators = ANGULAR_IMPORT_LOCATIONS.diDecorators, diMetadata = ANGULAR_IMPORT_LOCATIONS.diMetadata, diInjectionToken = ANGULAR_IMPORT_LOCATIONS.diInjectionToken, diOpaqueToken = ANGULAR_IMPORT_LOCATIONS.diOpaqueToken, animationMetadata = ANGULAR_IMPORT_LOCATIONS.animationMetadata, provider = ANGULAR_IMPORT_LOCATIONS.provider;
+        this.injectionToken = this.findDeclaration(diInjectionToken, 'InjectionToken');
+        this.opaqueToken = this.findDeclaration(diInjectionToken, 'OpaqueToken');
         this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Host'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["Host"]);
         this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Injectable'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"]);
         this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Self'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["Self"]);
@@ -29356,9 +29527,9 @@ var StaticReflector = (function () {
         this._registerFunction(this.findDeclaration(animationMetadata, 'group'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["group"]);
     };
     /**
-     *  getStaticSymbol produces a Type whose metadata is known but whose implementation is not loaded.
-      * All types passed to the StaticResolver should be pseudo-types returned by this method.
-      * *
+     * getStaticSymbol produces a Type whose metadata is known but whose implementation is not loaded.
+     * All types passed to the StaticResolver should be pseudo-types returned by this method.
+     *
      * @param {?} declarationFile the absolute path of the file where the symbol is declared
      * @param {?} name the name of the type.
      * @param {?=} members
@@ -29382,6 +29553,7 @@ var StaticReflector = (function () {
         }
     };
     /**
+     * \@internal
      * @param {?} context
      * @param {?} value
      * @return {?}
@@ -29488,7 +29660,8 @@ var StaticReflector = (function () {
                 }
                 if (expression instanceof __WEBPACK_IMPORTED_MODULE_1__static_symbol__["a" /* StaticSymbol */]) {
                     // Stop simplification at builtin symbols
-                    if (expression === self.opaqueToken || self.conversionMap.has(expression)) {
+                    if (expression === self.injectionToken || expression === self.opaqueToken ||
+                        self.conversionMap.has(expression)) {
                         return expression;
                     }
                     else {
@@ -29619,9 +29792,9 @@ var StaticReflector = (function () {
                                 // Determine if the function is a built-in conversion
                                 staticSymbol = simplifyInContext(context, expression['expression'], depth + 1);
                                 if (staticSymbol instanceof __WEBPACK_IMPORTED_MODULE_1__static_symbol__["a" /* StaticSymbol */]) {
-                                    if (staticSymbol === self.opaqueToken) {
-                                        // if somebody calls new OpaqueToken, don't create an OpaqueToken,
-                                        // but rather return the symbol to which the OpaqueToken is assigned to.
+                                    if (staticSymbol === self.injectionToken || staticSymbol === self.opaqueToken) {
+                                        // if somebody calls new InjectionToken, don't create an InjectionToken,
+                                        // but rather return the symbol to which the InjectionToken is assigned to.
                                         return context;
                                     }
                                     var /** @type {?} */ argExpressions = expression['arguments'] || [];
@@ -29701,6 +29874,8 @@ function StaticReflector_tsickle_Closure_declarations() {
     StaticReflector.prototype.methodCache;
     /** @type {?} */
     StaticReflector.prototype.conversionMap;
+    /** @type {?} */
+    StaticReflector.prototype.injectionToken;
     /** @type {?} */
     StaticReflector.prototype.opaqueToken;
     /** @type {?} */
@@ -29901,12 +30076,12 @@ function ResolvedStaticSymbol_tsickle_Closure_declarations() {
 }
 var /** @type {?} */ SUPPORTED_SCHEMA_VERSION = 3;
 /**
- *  This class is responsible for loading metadata per symbol,
-  * and normalizing references between symbols.
-  * *
-  * Internally, it only uses symbols without members,
-  * and deduces the values for symbols with members based
-  * on these symbols.
+ * This class is responsible for loading metadata per symbol,
+ * and normalizing references between symbols.
+ *
+ * Internally, it only uses symbols without members,
+ * and deduces the values for symbols with members based
+ * on these symbols.
  */
 var StaticSymbolResolver = (function () {
     /**
@@ -30003,9 +30178,9 @@ var StaticSymbolResolver = (function () {
         return summary ? new ResolvedStaticSymbol(staticSymbol, summary.metadata) : null;
     };
     /**
-     *  getStaticSymbol produces a Type whose metadata is known but whose implementation is not loaded.
-      * All types passed to the StaticResolver should be pseudo-types returned by this method.
-      * *
+     * getStaticSymbol produces a Type whose metadata is known but whose implementation is not loaded.
+     * All types passed to the StaticResolver should be pseudo-types returned by this method.
+     *
      * @param {?} declarationFile the absolute path of the file where the symbol is declared
      * @param {?} name the name of the type.
      * @param {?=} members
@@ -30572,17 +30747,17 @@ function AST_tsickle_Closure_declarations() {
     AST.prototype.span;
 }
 /**
- *  Represents a quoted expression of the form:
-  * *
-  * quote = prefix `:` uninterpretedExpression
-  * prefix = identifier
-  * uninterpretedExpression = arbitrary string
-  * *
-  * A quoted expression is meant to be pre-processed by an AST transformer that
-  * converts it into another AST that no longer contains quoted expressions.
-  * It is meant to allow third-party developers to extend Angular template
-  * expression language. The `uninterpretedExpression` part of the quote is
-  * therefore not interpreted by the Angular's own expression parser.
+ * Represents a quoted expression of the form:
+ *
+ * quote = prefix `:` uninterpretedExpression
+ * prefix = identifier
+ * uninterpretedExpression = arbitrary string
+ *
+ * A quoted expression is meant to be pre-processed by an AST transformer that
+ * converts it into another AST that no longer contains quoted expressions.
+ * It is meant to allow third-party developers to extend Angular template
+ * expression language. The `uninterpretedExpression` part of the quote is
+ * therefore not interpreted by the Angular's own expression parser.
  */
 var Quote = (function (_super) {
     __extends(Quote, _super);
@@ -30654,7 +30829,7 @@ var ImplicitReceiver = (function (_super) {
     return ImplicitReceiver;
 }(AST));
 /**
- *  Multiple expressions separated by a semicolon.
+ * Multiple expressions separated by a semicolon.
  */
 var Chain = (function (_super) {
     __extends(Chain, _super);
@@ -31736,7 +31911,6 @@ var _Visitor = (function () {
 function digest(message) {
     return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__digest__["a" /* decimalDigest */])(message);
 }
-// TC requires at least one non-empty example on placeholders
 var ExampleVisitor = (function () {
     function ExampleVisitor() {
     }
@@ -32649,7 +32823,7 @@ function _createIndent(count) {
  */
 
 /**
- *  Create a new class stmts based on the given data.
+ * Create a new class stmts based on the given data.
  * @param {?} config
  * @return {?}
  */
@@ -33206,8 +33380,8 @@ function _TsEmitterVisitor_tsickle_Closure_declarations() {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return ResourceLoader; });
 /**
- *  An interface for retrieving documents by URL that the compiler uses
-  * to load templates.
+ * An interface for retrieving documents by URL that the compiler uses
+ * to load templates.
  */
 var ResourceLoader = (function () {
     function ResourceLoader() {
@@ -33428,8 +33602,8 @@ function CompileMethod_tsickle_Closure_declarations() {
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return ComponentFactoryDependency; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "c", function() { return DirectiveWrapperDependency; });
 /**
- *  This is currently not read, but will probably be used in the future.
-  * We keep it as we already pass it through all the right places...
+ * This is currently not read, but will probably be used in the future.
+ * We keep it as we already pass it through all the right places...
  */
 var ComponentViewDependency = (function () {
     /**
@@ -33445,8 +33619,8 @@ function ComponentViewDependency_tsickle_Closure_declarations() {
     ComponentViewDependency.prototype.compType;
 }
 /**
- *  This is currently not read, but will probably be used in the future.
-  * We keep it as we already pass it through all the right places...
+ * This is currently not read, but will probably be used in the future.
+ * We keep it as we already pass it through all the right places...
  */
 var ComponentFactoryDependency = (function () {
     /**
@@ -33462,8 +33636,8 @@ function ComponentFactoryDependency_tsickle_Closure_declarations() {
     ComponentFactoryDependency.prototype.compType;
 }
 /**
- *  This is currently not read, but will probably be used in the future.
-  * We keep it as we already pass it through all the right places...
+ * This is currently not read, but will probably be used in the future.
+ * We keep it as we already pass it through all the right places...
  */
 var DirectiveWrapperDependency = (function () {
     /**
@@ -33497,6 +33671,7 @@ function DirectiveWrapperDependency_tsickle_Closure_declarations() {
  */
 
 /**
+ * \@experimental Animation support is experimental.
  * @abstract
  */
 var AnimationPlayer = (function () {
@@ -33590,6 +33765,7 @@ var NoOpAnimationPlayer = (function () {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["a" /* scheduleMicroTask */])(function () { return _this._onFinish(); });
     }
     /**
+     * \@internal
      * @return {?}
      */
     NoOpAnimationPlayer.prototype._onFinish = function () {
@@ -33689,10 +33865,11 @@ function NoOpAnimationPlayer_tsickle_Closure_declarations() {
  * A function that will be executed when an application is initialized.
  * @experimental
  */
-var /** @type {?} */ APP_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_1__di__["b" /* OpaqueToken */]('Application Initializer');
+var /** @type {?} */ APP_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_1__di__["b" /* InjectionToken */]('Application Initializer');
 /**
- *  A class that reflects the state of running {@link APP_INITIALIZER}s.
-  * *
+ * A class that reflects the state of running {\@link APP_INITIALIZER}s.
+ *
+ * \@experimental
  */
 var ApplicationInitStatus = (function () {
     /**
@@ -33781,8 +33958,8 @@ function ApplicationInitStatus_tsickle_Closure_declarations() {
 /* harmony export (immutable) */ exports["i"] = createPlatform;
 /* harmony export (immutable) */ exports["f"] = createPlatformFactory;
 /* harmony export (immutable) */ exports["l"] = assertPlatform;
-/* harmony export (immutable) */ exports["k"] = destroyPlatform;
-/* harmony export (immutable) */ exports["j"] = getPlatform;
+/* harmony export (immutable) */ exports["j"] = destroyPlatform;
+/* harmony export (immutable) */ exports["k"] = getPlatform;
 /* harmony export (binding) */ __webpack_require__.d(exports, "e", function() { return PlatformRef; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "d", function() { return PlatformRef_; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "c", function() { return ApplicationRef; });
@@ -33818,13 +33995,14 @@ var /** @type {?} */ _devMode = true;
 var /** @type {?} */ _runModeLocked = false;
 var /** @type {?} */ _platform;
 /**
- *  Disable Angular's development mode, which turns off assertions and other
-  * checks within the framework.
-  * *
-  * One important assertion this disables verifies that a change detection pass
-  * does not result in additional changes to any bindings (also known as
-  * unidirectional data flow).
-  * *
+ * Disable Angular's development mode, which turns off assertions and other
+ * checks within the framework.
+ *
+ * One important assertion this disables verifies that a change detection pass
+ * does not result in additional changes to any bindings (also known as
+ * unidirectional data flow).
+ *
+ * \@stable
  * @return {?}
  */
 function enableProdMode() {
@@ -33834,11 +34012,12 @@ function enableProdMode() {
     _devMode = false;
 }
 /**
- *  Returns whether Angular is in development mode. After called once,
-  * the value is locked and won't change any more.
-  * *
-  * By default, this is true, unless a user calls `enableProdMode` before calling this.
-  * *
+ * Returns whether Angular is in development mode. After called once,
+ * the value is locked and won't change any more.
+ *
+ * By default, this is true, unless a user calls `enableProdMode` before calling this.
+ *
+ * \@experimental APIs related to application bootstrap are currently under review.
  * @return {?}
  */
 function isDevMode() {
@@ -33846,8 +34025,9 @@ function isDevMode() {
     return _devMode;
 }
 /**
- *  A token for third-party components that can register themselves with NgProbe.
-  * *
+ * A token for third-party components that can register themselves with NgProbe.
+ *
+ * \@experimental
  */
 var NgProbeToken = (function () {
     /**
@@ -33867,9 +34047,10 @@ function NgProbeToken_tsickle_Closure_declarations() {
     NgProbeToken.prototype.token;
 }
 /**
- *  Creates a platform.
-  * Platforms have to be eagerly created via this function.
-  * *
+ * Creates a platform.
+ * Platforms have to be eagerly created via this function.
+ *
+ * \@experimental APIs related to application bootstrap are currently under review.
  * @param {?} injector
  * @return {?}
  */
@@ -33878,14 +34059,15 @@ function createPlatform(injector) {
         throw new Error('There can be only one platform. Destroy the previous one to create a new one.');
     }
     _platform = injector.get(PlatformRef);
-    var /** @type {?} */ inits = (injector.get(__WEBPACK_IMPORTED_MODULE_6__application_tokens__["b" /* PLATFORM_INITIALIZER */], null));
+    var /** @type {?} */ inits = injector.get(__WEBPACK_IMPORTED_MODULE_6__application_tokens__["b" /* PLATFORM_INITIALIZER */], null);
     if (inits)
         inits.forEach(function (init) { return init(); });
     return _platform;
 }
 /**
- *  Creates a factory for a platform
-  * *
+ * Creates a factory for a platform
+ *
+ * \@experimental APIs related to application bootstrap are currently under review.
  * @param {?} parentPlatformFactory
  * @param {?} name
  * @param {?=} providers
@@ -33893,7 +34075,7 @@ function createPlatform(injector) {
  */
 function createPlatformFactory(parentPlatformFactory, name, providers) {
     if (providers === void 0) { providers = []; }
-    var /** @type {?} */ marker = new __WEBPACK_IMPORTED_MODULE_8__di__["b" /* OpaqueToken */]("Platform: " + name);
+    var /** @type {?} */ marker = new __WEBPACK_IMPORTED_MODULE_8__di__["b" /* InjectionToken */]("Platform: " + name);
     return function (extraProviders) {
         if (extraProviders === void 0) { extraProviders = []; }
         if (!getPlatform()) {
@@ -33908,9 +34090,10 @@ function createPlatformFactory(parentPlatformFactory, name, providers) {
     };
 }
 /**
- *  Checks that there currently is a platform
-  * which contains the given token as a provider.
-  * *
+ * Checks that there currently is a platform
+ * which contains the given token as a provider.
+ *
+ * \@experimental APIs related to application bootstrap are currently under review.
  * @param {?} requiredToken
  * @return {?}
  */
@@ -33925,8 +34108,9 @@ function assertPlatform(requiredToken) {
     return platform;
 }
 /**
- *  Destroy the existing platform.
-  * *
+ * Destroy the existing platform.
+ *
+ * \@experimental APIs related to application bootstrap are currently under review.
  * @return {?}
  */
 function destroyPlatform() {
@@ -33935,46 +34119,50 @@ function destroyPlatform() {
     }
 }
 /**
- *  Returns the current platform.
-  * *
+ * Returns the current platform.
+ *
+ * \@experimental APIs related to application bootstrap are currently under review.
  * @return {?}
  */
 function getPlatform() {
     return _platform && !_platform.destroyed ? _platform : null;
 }
 /**
- *  The Angular platform is the entry point for Angular on a web page. Each page
-  * has exactly one platform, and services (such as reflection) which are common
-  * to every Angular application running on the page are bound in its scope.
-  * *
-  * A page's platform is initialized implicitly when {@link bootstrap}() is called, or
-  * explicitly by calling {@link createPlatform}().
-  * *
+ * The Angular platform is the entry point for Angular on a web page. Each page
+ * has exactly one platform, and services (such as reflection) which are common
+ * to every Angular application running on the page are bound in its scope.
+ *
+ * A page's platform is initialized implicitly when {\@link bootstrap}() is called, or
+ * explicitly by calling {\@link createPlatform}().
+ *
+ * \@stable
  * @abstract
  */
 var PlatformRef = (function () {
     function PlatformRef() {
     }
     /**
-     *  Creates an instance of an `@NgModule` for the given platform
-      * for offline compilation.
-      * *
-      * ## Simple Example
-      * *
-      * ```typescript
-      * my_module.ts:
-      * *
-      * imports: [BrowserModule]
-      * })
-      * class MyModule {}
-      * *
-      * main.ts:
-      * import {MyModuleNgFactory} from './my_module.ngfactory';
-      * import {platformBrowser} from '@angular/platform-browser';
-      * *
-      * let moduleRef = platformBrowser().bootstrapModuleFactory(MyModuleNgFactory);
-      * ```
-      * *
+     * Creates an instance of an `\@NgModule` for the given platform
+     * for offline compilation.
+     *
+     * ## Simple Example
+     *
+     * ```typescript
+     * my_module.ts:
+     *
+     * \@NgModule({
+     *   imports: [BrowserModule]
+     * })
+     * class MyModule {}
+     *
+     * main.ts:
+     * import {MyModuleNgFactory} from './my_module.ngfactory';
+     * import {platformBrowser} from '\@angular/platform-browser';
+     *
+     * let moduleRef = platformBrowser().bootstrapModuleFactory(MyModuleNgFactory);
+     * ```
+     *
+     * \@experimental APIs related to application bootstrap are currently under review.
      * @param {?} moduleFactory
      * @return {?}
      */
@@ -33982,17 +34170,19 @@ var PlatformRef = (function () {
         throw __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])();
     };
     /**
-     *  Creates an instance of an `@NgModule` for a given platform using the given runtime compiler.
-      * *
-      * ## Simple Example
-      * *
-      * ```typescript
-      * imports: [BrowserModule]
-      * })
-      * class MyModule {}
-      * *
-      * let moduleRef = platformBrowser().bootstrapModule(MyModule);
-      * ```
+     * Creates an instance of an `\@NgModule` for a given platform using the given runtime compiler.
+     *
+     * ## Simple Example
+     *
+     * ```typescript
+     * \@NgModule({
+     *   imports: [BrowserModule]
+     * })
+     * class MyModule {}
+     *
+     * let moduleRef = platformBrowser().bootstrapModule(MyModule);
+     * ```
+     * \@stable
      * @param {?} moduleType
      * @param {?=} compilerOptions
      * @return {?}
@@ -34002,7 +34192,7 @@ var PlatformRef = (function () {
         throw __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])();
     };
     /**
-     *  Register a listener to be called when the platform is disposed.
+     * Register a listener to be called when the platform is disposed.
      * @abstract
      * @param {?} callback
      * @return {?}
@@ -34010,8 +34200,8 @@ var PlatformRef = (function () {
     PlatformRef.prototype.onDestroy = function (callback) { };
     Object.defineProperty(PlatformRef.prototype, "injector", {
         /**
-         *  Retrieve the platform {@link Injector}, which is the parent injector for
-          * every Angular application on the page and provides singleton providers.
+         * Retrieve the platform {\@link Injector}, which is the parent injector for
+         * every Angular application on the page and provides singleton providers.
          * @return {?}
          */
         get: function () { throw __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])(); },
@@ -34020,7 +34210,7 @@ var PlatformRef = (function () {
     });
     ;
     /**
-     *  Destroy the Angular platform and all Angular applications on the page.
+     * Destroy the Angular platform and all Angular applications on the page.
      * @abstract
      * @return {?}
      */
@@ -34221,48 +34411,49 @@ function PlatformRef__tsickle_Closure_declarations() {
     PlatformRef_.prototype._injector;
 }
 /**
- *  A reference to an Angular application running on a page.
-  * *
-  * For more about Angular applications, see the documentation for {@link bootstrap}.
-  * *
+ * A reference to an Angular application running on a page.
+ *
+ * For more about Angular applications, see the documentation for {\@link bootstrap}.
+ *
+ * \@stable
  * @abstract
  */
 var ApplicationRef = (function () {
     function ApplicationRef() {
     }
     /**
-     *  Bootstrap a new component at the root level of the application.
-      * *
-      * ### Bootstrap process
-      * *
-      * When bootstrapping a new root component into an application, Angular mounts the
-      * specified application component onto DOM elements identified by the [componentType]'s
-      * selector and kicks off automatic change detection to finish initializing the component.
-      * *
-      * ### Example
-      * {@example core/ts/platform/platform.ts region='longform'}
+     * Bootstrap a new component at the root level of the application.
+     *
+     * ### Bootstrap process
+     *
+     * When bootstrapping a new root component into an application, Angular mounts the
+     * specified application component onto DOM elements identified by the [componentType]'s
+     * selector and kicks off automatic change detection to finish initializing the component.
+     *
+     * ### Example
+     * {\@example core/ts/platform/platform.ts region='longform'}
      * @abstract
      * @param {?} componentFactory
      * @return {?}
      */
     ApplicationRef.prototype.bootstrap = function (componentFactory) { };
     /**
-     *  Invoke this method to explicitly process change detection and its side-effects.
-      * *
-      * In development mode, `tick()` also performs a second change detection cycle to ensure that no
-      * further changes are detected. If additional changes are picked up during this second cycle,
-      * bindings in the app have side-effects that cannot be resolved in a single change detection
-      * pass.
-      * In this case, Angular throws an error, since an Angular application can only have one change
-      * detection pass during which all change detection must complete.
+     * Invoke this method to explicitly process change detection and its side-effects.
+     *
+     * In development mode, `tick()` also performs a second change detection cycle to ensure that no
+     * further changes are detected. If additional changes are picked up during this second cycle,
+     * bindings in the app have side-effects that cannot be resolved in a single change detection
+     * pass.
+     * In this case, Angular throws an error, since an Angular application can only have one change
+     * detection pass during which all change detection must complete.
      * @abstract
      * @return {?}
      */
     ApplicationRef.prototype.tick = function () { };
     Object.defineProperty(ApplicationRef.prototype, "componentTypes", {
         /**
-         *  Get a list of component types registered to this application.
-          * This list is populated even before the component is created.
+         * Get a list of component types registered to this application.
+         * This list is populated even before the component is created.
          * @return {?}
          */
         get: function () { return (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])()); },
@@ -34272,7 +34463,7 @@ var ApplicationRef = (function () {
     ;
     Object.defineProperty(ApplicationRef.prototype, "components", {
         /**
-         *  Get a list of components registered to this application.
+         * Get a list of components registered to this application.
          * @return {?}
          */
         get: function () { return (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])()); },
@@ -34281,22 +34472,22 @@ var ApplicationRef = (function () {
     });
     ;
     /**
-     *  Attaches a view so that it will be dirty checked.
-      * The view will be automatically detached when it is destroyed.
-      * This will throw if the view is already attached to a ViewContainer.
+     * Attaches a view so that it will be dirty checked.
+     * The view will be automatically detached when it is destroyed.
+     * This will throw if the view is already attached to a ViewContainer.
      * @param {?} view
      * @return {?}
      */
     ApplicationRef.prototype.attachView = function (view) { __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])(); };
     /**
-     *  Detaches a view from dirty checking again.
+     * Detaches a view from dirty checking again.
      * @param {?} view
      * @return {?}
      */
     ApplicationRef.prototype.detachView = function (view) { __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])(); };
     Object.defineProperty(ApplicationRef.prototype, "viewCount", {
         /**
-         *  Returns the number of attached views.
+         * Returns the number of attached views.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__src_facade_errors__["b" /* unimplemented */])(); },
@@ -34394,8 +34585,7 @@ var ApplicationRef_ = (function (_super) {
         this.tick();
         this._rootComponents.push(componentRef);
         // Get the listeners lazily to prevent DI cycles.
-        var /** @type {?} */ listeners = (this._injector.get(__WEBPACK_IMPORTED_MODULE_6__application_tokens__["c" /* APP_BOOTSTRAP_LISTENER */], [])
-            .concat(this._bootstrapListeners));
+        var /** @type {?} */ listeners = this._injector.get(__WEBPACK_IMPORTED_MODULE_6__application_tokens__["c" /* APP_BOOTSTRAP_LISTENER */], []).concat(this._bootstrapListeners);
         listeners.forEach(function (listener) { return listener(componentRef); });
     };
     /**
@@ -34476,7 +34666,10 @@ var ApplicationRef_ = (function (_super) {
     return ApplicationRef_;
 }(ApplicationRef));
 function ApplicationRef__tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ApplicationRef_._tickScope;
     /** @type {?} */
     ApplicationRef_.decorators;
@@ -34800,11 +34993,12 @@ var DefaultIterableDiffer = (function () {
         configurable: true
     });
     /**
-     *  Reset the state of the change objects to show no changes. This means set previousKey to
-      * currentKey, and clear all of the queues (additions, moves, removals).
-      * Set the previousIndexes of moved and added items to their currentIndexes
-      * Reset the list of additions, moves and removals
-      * *
+     * Reset the state of the change objects to show no changes. This means set previousKey to
+     * currentKey, and clear all of the queues (additions, moves, removals).
+     * Set the previousIndexes of moved and added items to their currentIndexes
+     * Reset the list of additions, moves and removals
+     *
+     * \@internal
      * @return {?}
      */
     DefaultIterableDiffer.prototype._reset = function () {
@@ -34828,13 +35022,14 @@ var DefaultIterableDiffer = (function () {
         }
     };
     /**
-     *  This is the core function which handles differences between collections.
-      * *
-      * - `record` is the record which we saw at this position last time. If null then it is a new
-      * item.
-      * - `item` is the current item in the collection
-      * - `index` is the position of the item in the collection
-      * *
+     * This is the core function which handles differences between collections.
+     *
+     * - `record` is the record which we saw at this position last time. If null then it is a new
+     *   item.
+     * - `item` is the current item in the collection
+     * - `index` is the position of the item in the collection
+     *
+     * \@internal
      * @param {?} record
      * @param {?} item
      * @param {?} itemTrackBy
@@ -34880,30 +35075,31 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
-     *  This check is only needed if an array contains duplicates. (Short circuit of nothing dirty)
-      * *
-      * Use case: `[a, a]` => `[b, a, a]`
-      * *
-      * If we did not have this check then the insertion of `b` would:
-      * 1) evict first `a`
-      * 2) insert `b` at `0` index.
-      * 3) leave `a` at index `1` as is. <-- this is wrong!
-      * 3) reinsert `a` at index 2. <-- this is wrong!
-      * *
-      * The correct behavior is:
-      * 1) evict first `a`
-      * 2) insert `b` at `0` index.
-      * 3) reinsert `a` at index 1.
-      * 3) move `a` at from `1` to `2`.
-      * *
-      * *
-      * Double check that we have not evicted a duplicate item. We need to check if the item type may
-      * have already been removed:
-      * The insertion of b will evict the first 'a'. If we don't reinsert it now it will be reinserted
-      * at the end. Which will show up as the two 'a's switching position. This is incorrect, since a
-      * better way to think of it is as insert of 'b' rather then switch 'a' with 'b' and then add 'a'
-      * at the end.
-      * *
+     * This check is only needed if an array contains duplicates. (Short circuit of nothing dirty)
+     *
+     * Use case: `[a, a]` => `[b, a, a]`
+     *
+     * If we did not have this check then the insertion of `b` would:
+     *   1) evict first `a`
+     *   2) insert `b` at `0` index.
+     *   3) leave `a` at index `1` as is. <-- this is wrong!
+     *   3) reinsert `a` at index 2. <-- this is wrong!
+     *
+     * The correct behavior is:
+     *   1) evict first `a`
+     *   2) insert `b` at `0` index.
+     *   3) reinsert `a` at index 1.
+     *   3) move `a` at from `1` to `2`.
+     *
+     *
+     * Double check that we have not evicted a duplicate item. We need to check if the item type may
+     * have already been removed:
+     * The insertion of b will evict the first 'a'. If we don't reinsert it now it will be reinserted
+     * at the end. Which will show up as the two 'a's switching position. This is incorrect, since a
+     * better way to think of it is as insert of 'b' rather then switch 'a' with 'b' and then add 'a'
+     * at the end.
+     *
+     * \@internal
      * @param {?} record
      * @param {?} item
      * @param {?} itemTrackBy
@@ -34922,10 +35118,11 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
-     *  Get rid of any excess {@link IterableChangeRecord_}s from the previous collection
-      * *
-      * - `record` The first excess {@link IterableChangeRecord_}.
-      * *
+     * Get rid of any excess {\@link IterableChangeRecord_}s from the previous collection
+     *
+     * - `record` The first excess {\@link IterableChangeRecord_}.
+     *
+     * \@internal
      * @param {?} record
      * @return {?}
      */
@@ -34956,6 +35153,7 @@ var DefaultIterableDiffer = (function () {
         }
     };
     /**
+     * \@internal
      * @param {?} record
      * @param {?} prevRecord
      * @param {?} index
@@ -34984,6 +35182,7 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
+     * \@internal
      * @param {?} record
      * @param {?} prevRecord
      * @param {?} index
@@ -34996,6 +35195,7 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
+     * \@internal
      * @param {?} record
      * @param {?} prevRecord
      * @param {?} index
@@ -35017,6 +35217,7 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
+     * \@internal
      * @param {?} record
      * @param {?} prevRecord
      * @param {?} index
@@ -35053,6 +35254,7 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
+     * \@internal
      * @param {?} record
      * @return {?}
      */
@@ -35060,6 +35262,7 @@ var DefaultIterableDiffer = (function () {
         return this._addToRemovals(this._unlink(record));
     };
     /**
+     * \@internal
      * @param {?} record
      * @return {?}
      */
@@ -35087,6 +35290,7 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
+     * \@internal
      * @param {?} record
      * @param {?} toIndex
      * @return {?}
@@ -35136,6 +35340,7 @@ var DefaultIterableDiffer = (function () {
         return record;
     };
     /**
+     * \@internal
      * @param {?} record
      * @param {?} item
      * @return {?}
@@ -35210,7 +35415,7 @@ function DefaultIterableDiffer_tsickle_Closure_declarations() {
     DefaultIterableDiffer.prototype._trackByFn;
 }
 /**
- * @stable
+ * \@stable
  */
 var IterableChangeRecord_ = (function () {
     /**
@@ -35258,32 +35463,61 @@ function IterableChangeRecord__tsickle_Closure_declarations() {
     IterableChangeRecord_.prototype.currentIndex;
     /** @type {?} */
     IterableChangeRecord_.prototype.previousIndex;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._nextPrevious;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._prev;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._next;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._prevDup;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._nextDup;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._prevRemoved;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._nextRemoved;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._nextAdded;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._nextMoved;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     IterableChangeRecord_.prototype._nextIdentityChange;
     /** @type {?} */
     IterableChangeRecord_.prototype.item;
     /** @type {?} */
     IterableChangeRecord_.prototype.trackById;
 }
-// A linked list of CollectionChangeRecords with the same IterableChangeRecord_.item
 var _DuplicateItemRecordList = (function () {
     function _DuplicateItemRecordList() {
         /** @internal */
@@ -35292,9 +35526,9 @@ var _DuplicateItemRecordList = (function () {
         this._tail = null;
     }
     /**
-     *  Append the record to the list of duplicates.
-      * *
-      * Note: by design all records in the list of duplicates hold the same value in record.item.
+     * Append the record to the list of duplicates.
+     *
+     * Note: by design all records in the list of duplicates hold the same value in record.item.
      * @param {?} record
      * @return {?}
      */
@@ -35330,9 +35564,9 @@ var _DuplicateItemRecordList = (function () {
         return null;
     };
     /**
-     *  Remove one {@link IterableChangeRecord_} from the list of duplicates.
-      * *
-      * Returns whether the list of duplicates is empty.
+     * Remove one {\@link IterableChangeRecord_} from the list of duplicates.
+     *
+     * Returns whether the list of duplicates is empty.
      * @param {?} record
      * @return {?}
      */
@@ -35364,9 +35598,15 @@ var _DuplicateItemRecordList = (function () {
     return _DuplicateItemRecordList;
 }());
 function _DuplicateItemRecordList_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     _DuplicateItemRecordList.prototype._head;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     _DuplicateItemRecordList.prototype._tail;
 }
 var _DuplicateMap = (function () {
@@ -35387,11 +35627,11 @@ var _DuplicateMap = (function () {
         duplicates.add(record);
     };
     /**
-     *  Retrieve the `value` using key. Because the IterableChangeRecord_ value may be one which we
-      * have already iterated over, we use the afterIndex to pretend it is not there.
-      * *
-      * Use case: `[a, b, c, a, a]` if we are at index `3` which is the second `a` then asking if we
-      * have any more `a`s needs to return the last `a` not the first or second.
+     * Retrieve the `value` using key. Because the IterableChangeRecord_ value may be one which we
+     * have already iterated over, we use the afterIndex to pretend it is not there.
+     *
+     * Use case: `[a, b, c, a, a]` if we are at index `3` which is the second `a` then asking if we
+     * have any more `a`s needs to return the last `a` not the first or second.
      * @param {?} trackById
      * @param {?=} afterIndex
      * @return {?}
@@ -35403,9 +35643,9 @@ var _DuplicateMap = (function () {
         return recordList ? recordList.get(trackById, afterIndex) : null;
     };
     /**
-     *  Removes a {@link IterableChangeRecord_} from the list of duplicates.
-      * *
-      * The list of duplicates also is removed from the map if it gets empty.
+     * Removes a {\@link IterableChangeRecord_} from the list of duplicates.
+     *
+     * The list of duplicates also is removed from the map if it gets empty.
      * @param {?} record
      * @return {?}
      */
@@ -35523,15 +35763,16 @@ function Console_tsickle_Closure_declarations() {
  */
 
 /**
- *  Allows to refer to references which are not yet defined.
-  * *
-  * For instance, `forwardRef` is used when the `token` which we need to refer to for the purposes of
-  * DI is declared,
-  * but not yet defined. It is also used when the `token` which we use when creating a query is not
-  * yet defined.
-  * *
-  * ### Example
-  * {@example core/di/ts/forward_ref/forward_ref_spec.ts region='forward_ref'}
+ * Allows to refer to references which are not yet defined.
+ *
+ * For instance, `forwardRef` is used when the `token` which we need to refer to for the purposes of
+ * DI is declared,
+ * but not yet defined. It is also used when the `token` which we use when creating a query is not
+ * yet defined.
+ *
+ * ### Example
+ * {\@example core/di/ts/forward_ref/forward_ref_spec.ts region='forward_ref'}
+ * \@experimental
  * @param {?} forwardRefFn
  * @return {?}
  */
@@ -35541,15 +35782,16 @@ function forwardRef(forwardRefFn) {
     return (((forwardRefFn)));
 }
 /**
- *  Lazily retrieves the reference value from a forwardRef.
-  * *
-  * Acts as the identity function when given a non-forward-ref value.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/GU72mJrk1fiodChcmiDR?p=preview))
-  * *
-  * {@example core/di/ts/forward_ref/forward_ref_spec.ts region='resolve_forward_ref'}
-  * *
-  * See: {@link forwardRef}
+ * Lazily retrieves the reference value from a forwardRef.
+ *
+ * Acts as the identity function when given a non-forward-ref value.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/GU72mJrk1fiodChcmiDR?p=preview))
+ *
+ * {\@example core/di/ts/forward_ref/forward_ref_spec.ts region='resolve_forward_ref'}
+ *
+ * See: {\@link forwardRef}
+ * \@experimental
  * @param {?} type
  * @return {?}
  */
@@ -35569,27 +35811,35 @@ function resolveForwardRef(type) {
 /***/ function(module, exports, __webpack_require__) {
 
 "use strict";
-/* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return OpaqueToken; });
+/* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return OpaqueToken; });
+/* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return InjectionToken; });
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
 /**
- *  Creates a token that can be used in a DI Provider.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Ys9ezXpj2Mnoy3Uc8KBp?p=preview))
-  * *
-  * ```typescript
-  * var t = new OpaqueToken("value");
-  * *
-  * var injector = Injector.resolveAndCreate([
-  * {provide: t, useValue: "bindingValue"}
-  * ]);
-  * *
-  * expect(injector.get(t)).toEqual("bindingValue");
-  * ```
-  * *
-  * Using an `OpaqueToken` is preferable to using strings as tokens because of possible collisions
-  * caused by multiple providers using the same string as two different tokens.
-  * *
-  * Using an `OpaqueToken` is preferable to using an `Object` as tokens because it provides better
-  * error messages.
+ * Creates a token that can be used in a DI Provider.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Ys9ezXpj2Mnoy3Uc8KBp?p=preview))
+ *
+ * ```typescript
+ * var t = new OpaqueToken("value");
+ *
+ * var injector = Injector.resolveAndCreate([
+ *   {provide: t, useValue: "bindingValue"}
+ * ]);
+ *
+ * expect(injector.get(t)).toEqual("bindingValue");
+ * ```
+ *
+ * Using an `OpaqueToken` is preferable to using strings as tokens because of possible collisions
+ * caused by multiple providers using the same string as two different tokens.
+ *
+ * Using an `OpaqueToken` is preferable to using an `Object` as tokens because it provides better
+ * error messages.
+ * @deprecated since v4.0.0 because it does not support type information, use `InjectionToken<?>`
+ * instead.
  */
 var OpaqueToken = (function () {
     /**
@@ -35608,7 +35858,47 @@ function OpaqueToken_tsickle_Closure_declarations() {
     /** @type {?} */
     OpaqueToken.prototype._desc;
 }
-//# sourceMappingURL=opaque_token.js.map
+/**
+ * Creates a token that can be used in a DI Provider.
+ *
+ * Use an `InjectionToken` whenever the type you are injecting is not reified (does not have a
+ * runtime representation) such as when injecting an interface, callable type, array or
+ * parametrized type.
+ *
+ * `InjectionToken` is parametrize on `T` which is the type of object which will be returned by the
+ * `Injector`. This provides additional level of type safety.
+ *
+ * ```
+ * interface MyInterface {...}
+ * var myInterface = injector.get(new InjectionToken<MyInterface>('SomeToken'));
+ * // myInterface is inferred to be MyInterface.
+ * ```
+ *
+ * ### Example
+ *
+ * {\@example core/di/ts/injector_spec.ts region='Injector'}
+ *
+ * \@stable
+ */
+var InjectionToken = (function (_super) {
+    __extends(InjectionToken, _super);
+    /**
+     * @param {?} desc
+     */
+    function InjectionToken(desc) {
+        _super.call(this, desc);
+    }
+    /**
+     * @return {?}
+     */
+    InjectionToken.prototype.toString = function () { return "InjectionToken " + this._desc; };
+    return InjectionToken;
+}(OpaqueToken));
+function InjectionToken_tsickle_Closure_declarations() {
+    /** @type {?} */
+    InjectionToken.prototype._differentiate_from_OpaqueToken_structurally;
+}
+//# sourceMappingURL=injection_token.js.map
 
 /***/ },
 /* 164 */
@@ -35629,23 +35919,24 @@ function OpaqueToken_tsickle_Closure_declarations() {
 
 
 /**
- *  A unique object used for retrieving items from the {@link ReflectiveInjector}.
-  * *
-  * Keys have:
-  * - a system-wide unique `id`.
-  * - a `token`.
-  * *
-  * `Key` is used internally by {@link ReflectiveInjector} because its system-wide unique `id` allows
-  * the
-  * injector to store created objects in a more efficient way.
-  * *
-  * `Key` should not be created directly. {@link ReflectiveInjector} creates keys automatically when
-  * resolving
-  * providers.
+ * A unique object used for retrieving items from the {\@link ReflectiveInjector}.
+ *
+ * Keys have:
+ * - a system-wide unique `id`.
+ * - a `token`.
+ *
+ * `Key` is used internally by {\@link ReflectiveInjector} because its system-wide unique `id` allows
+ * the
+ * injector to store created objects in a more efficient way.
+ *
+ * `Key` should not be created directly. {\@link ReflectiveInjector} creates keys automatically when
+ * resolving
+ * providers.
+ * \@experimental
  */
 var ReflectiveKey = (function () {
     /**
-     *  Private
+     * Private
      * @param {?} token
      * @param {?} id
      */
@@ -35658,7 +35949,7 @@ var ReflectiveKey = (function () {
     }
     Object.defineProperty(ReflectiveKey.prototype, "displayName", {
         /**
-         *  Returns a stringified token.
+         * Returns a stringified token.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["c" /* stringify */])(this.token); },
@@ -35666,7 +35957,7 @@ var ReflectiveKey = (function () {
         configurable: true
     });
     /**
-     *  Retrieves a `Key` for a token.
+     * Retrieves a `Key` for a token.
      * @param {?} token
      * @return {?}
      */
@@ -35690,7 +35981,7 @@ function ReflectiveKey_tsickle_Closure_declarations() {
     ReflectiveKey.prototype.id;
 }
 /**
- * @internal
+ * \@internal
  */
 var KeyRegistry = (function () {
     function KeyRegistry() {
@@ -35758,8 +36049,8 @@ var /** @type {?} */ _globalKeyRegistry = new KeyRegistry();
 
 
 /**
- *  `Dependency` is used by the framework to extend DI.
-  * This is internal to Angular and should not be used directly.
+ * `Dependency` is used by the framework to extend DI.
+ * This is internal to Angular and should not be used directly.
  */
 var ReflectiveDependency = (function () {
     /**
@@ -35828,8 +36119,9 @@ function ResolvedReflectiveProvider__tsickle_Closure_declarations() {
     ResolvedReflectiveProvider_.prototype.multiProvider;
 }
 /**
- *  An internal resolved representation of a factory function created by resolving {@link
-  * Provider}.
+ * An internal resolved representation of a factory function created by resolving {\@link
+ * Provider}.
+ * \@experimental
  */
 var ResolvedReflectiveFactory = (function () {
     /**
@@ -35855,7 +36147,7 @@ function ResolvedReflectiveFactory_tsickle_Closure_declarations() {
     ResolvedReflectiveFactory.prototype.dependencies;
 }
 /**
- *  Resolve a single provider.
+ * Resolve a single provider.
  * @param {?} provider
  * @return {?}
  */
@@ -35882,10 +36174,10 @@ function resolveReflectiveFactory(provider) {
     return new ResolvedReflectiveFactory(factoryFn, resolvedDeps);
 }
 /**
- *  Converts the {@link Provider} into {@link ResolvedProvider}.
-  * *
-  * {@link Injector} internally only uses {@link ResolvedProvider}, {@link Provider} contains
-  * convenience provider syntax.
+ * Converts the {\@link Provider} into {\@link ResolvedProvider}.
+ *
+ * {\@link Injector} internally only uses {\@link ResolvedProvider}, {\@link Provider} contains
+ * convenience provider syntax.
  * @param {?} provider
  * @return {?}
  */
@@ -35893,7 +36185,7 @@ function resolveReflectiveProvider(provider) {
     return new ResolvedReflectiveProvider_(__WEBPACK_IMPORTED_MODULE_5__reflective_key__["a" /* ReflectiveKey */].get(provider.provide), [resolveReflectiveFactory(provider)], provider.multi);
 }
 /**
- *  Resolve a list of Providers.
+ * Resolve a list of Providers.
  * @param {?} providers
  * @return {?}
  */
@@ -35904,9 +36196,9 @@ function resolveReflectiveProviders(providers) {
     return Array.from(resolvedProviderMap.values());
 }
 /**
- *  Merges a list of ResolvedProviders into a list where
-  * each key is contained exactly once and multi providers
-  * have been merged.
+ * Merges a list of ResolvedProviders into a list where
+ * each key is contained exactly once and multi providers
+ * have been merged.
  * @param {?} providers
  * @param {?} normalizedProvidersMap
  * @return {?}
@@ -36080,55 +36372,57 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Use by directives and components to emit custom Events.
-  * *
-  * ### Examples
-  * *
-  * In the following example, `Zippy` alternatively emits `open` and `close` events when its
-  * title gets clicked:
-  * *
-  * ```
-  * selector: 'zippy',
-  * template: `
-  * <div class="zippy">
-  * <div (click)="toggle()">Toggle</div>
-  * <div [hidden]="!visible">
-  * <ng-content></ng-content>
-  * </div>
-  * </div>`})
-  * export class Zippy {
-  * visible: boolean = true;
-  * @Output() open: EventEmitter<any> = new EventEmitter();
-  * @Output() close: EventEmitter<any> = new EventEmitter();
-  * *
-  * toggle() {
-  * this.visible = !this.visible;
-  * if (this.visible) {
-  * this.open.emit(null);
-  * } else {
-  * this.close.emit(null);
-  * }
-  * }
-  * }
-  * ```
-  * *
-  * The events payload can be accessed by the parameter `$event` on the components output event
-  * handler:
-  * *
-  * ```
-  * <zippy (open)="onOpen($event)" (close)="onClose($event)"></zippy>
-  * ```
-  * *
-  * Uses Rx.Observable but provides an adapter to make it work as specified here:
-  * https://github.com/jhusain/observable-spec
-  * *
-  * Once a reference implementation of the spec is available, switch to it.
+ * Use by directives and components to emit custom Events.
+ *
+ * ### Examples
+ *
+ * In the following example, `Zippy` alternatively emits `open` and `close` events when its
+ * title gets clicked:
+ *
+ * ```
+ * \@Component({
+ *   selector: 'zippy',
+ *   template: `
+ *   <div class="zippy">
+ *     <div (click)="toggle()">Toggle</div>
+ *     <div [hidden]="!visible">
+ *       <ng-content></ng-content>
+ *     </div>
+ *  </div>`})
+ * export class Zippy {
+ *   visible: boolean = true;
+ *   \@Output() open: EventEmitter<any> = new EventEmitter();
+ *   \@Output() close: EventEmitter<any> = new EventEmitter();
+ *
+ *   toggle() {
+ *     this.visible = !this.visible;
+ *     if (this.visible) {
+ *       this.open.emit(null);
+ *     } else {
+ *       this.close.emit(null);
+ *     }
+ *   }
+ * }
+ * ```
+ *
+ * The events payload can be accessed by the parameter `$event` on the components output event
+ * handler:
+ *
+ * ```
+ * <zippy (open)="onOpen($event)" (close)="onClose($event)"></zippy>
+ * ```
+ *
+ * Uses Rx.Observable but provides an adapter to make it work as specified here:
+ * https://github.com/jhusain/observable-spec
+ *
+ * Once a reference implementation of the spec is available, switch to it.
+ * \@stable
  */
 var EventEmitter = (function (_super) {
     __extends(EventEmitter, _super);
     /**
-     *  Creates an instance of [EventEmitter], which depending on [isAsync],
-      * delivers events synchronously or asynchronously.
+     * Creates an instance of [EventEmitter], which depending on [isAsync],
+     * delivers events synchronously or asynchronously.
      * @param {?=} isAsync
      */
     function EventEmitter(isAsync) {
@@ -36213,11 +36507,12 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Represents an instance of a Component created via a {@link ComponentFactory}.
-  * *
-  * `ComponentRef` provides access to the Component Instance as well other objects related to this
-  * Component Instance and allows you to destroy the Component Instance via the {@link #destroy}
-  * method.
+ * Represents an instance of a Component created via a {\@link ComponentFactory}.
+ *
+ * `ComponentRef` provides access to the Component Instance as well other objects related to this
+ * Component Instance and allows you to destroy the Component Instance via the {\@link #destroy}
+ * method.
+ * \@stable
  * @abstract
  */
 var ComponentRef = (function () {
@@ -36225,7 +36520,7 @@ var ComponentRef = (function () {
     }
     Object.defineProperty(ComponentRef.prototype, "location", {
         /**
-         *  Location of the Host Element of this Component Instance.
+         * Location of the Host Element of this Component Instance.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -36234,7 +36529,7 @@ var ComponentRef = (function () {
     });
     Object.defineProperty(ComponentRef.prototype, "injector", {
         /**
-         *  The injector on which the component instance exists.
+         * The injector on which the component instance exists.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -36243,7 +36538,7 @@ var ComponentRef = (function () {
     });
     Object.defineProperty(ComponentRef.prototype, "instance", {
         /**
-         *  The instance of the Component.
+         * The instance of the Component.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -36253,7 +36548,7 @@ var ComponentRef = (function () {
     ;
     Object.defineProperty(ComponentRef.prototype, "hostView", {
         /**
-         *  The {@link ViewRef} of the Host View of this Component instance.
+         * The {\@link ViewRef} of the Host View of this Component instance.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -36263,7 +36558,7 @@ var ComponentRef = (function () {
     ;
     Object.defineProperty(ComponentRef.prototype, "changeDetectorRef", {
         /**
-         *  The {@link ChangeDetectorRef} of the Component instance.
+         * The {\@link ChangeDetectorRef} of the Component instance.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -36272,7 +36567,7 @@ var ComponentRef = (function () {
     });
     Object.defineProperty(ComponentRef.prototype, "componentType", {
         /**
-         *  The component type.
+         * The component type.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -36280,13 +36575,13 @@ var ComponentRef = (function () {
         configurable: true
     });
     /**
-     *  Destroys the component instance and all of the data structures associated with it.
+     * Destroys the component instance and all of the data structures associated with it.
      * @abstract
      * @return {?}
      */
     ComponentRef.prototype.destroy = function () { };
     /**
-     *  Allows to register a callback that will be called when the component is destroyed.
+     * Allows to register a callback that will be called when the component is destroyed.
      * @abstract
      * @param {?} callback
      * @return {?}
@@ -36382,7 +36677,7 @@ function ComponentRef__tsickle_Closure_declarations() {
     ComponentRef_.prototype._component;
 }
 /**
- * @stable
+ * \@stable
  */
 var ComponentFactory = (function () {
     /**
@@ -36404,7 +36699,7 @@ var ComponentFactory = (function () {
         configurable: true
     });
     /**
-     *  Creates a new component.
+     * Creates a new component.
      * @param {?} injector
      * @param {?=} projectableNodes
      * @param {?=} rootSelectorOrNode
@@ -36423,7 +36718,10 @@ var ComponentFactory = (function () {
     return ComponentFactory;
 }());
 function ComponentFactory_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ComponentFactory.prototype._viewClass;
     /** @type {?} */
     ComponentFactory.prototype.selector;
@@ -36465,8 +36763,8 @@ var /** @type {?} */ reflector = new __WEBPACK_IMPORTED_MODULE_1__reflector__["a
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return ReflectorReader; });
 /**
- *  Provides read-only access to reflection data about symbols. Used internally by Angular
-  * to power dependency injection and compilation.
+ * Provides read-only access to reflection data about symbols. Used internally by Angular
+ * to power dependency injection and compilation.
  * @abstract
  */
 var ReflectorReader = (function () {
@@ -36533,10 +36831,6 @@ var ReflectorReader = (function () {
  * found in the LICENSE file at https://angular.io/license
  */
 
-/**
- * @experimental
- */
-// TODO (matsko): add typing for the animation function
 var RenderComponentType = (function () {
     /**
      * @param {?} id
@@ -36627,6 +36921,7 @@ var RenderDebugInfo = (function () {
     return RenderDebugInfo;
 }());
 /**
+ * \@experimental
  * @abstract
  */
 var Renderer = (function () {
@@ -36728,7 +37023,7 @@ var Renderer = (function () {
      */
     Renderer.prototype.setElementAttribute = function (renderElement, attributeName, attributeValue) { };
     /**
-     *  Used only in debug mode to serialize property changes to dom nodes as attributes.
+     * Used only in debug mode to serialize property changes to dom nodes as attributes.
      * @abstract
      * @param {?} renderElement
      * @param {?} propertyName
@@ -36782,16 +37077,17 @@ var Renderer = (function () {
     return Renderer;
 }());
 /**
- *  Injectable service that provides a low-level interface for modifying the UI.
-  * *
-  * Use this service to bypass Angular's templating and make custom UI changes that can't be
-  * expressed declaratively. For example if you need to set a property or an attribute whose name is
-  * not statically known, use {@link #setElementProperty} or {@link #setElementAttribute}
-  * respectively.
-  * *
-  * If you are implementing a custom renderer, you must implement this interface.
-  * *
-  * The default Renderer implementation is `DomRenderer`. Also available is `WebWorkerRenderer`.
+ * Injectable service that provides a low-level interface for modifying the UI.
+ *
+ * Use this service to bypass Angular's templating and make custom UI changes that can't be
+ * expressed declaratively. For example if you need to set a property or an attribute whose name is
+ * not statically known, use {\@link #setElementProperty} or {\@link #setElementAttribute}
+ * respectively.
+ *
+ * If you are implementing a custom renderer, you must implement this interface.
+ *
+ * The default Renderer implementation is `DomRenderer`. Also available is `WebWorkerRenderer`.
+ * \@experimental
  * @abstract
  */
 var RootRenderer = (function () {
@@ -36829,9 +37125,10 @@ var RootRenderer = (function () {
 
 
 /**
- *  The Testability service provides testing hooks that can be accessed from
-  * the browser and by services such as Protractor. Each bootstrapped Angular
-  * application on the page will have an instance of Testability.
+ * The Testability service provides testing hooks that can be accessed from
+ * the browser and by services such as Protractor. Each bootstrapped Angular
+ * application on the page will have an instance of Testability.
+ * \@experimental
  */
 var Testability = (function () {
     /**
@@ -36855,6 +37152,7 @@ var Testability = (function () {
         this._watchAngularEvents();
     }
     /**
+     * \@internal
      * @return {?}
      */
     Testability.prototype._watchAngularEvents = function () {
@@ -36903,6 +37201,7 @@ var Testability = (function () {
         return this._isZoneStable && this._pendingCount == 0 && !this._ngZone.hasPendingMacrotasks;
     };
     /**
+     * \@internal
      * @return {?}
      */
     Testability.prototype._runCallbacksIfReady = function () {
@@ -36971,24 +37270,35 @@ function Testability_tsickle_Closure_declarations() {
      * @type {?}
      */
     Testability.ctorParameters;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Testability.prototype._pendingCount;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Testability.prototype._isZoneStable;
     /**
      * Whether any work was done since the last 'whenStable' callback. This is
      * useful to detect if this could have potentially destabilized another
      * component while it is stabilizing.
+     * \@internal
      * @type {?}
      */
     Testability.prototype._didWork;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Testability.prototype._callbacks;
     /** @type {?} */
     Testability.prototype._ngZone;
 }
 /**
- *  A global registry of {@link Testability} instances for specific elements.
+ * A global registry of {\@link Testability} instances for specific elements.
+ * \@experimental
  */
 var TestabilityRegistry = (function () {
     function TestabilityRegistry() {
@@ -37041,7 +37351,10 @@ function TestabilityRegistry_tsickle_Closure_declarations() {
      * @type {?}
      */
     TestabilityRegistry.ctorParameters;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     TestabilityRegistry.prototype._applications;
 }
 var _NoopGetTestability = (function () {
@@ -37064,7 +37377,8 @@ var _NoopGetTestability = (function () {
     return _NoopGetTestability;
 }());
 /**
- *  Set the {@link GetTestability} implementation used by the Angular testing framework.
+ * Set the {\@link GetTestability} implementation used by the Angular testing framework.
+ * \@experimental
  * @param {?} getter
  * @return {?}
  */
@@ -37115,11 +37429,11 @@ function isType(v) {
 "use strict";
 /* harmony export (immutable) */ exports["a"] = isPromise;
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  * @param {?} obj
  * @return {?}
  */
@@ -37146,10 +37460,11 @@ function isPromise(obj) {
  */
 
 /**
- *  A backend for http that uses the `XMLHttpRequest` browser API.
-  * *
-  * Take care not to evaluate this in non-browser contexts.
-  * *
+ * A backend for http that uses the `XMLHttpRequest` browser API.
+ *
+ * Take care not to evaluate this in non-browser contexts.
+ *
+ * \@experimental
  */
 var BrowserXhr = (function () {
     function BrowserXhr() {
@@ -37206,29 +37521,30 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Creates a request options object to be optionally provided when instantiating a
-  * {@link Request}.
-  * *
-  * This class is based on the `RequestInit` description in the [Fetch
-  * Spec](https://fetch.spec.whatwg.org/#requestinit).
-  * *
-  * All values are null by default. Typical defaults can be found in the {@link BaseRequestOptions}
-  * class, which sub-classes `RequestOptions`.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/7Wvi3lfLq41aQPKlxB4O?p=preview))
-  * *
-  * ```typescript
-  * import {RequestOptions, Request, RequestMethod} from '@angular/http';
-  * *
-  * var options = new RequestOptions({
-  * method: RequestMethod.Post,
-  * url: 'https://google.com'
-  * });
-  * var req = new Request(options);
-  * console.log('req.method:', RequestMethod[req.method]); // Post
-  * console.log('options.url:', options.url); // https://google.com
-  * ```
-  * *
+ * Creates a request options object to be optionally provided when instantiating a
+ * {\@link Request}.
+ *
+ * This class is based on the `RequestInit` description in the [Fetch
+ * Spec](https://fetch.spec.whatwg.org/#requestinit).
+ *
+ * All values are null by default. Typical defaults can be found in the {\@link BaseRequestOptions}
+ * class, which sub-classes `RequestOptions`.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/7Wvi3lfLq41aQPKlxB4O?p=preview))
+ *
+ * ```typescript
+ * import {RequestOptions, Request, RequestMethod} from '\@angular/http';
+ *
+ * var options = new RequestOptions({
+ *   method: RequestMethod.Post,
+ *   url: 'https://google.com'
+ * });
+ * var req = new Request(options);
+ * console.log('req.method:', RequestMethod[req.method]); // Post
+ * console.log('options.url:', options.url); // https://google.com
+ * ```
+ *
+ * \@experimental
  */
 var RequestOptions = (function () {
     /**
@@ -37260,29 +37576,29 @@ var RequestOptions = (function () {
         configurable: true
     });
     /**
-     *  Creates a copy of the `RequestOptions` instance, using the optional input as values to override
-      * existing values. This method will not change the values of the instance on which it is being
-      * called.
-      * *
-      * Note that `headers` and `search` will override existing values completely if present in
-      * the `options` object. If these values should be merged, it should be done prior to calling
-      * `merge` on the `RequestOptions` instance.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/6w8XA8YTkDRcPYpdB9dk?p=preview))
-      * *
-      * ```typescript
-      * import {RequestOptions, Request, RequestMethod} from '@angular/http';
-      * *
-      * var options = new RequestOptions({
-      * method: RequestMethod.Post
-      * });
-      * var req = new Request(options.merge({
-      * url: 'https://google.com'
-      * }));
-      * console.log('req.method:', RequestMethod[req.method]); // Post
-      * console.log('options.url:', options.url); // null
-      * console.log('req.url:', req.url); // https://google.com
-      * ```
+     * Creates a copy of the `RequestOptions` instance, using the optional input as values to override
+     * existing values. This method will not change the values of the instance on which it is being
+     * called.
+     *
+     * Note that `headers` and `search` will override existing values completely if present in
+     * the `options` object. If these values should be merged, it should be done prior to calling
+     * `merge` on the `RequestOptions` instance.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/6w8XA8YTkDRcPYpdB9dk?p=preview))
+     *
+     * ```typescript
+     * import {RequestOptions, Request, RequestMethod} from '\@angular/http';
+     *
+     * var options = new RequestOptions({
+     *   method: RequestMethod.Post
+     * });
+     * var req = new Request(options.merge({
+     *   url: 'https://google.com'
+     * }));
+     * console.log('req.method:', RequestMethod[req.method]); // Post
+     * console.log('options.url:', options.url); // null
+     * console.log('req.url:', req.url); // https://google.com
+     * ```
      * @param {?=} options
      * @return {?}
      */
@@ -37349,33 +37665,33 @@ var RequestOptions = (function () {
 }());
 function RequestOptions_tsickle_Closure_declarations() {
     /**
-     * Http method with which to execute a {@link Request}.
-     * Acceptable methods are defined in the {@link RequestMethod} enum.
+     * Http method with which to execute a {\@link Request}.
+     * Acceptable methods are defined in the {\@link RequestMethod} enum.
      * @type {?}
      */
     RequestOptions.prototype.method;
     /**
-     * {@link Headers} to be attached to a {@link Request}.
+     * {\@link Headers} to be attached to a {\@link Request}.
      * @type {?}
      */
     RequestOptions.prototype.headers;
     /**
-     * Body to be used when creating a {@link Request}.
+     * Body to be used when creating a {\@link Request}.
      * @type {?}
      */
     RequestOptions.prototype.body;
     /**
-     * Url with which to perform a {@link Request}.
+     * Url with which to perform a {\@link Request}.
      * @type {?}
      */
     RequestOptions.prototype.url;
     /**
-     * Search parameters to be included in a {@link Request}.
+     * Search parameters to be included in a {\@link Request}.
      * @type {?}
      */
     RequestOptions.prototype.params;
     /**
-     * Enable use credentials for a {@link Request}.
+     * Enable use credentials for a {\@link Request}.
      * @type {?}
      */
     RequestOptions.prototype.withCredentials;
@@ -37383,49 +37699,50 @@ function RequestOptions_tsickle_Closure_declarations() {
     RequestOptions.prototype.responseType;
 }
 /**
- *  Subclass of {@link RequestOptions}, with default values.
-  * *
-  * Default values:
-  * * method: {@link RequestMethod RequestMethod.Get}
-  * * headers: empty {@link Headers} object
-  * *
-  * This class could be extended and bound to the {@link RequestOptions} class
-  * when configuring an {@link Injector}, in order to override the default options
-  * used by {@link Http} to create and send {@link Request Requests}.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/LEKVSx?p=preview))
-  * *
-  * ```typescript
-  * import {provide} from '@angular/core';
-  * import {bootstrap} from '@angular/platform-browser/browser';
-  * import {HTTP_PROVIDERS, Http, BaseRequestOptions, RequestOptions} from '@angular/http';
-  * import {App} from './myapp';
-  * *
-  * class MyOptions extends BaseRequestOptions {
-  * search: string = 'coreTeam=true';
-  * }
-  * *
-  * bootstrap(App, [HTTP_PROVIDERS, {provide: RequestOptions, useClass: MyOptions}]);
-  * ```
-  * *
-  * The options could also be extended when manually creating a {@link Request}
-  * object.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/oyBoEvNtDhOSfi9YxaVb?p=preview))
-  * *
-  * ```
-  * import {BaseRequestOptions, Request, RequestMethod} from '@angular/http';
-  * *
-  * var options = new BaseRequestOptions();
-  * var req = new Request(options.merge({
-  * method: RequestMethod.Post,
-  * url: 'https://google.com'
-  * }));
-  * console.log('req.method:', RequestMethod[req.method]); // Post
-  * console.log('options.url:', options.url); // null
-  * console.log('req.url:', req.url); // https://google.com
-  * ```
-  * *
+ * Subclass of {\@link RequestOptions}, with default values.
+ *
+ * Default values:
+ *  * method: {\@link RequestMethod RequestMethod.Get}
+ *  * headers: empty {\@link Headers} object
+ *
+ * This class could be extended and bound to the {\@link RequestOptions} class
+ * when configuring an {\@link Injector}, in order to override the default options
+ * used by {\@link Http} to create and send {\@link Request Requests}.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/LEKVSx?p=preview))
+ *
+ * ```typescript
+ * import {provide} from '\@angular/core';
+ * import {bootstrap} from '\@angular/platform-browser/browser';
+ * import {HTTP_PROVIDERS, Http, BaseRequestOptions, RequestOptions} from '\@angular/http';
+ * import {App} from './myapp';
+ *
+ * class MyOptions extends BaseRequestOptions {
+ *   search: string = 'coreTeam=true';
+ * }
+ *
+ * bootstrap(App, [HTTP_PROVIDERS, {provide: RequestOptions, useClass: MyOptions}]);
+ * ```
+ *
+ * The options could also be extended when manually creating a {\@link Request}
+ * object.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/oyBoEvNtDhOSfi9YxaVb?p=preview))
+ *
+ * ```
+ * import {BaseRequestOptions, Request, RequestMethod} from '\@angular/http';
+ *
+ * var options = new BaseRequestOptions();
+ * var req = new Request(options.merge({
+ *   method: RequestMethod.Post,
+ *   url: 'https://google.com'
+ * }));
+ * console.log('req.method:', RequestMethod[req.method]); // Post
+ * console.log('options.url:', options.url); // null
+ * console.log('req.url:', req.url); // https://google.com
+ * ```
+ *
+ * \@experimental
  */
 var BaseRequestOptions = (function (_super) {
     __extends(BaseRequestOptions, _super);
@@ -37471,23 +37788,24 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 
 /**
- *  Creates `Response` instances from provided values.
-  * *
-  * Though this object isn't
-  * usually instantiated by end-users, it is the primary object interacted with when it comes time to
-  * add data to a view.
-  * *
-  * ### Example
-  * *
-  * ```
-  * http.request('my-friends.txt').subscribe(response => this.friends = response.text());
-  * ```
-  * *
-  * The Response's interface is inspired by the Response constructor defined in the [Fetch
-  * Spec](https://fetch.spec.whatwg.org/#response-class), but is considered a static value whose body
-  * can be accessed many times. There are other differences in the implementation, but this is the
-  * most significant.
-  * *
+ * Creates `Response` instances from provided values.
+ *
+ * Though this object isn't
+ * usually instantiated by end-users, it is the primary object interacted with when it comes time to
+ * add data to a view.
+ *
+ * ### Example
+ *
+ * ```
+ * http.request('my-friends.txt').subscribe(response => this.friends = response.text());
+ * ```
+ *
+ * The Response's interface is inspired by the Response constructor defined in the [Fetch
+ * Spec](https://fetch.spec.whatwg.org/#response-class), but is considered a static value whose body
+ * can be accessed many times. There are other differences in the implementation, but this is the
+ * most significant.
+ *
+ * \@experimental
  */
 var Response = (function (_super) {
     __extends(Response, _super);
@@ -37514,8 +37832,8 @@ var Response = (function (_super) {
 }(__WEBPACK_IMPORTED_MODULE_0__body__["a" /* Body */]));
 function Response_tsickle_Closure_declarations() {
     /**
-     * One of "basic", "cors", "default", "error, or "opaque".
-     * *
+     * One of "basic", "cors", "default", "error", or "opaque".
+     *
      * Defaults to "default".
      * @type {?}
      */
@@ -37527,14 +37845,14 @@ function Response_tsickle_Closure_declarations() {
     Response.prototype.ok;
     /**
      * URL of response.
-     * *
+     *
      * Defaults to empty string.
      * @type {?}
      */
     Response.prototype.url;
     /**
      * Status code returned by server.
-     * *
+     *
      * Defaults to 200.
      * @type {?}
      */
@@ -37542,14 +37860,14 @@ function Response_tsickle_Closure_declarations() {
     /**
      * Text representing the corresponding reason phrase to the `status`, as defined in [ietf rfc 2616
      * section 6.1.1](https://tools.ietf.org/html/rfc2616#section-6.1.1)
-     * *
+     *
      * Defaults to "OK"
      * @type {?}
      */
     Response.prototype.statusText;
     /**
      * Non-standard property
-     * *
+     *
      * Denotes how many of the response body's bytes have been loaded, for example if the response is
      * the result of a progress event.
      * @type {?}
@@ -37557,7 +37875,7 @@ function Response_tsickle_Closure_declarations() {
     Response.prototype.bytesLoaded;
     /**
      * Non-standard property
-     * *
+     *
      * Denotes how many bytes are expected in the final response body.
      * @type {?}
      */
@@ -37588,7 +37906,7 @@ function Response_tsickle_Closure_declarations() {
  */
 
 /**
- * @experimental
+ * \@experimental
  */
 var NoOpAnimationDriver = (function () {
     function NoOpAnimationDriver() {
@@ -37610,6 +37928,7 @@ var NoOpAnimationDriver = (function () {
     return NoOpAnimationDriver;
 }());
 /**
+ * \@experimental
  * @abstract
  */
 var AnimationDriver = (function () {
@@ -37669,9 +37988,9 @@ var /** @type {?} */ CORE_TOKENS = {
 var /** @type {?} */ INSPECT_GLOBAL_NAME = 'ng.probe';
 var /** @type {?} */ CORE_TOKENS_GLOBAL_NAME = 'ng.coreTokens';
 /**
- *  Returns a {@link DebugElement} for the given native DOM element, or
-  * null if the given native element does not have an Angular view associated
-  * with it.
+ * Returns a {\@link DebugElement} for the given native DOM element, or
+ * null if the given native element does not have an Angular view associated
+ * with it.
  * @param {?} element
  * @return {?}
  */
@@ -37679,7 +37998,7 @@ function inspectNativeElement(element) {
     return __WEBPACK_IMPORTED_MODULE_0__angular_core__["getDebugNode"](element);
 }
 /**
- *  Deprecated. Use the one from '@angular/core'.
+ * Deprecated. Use the one from '\@angular/core'.
  * @deprecated
  */
 var NgProbeToken = (function () {
@@ -38384,9 +38703,9 @@ var /** @type {?} */ EVENT_NAMES = {
  *
  * @experimental
  */
-var /** @type {?} */ HAMMER_GESTURE_CONFIG = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('HammerGestureConfig');
+var /** @type {?} */ HAMMER_GESTURE_CONFIG = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('HammerGestureConfig');
 /**
- * @experimental
+ * \@experimental
  */
 var HammerGestureConfig = (function () {
     function HammerGestureConfig() {
@@ -38565,9 +38884,15 @@ function SharedStylesHost_tsickle_Closure_declarations() {
      * @type {?}
      */
     SharedStylesHost.ctorParameters;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     SharedStylesHost.prototype._styles;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     SharedStylesHost.prototype._stylesSet;
 }
 var DomSharedStylesHost = (function (_super) {
@@ -38581,6 +38906,7 @@ var DomSharedStylesHost = (function (_super) {
         this._hostNodes.add(doc.head);
     }
     /**
+     * \@internal
      * @param {?} styles
      * @param {?} host
      * @return {?}
@@ -38774,63 +39100,69 @@ function sanitizeSrcset(srcset) {
 
 
 /**
- *  *
-  * *
-  * Consider the following route configuration:
-  * `[{ path: 'user/:name', component: UserCmp }]`
-  * *
-  * When linking to this `user/:name` route, you can write:
-  * `<a routerLink='/user/bob'>link to user component</a>`
-  * *
-  * *
-  * The RouterLink directives let you link to specific parts of your app.
-  * *
-  * When the link is static, you can use the directive as follows:
-  * `<a routerLink="/user/bob">link to user component</a>`
-  * *
-  * If you use dynamic values to generate the link, you can pass an array of path
-  * segments, followed by the params for each segment.
-  * *
-  * For instance `['/team', teamId, 'user', userName, {details: true}]`
-  * means that we want to generate a link to `/team/11/user/bob;details=true`.
-  * *
-  * Multiple static segments can be merged into one
-  * (e.g., `['/team/11/user', userName, {details: true}]`).
-  * *
-  * The first segment name can be prepended with `/`, `./`, or `../`:
-  * * If the first segment begins with `/`, the router will look up the route from the root of the
-  * app.
-  * * If the first segment begins with `./`, or doesn't begin with a slash, the router will
-  * instead look in the children of the current activated route.
-  * * And if the first segment begins with `../`, the router will go up one level.
-  * *
-  * You can set query params and fragment as follows:
-  * *
-  * ```
-  * <a [routerLink]="['/user/bob']" [queryParams]="{debug: true}" fragment="education">
-  * link to user component
-  * </a>
-  * ```
-  * RouterLink will use these to generate this link: `/user/bob#education?debug=true`.
-  * *
-  * You can also tell the directive to preserve the current query params and fragment:
-  * *
-  * ```
-  * <a [routerLink]="['/user/bob']" preserveQueryParams preserveFragment>
-  * link to user component
-  * </a>
-  * ```
-  * *
-  * The router link directive always treats the provided input as a delta to the current url.
-  * *
-  * For instance, if the current url is `/user/(box//aux:team)`.
-  * *
-  * Then the following link `<a [routerLink]="['/user/jim']">Jim</a>` will generate the link
-  * `/user/(jim//aux:team)`.
-  * *
-  * *
-  * See {@link Router.createUrlTree} for more information.
-  * *
+ * \@whatItDoes Lets you link to specific parts of your app.
+ *
+ * \@howToUse
+ *
+ * Consider the following route configuration:
+ * `[{ path: 'user/:name', component: UserCmp }]`
+ *
+ * When linking to this `user/:name` route, you can write:
+ * `<a routerLink='/user/bob'>link to user component</a>`
+ *
+ * \@description
+ *
+ * The RouterLink directives let you link to specific parts of your app.
+ *
+ * When the link is static, you can use the directive as follows:
+ * `<a routerLink="/user/bob">link to user component</a>`
+ *
+ * If you use dynamic values to generate the link, you can pass an array of path
+ * segments, followed by the params for each segment.
+ *
+ * For instance `['/team', teamId, 'user', userName, {details: true}]`
+ * means that we want to generate a link to `/team/11/user/bob;details=true`.
+ *
+ * Multiple static segments can be merged into one
+ * (e.g., `['/team/11/user', userName, {details: true}]`).
+ *
+ * The first segment name can be prepended with `/`, `./`, or `../`:
+ * * If the first segment begins with `/`, the router will look up the route from the root of the
+ *   app.
+ * * If the first segment begins with `./`, or doesn't begin with a slash, the router will
+ *   instead look in the children of the current activated route.
+ * * And if the first segment begins with `../`, the router will go up one level.
+ *
+ * You can set query params and fragment as follows:
+ *
+ * ```
+ * <a [routerLink]="['/user/bob']" [queryParams]="{debug: true}" fragment="education">
+ *   link to user component
+ * </a>
+ * ```
+ * RouterLink will use these to generate this link: `/user/bob#education?debug=true`.
+ *
+ * You can also tell the directive to preserve the current query params and fragment:
+ *
+ * ```
+ * <a [routerLink]="['/user/bob']" preserveQueryParams preserveFragment>
+ *   link to user component
+ * </a>
+ * ```
+ *
+ * The router link directive always treats the provided input as a delta to the current url.
+ *
+ * For instance, if the current url is `/user/(box//aux:team)`.
+ *
+ * Then the following link `<a [routerLink]="['/user/jim']">Jim</a>` will generate the link
+ * `/user/(jim//aux:team)`.
+ *
+ * \@selector ':not(a)[routerLink]'
+ * \@ngModule RouterModule
+ *
+ * See {\@link Router.createUrlTree} for more information.
+ *
+ * \@stable
  */
 var RouterLink = (function () {
     /**
@@ -38944,10 +39276,14 @@ function RouterLink_tsickle_Closure_declarations() {
     RouterLink.prototype.route;
 }
 /**
- *  *
-  * See {@link RouterLink} for more information.
-  * *
-  * *
+ * \@whatItDoes Lets you link to specific parts of your app.
+ *
+ * See {\@link RouterLink} for more information.
+ *
+ * \@selector 'a[routerLink]'
+ * \@ngModule RouterModule
+ *
+ * \@stable
  */
 var RouterLinkWithHref = (function () {
     /**
@@ -39118,34 +39454,36 @@ function attrBoolValue(s) {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  *
+ * \@whatItDoes Provides a way to migrate Angular 1 applications to Angular 2.
+ *
+ * \@experimental
  * @abstract
  */
 var UrlHandlingStrategy = (function () {
     function UrlHandlingStrategy() {
     }
     /**
-     *  Tells the router if this URL should be processed.
-      * *
-      * When it returns true, the router will execute the regular navigation.
-      * When it returns false, the router will set the router state to an empty state.
-      * As a result, all the active components will be destroyed.
-      * *
+     * Tells the router if this URL should be processed.
+     *
+     * When it returns true, the router will execute the regular navigation.
+     * When it returns false, the router will set the router state to an empty state.
+     * As a result, all the active components will be destroyed.
+     *
      * @abstract
      * @param {?} url
      * @return {?}
      */
     UrlHandlingStrategy.prototype.shouldProcessUrl = function (url) { };
     /**
-     *  Extracts the part of the URL that should be handled by the router.
-      * The rest of the URL will remain untouched.
+     * Extracts the part of the URL that should be handled by the router.
+     * The rest of the URL will remain untouched.
      * @abstract
      * @param {?} url
      * @return {?}
      */
     UrlHandlingStrategy.prototype.extract = function (url) { };
     /**
-     *  Merges the URL fragment with the rest of the URL.
+     * Merges the URL fragment with the rest of the URL.
      * @abstract
      * @param {?} newUrlPart
      * @param {?} rawUrl
@@ -39155,7 +39493,7 @@ var UrlHandlingStrategy = (function () {
     return UrlHandlingStrategy;
 }());
 /**
- * @experimental
+ * \@experimental
  */
 var DefaultUrlHandlingStrategy = (function () {
     function DefaultUrlHandlingStrategy() {
@@ -39188,11 +39526,11 @@ var DefaultUrlHandlingStrategy = (function () {
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return Tree; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return TreeNode; });
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  */
 var Tree = (function () {
     /**
@@ -39210,6 +39548,7 @@ var Tree = (function () {
         configurable: true
     });
     /**
+     * \@internal
      * @param {?} t
      * @return {?}
      */
@@ -39218,6 +39557,7 @@ var Tree = (function () {
         return p.length > 1 ? p[p.length - 2] : null;
     };
     /**
+     * \@internal
      * @param {?} t
      * @return {?}
      */
@@ -39226,6 +39566,7 @@ var Tree = (function () {
         return n ? n.children.map(function (t) { return t.value; }) : [];
     };
     /**
+     * \@internal
      * @param {?} t
      * @return {?}
      */
@@ -39234,6 +39575,7 @@ var Tree = (function () {
         return n && n.children.length > 0 ? n.children[0].value : null;
     };
     /**
+     * \@internal
      * @param {?} t
      * @return {?}
      */
@@ -39245,6 +39587,7 @@ var Tree = (function () {
         return c.filter(function (cc) { return cc !== t; });
     };
     /**
+     * \@internal
      * @param {?} t
      * @return {?}
      */
@@ -39252,7 +39595,10 @@ var Tree = (function () {
     return Tree;
 }());
 function Tree_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Tree.prototype._root;
 }
 /**
@@ -40507,40 +40853,45 @@ function SwitchView_tsickle_Closure_declarations() {
     SwitchView.prototype._templateRef;
 }
 /**
- *  *
-  * expression.
-  * *
-  * ```
-  * <container-element [ngSwitch]="switch_expression">
-  * <some-element *ngSwitchCase="match_expression_1">...</some-element>
-  * <some-element *ngSwitchCase="match_expression_2">...</some-element>
-  * <some-other-element *ngSwitchCase="match_expression_3">...</some-other-element>
-  * <ng-container *ngSwitchCase="match_expression_3">
-  * <!-- use a ng-container to group multiple root nodes -->
-  * <inner-element></inner-element>
-  * <inner-other-element></inner-other-element>
-  * </ng-container>
-  * <some-element *ngSwitchDefault>...</some-element>
-  * </container-element>
-  * ```
-  * *
-  * `NgSwitch` stamps out nested views when their match expression value matches the value of the
-  * switch expression.
-  * *
-  * In other words:
-  * - you define a container element (where you place the directive with a switch expression on the
-  * `[ngSwitch]="..."` attribute)
-  * - you define inner views inside the `NgSwitch` and place a `*ngSwitchCase` attribute on the view
-  * root elements.
-  * *
-  * Elements within `NgSwitch` but outside of a `NgSwitchCase` or `NgSwitchDefault` directives will
-  * be preserved at the location.
-  * *
-  * The `ngSwitchCase` directive informs the parent `NgSwitch` of which view to display when the
-  * expression is evaluated.
-  * When no matching expression is found on a `ngSwitchCase` view, the `ngSwitchDefault` view is
-  * stamped out.
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Adds / removes DOM sub-trees when the nest match expressions matches the switch
+ *             expression.
+ *
+ * \@howToUse
+ * ```
+ *     <container-element [ngSwitch]="switch_expression">
+ *       <some-element *ngSwitchCase="match_expression_1">...</some-element>
+ *       <some-element *ngSwitchCase="match_expression_2">...</some-element>
+ *       <some-other-element *ngSwitchCase="match_expression_3">...</some-other-element>
+ *       <ng-container *ngSwitchCase="match_expression_3">
+ *         <!-- use a ng-container to group multiple root nodes -->
+ *         <inner-element></inner-element>
+ *         <inner-other-element></inner-other-element>
+ *       </ng-container>
+ *       <some-element *ngSwitchDefault>...</some-element>
+ *     </container-element>
+ * ```
+ * \@description
+ *
+ * `NgSwitch` stamps out nested views when their match expression value matches the value of the
+ * switch expression.
+ *
+ * In other words:
+ * - you define a container element (where you place the directive with a switch expression on the
+ * `[ngSwitch]="..."` attribute)
+ * - you define inner views inside the `NgSwitch` and place a `*ngSwitchCase` attribute on the view
+ * root elements.
+ *
+ * Elements within `NgSwitch` but outside of a `NgSwitchCase` or `NgSwitchDefault` directives will
+ * be preserved at the location.
+ *
+ * The `ngSwitchCase` directive informs the parent `NgSwitch` of which view to display when the
+ * expression is evaluated.
+ * When no matching expression is found on a `ngSwitchCase` view, the `ngSwitchDefault` view is
+ * stamped out.
+ *
+ * \@stable
  */
 var NgSwitch = (function () {
     function NgSwitch() {
@@ -40564,10 +40915,12 @@ var NgSwitch = (function () {
         configurable: true
     });
     /**
+     * \@internal
      * @return {?}
      */
     NgSwitch.prototype._addCase = function () { return this._caseCount++; };
     /**
+     * \@internal
      * @param {?} view
      * @return {?}
      */
@@ -40578,6 +40931,7 @@ var NgSwitch = (function () {
         this._defaultViews.push(view);
     };
     /**
+     * \@internal
      * @param {?} value
      * @return {?}
      */
@@ -40639,23 +40993,28 @@ function NgSwitch_tsickle_Closure_declarations() {
     NgSwitch.prototype._ngSwitch;
 }
 /**
- *  *
-  * given expression evaluate to respectively the same/different value as the switch
-  * expression.
-  * *
-  * ```
-  * <container-element [ngSwitch]="switch_expression">
-  * <some-element *ngSwitchCase="match_expression_1">...</some-element>
-  * </container-element>
-  * *```
-  * *
-  * Insert the sub-tree when the expression evaluates to the same value as the enclosing switch
-  * expression.
-  * *
-  * If multiple match expressions match the switch expression value, all of them are displayed.
-  * *
-  * See {@link NgSwitch} for more details and example.
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Creates a view that will be added/removed from the parent {\@link NgSwitch} when the
+ *             given expression evaluate to respectively the same/different value as the switch
+ *             expression.
+ *
+ * \@howToUse
+ * ```
+ * <container-element [ngSwitch]="switch_expression">
+ *   <some-element *ngSwitchCase="match_expression_1">...</some-element>
+ * </container-element>
+ * ```
+ * \@description
+ *
+ * Insert the sub-tree when the expression evaluates to the same value as the enclosing switch
+ * expression.
+ *
+ * If multiple match expressions match the switch expression value, all of them are displayed.
+ *
+ * See {\@link NgSwitch} for more details and example.
+ *
+ * \@stable
  */
 var NgSwitchCase = (function () {
     /**
@@ -40704,22 +41063,27 @@ function NgSwitchCase_tsickle_Closure_declarations() {
     NgSwitchCase.prototype.ngSwitch;
 }
 /**
- *  match the
-  * switch expression.
-  * *
-  * ```
-  * <container-element [ngSwitch]="switch_expression">
-  * <some-element *ngSwitchCase="match_expression_1">...</some-element>
-  * <some-other-element *ngSwitchDefault>...</some-other-element>
-  * </container-element>
-  * ```
-  * *
-  * *
-  * Insert the sub-tree when no case expressions evaluate to the same value as the enclosing switch
-  * expression.
-  * *
-  * See {@link NgSwitch} for more details and example.
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Creates a view that is added to the parent {\@link NgSwitch} when no case expressions
+ * match the
+ *             switch expression.
+ *
+ * \@howToUse
+ * ```
+ * <container-element [ngSwitch]="switch_expression">
+ *   <some-element *ngSwitchCase="match_expression_1">...</some-element>
+ *   <some-other-element *ngSwitchDefault>...</some-other-element>
+ * </container-element>
+ * ```
+ *
+ * \@description
+ *
+ * Insert the sub-tree when no case expressions evaluate to the same value as the enclosing switch
+ * expression.
+ *
+ * See {\@link NgSwitch} for more details and example.
+ *
+ * \@stable
  */
 var NgSwitchDefault = (function () {
     /**
@@ -41534,6 +41898,7 @@ var _AnimationBuilder = (function () {
         return this._callAnimateMethod(ast, startingStylesExpr, __WEBPACK_IMPORTED_MODULE_2__output_output_ast__["h" /* literalArr */](keyframeExpressions), context);
     };
     /**
+     * \@internal
      * @param {?} ast
      * @param {?} context
      * @return {?}
@@ -41549,6 +41914,7 @@ var _AnimationBuilder = (function () {
         return this._callAnimateMethod(ast, startingStylesExpr, keyframesExpr, context);
     };
     /**
+     * \@internal
      * @param {?} ast
      * @param {?} startingStylesExpr
      * @param {?} keyframesExpr
@@ -42350,10 +42716,11 @@ function decimalDigest(message) {
     return message.id || computeMsgId(parts.join(''), message.meaning);
 }
 /**
- *  Serialize the i18n ast to something xml-like in order to generate an UID.
-  * *
-  * The visitor is also used in the i18n parser tests
-  * *
+ * Serialize the i18n ast to something xml-like in order to generate an UID.
+ *
+ * The visitor is also used in the i18n parser tests
+ *
+ * \@internal
  */
 var _SerializerVisitor = (function () {
     function _SerializerVisitor() {
@@ -42421,10 +42788,11 @@ function serializeNodes(nodes) {
     return nodes.map(function (a) { return a.visit(serializerVisitor, null); });
 }
 /**
- *  Serialize the i18n ast to something xml-like in order to generate an UID.
-  * *
-  * Ignore the ICU expressions so that message IDs stays identical if only the expression changes.
-  * *
+ * Serialize the i18n ast to something xml-like in order to generate an UID.
+ *
+ * Ignore the ICU expressions so that message IDs stays identical if only the expression changes.
+ *
+ * \@internal
  */
 var _SerializerIgnoreIcuExpVisitor = (function (_super) {
     __extends(_SerializerIgnoreIcuExpVisitor, _super);
@@ -42445,12 +42813,12 @@ var _SerializerIgnoreIcuExpVisitor = (function (_super) {
     return _SerializerIgnoreIcuExpVisitor;
 }(_SerializerVisitor));
 /**
- *  Compute the SHA1 of the given string
-  * *
-  * see http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf
-  * *
-  * WARNING: this function has not been designed not tested with security in mind.
-  * DO NOT USE IT IN A SECURITY SENSITIVE CONTEXT.
+ * Compute the SHA1 of the given string
+ *
+ * see http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf
+ *
+ * WARNING: this function has not been designed not tested with security in mind.
+ *          DO NOT USE IT IN A SECURITY SENSITIVE CONTEXT.
  * @param {?} str
  * @return {?}
  */
@@ -42500,12 +42868,12 @@ function fk(index, b, c, d) {
     return [b ^ c ^ d, 0xca62c1d6];
 }
 /**
- *  Compute the fingerprint of the given string
-  * *
-  * The output is 64 bit number encoded as a decimal string
-  * *
-  * based on:
-  * https://github.com/google/closure-compiler/blob/master/src/com/google/javascript/jscomp/GoogleJsMessageIdGenerator.java
+ * Compute the fingerprint of the given string
+ *
+ * The output is 64 bit number encoded as a decimal string
+ *
+ * based on:
+ * https://github.com/google/closure-compiler/blob/master/src/com/google/javascript/jscomp/GoogleJsMessageIdGenerator.java
  * @param {?} str
  * @return {?}
  */
@@ -42847,7 +43215,7 @@ var /** @type {?} */ _I18N_COMMENT_PREFIX_REGEXP = /^i18n:?/;
 var /** @type {?} */ MEANING_SEPARATOR = '|';
 var /** @type {?} */ ID_SEPARATOR = '@@';
 /**
- *  Extract translatable messages from an html AST
+ * Extract translatable messages from an html AST
  * @param {?} nodes
  * @param {?} interpolationConfig
  * @param {?} implicitTags
@@ -42893,10 +43261,11 @@ _VisitorMode.Merge = 1;
 _VisitorMode[_VisitorMode.Extract] = "Extract";
 _VisitorMode[_VisitorMode.Merge] = "Merge";
 /**
- *  This Visitor is used:
-  * 1. to extract all the translatable strings from an html AST (see `extract()`),
-  * 2. to replace the translatable strings with the actual translations (see `merge()`)
-  * *
+ * This Visitor is used:
+ * 1. to extract all the translatable strings from an html AST (see `extract()`),
+ * 2. to replace the translatable strings with the actual translations (see `merge()`)
+ *
+ * \@internal
  */
 var _Visitor = (function () {
     /**
@@ -42908,7 +43277,7 @@ var _Visitor = (function () {
         this._implicitAttrs = _implicitAttrs;
     }
     /**
-     *  Extracts the messages from the tree
+     * Extracts the messages from the tree
      * @param {?} nodes
      * @param {?} interpolationConfig
      * @return {?}
@@ -42923,7 +43292,7 @@ var _Visitor = (function () {
         return new ExtractionResult(this._messages, this._errors);
     };
     /**
-     *  Returns a tree where all translatable nodes are translated
+     * Returns a tree where all translatable nodes are translated
      * @param {?} nodes
      * @param {?} translations
      * @param {?} interpolationConfig
@@ -43215,10 +43584,10 @@ var _Visitor = (function () {
         return translatedAttributes;
     };
     /**
-     *  Add the node as a child of the block when:
-      * - we are in a block,
-      * - we are not inside a ICU message (those are handled separately),
-      * - the node is a "direct child" of the block
+     * Add the node as a child of the block when:
+     * - we are in a block,
+     * - we are not inside a ICU message (those are handled separately),
+     * - the node is a "direct child" of the block
      * @param {?} node
      * @return {?}
      */
@@ -43228,7 +43597,7 @@ var _Visitor = (function () {
         }
     };
     /**
-     *  Marks the start of a section, see `_closeTranslatableSection`
+     * Marks the start of a section, see `_closeTranslatableSection`
      * @param {?} node
      * @return {?}
      */
@@ -43242,9 +43611,9 @@ var _Visitor = (function () {
     };
     Object.defineProperty(_Visitor.prototype, "_isInTranslatableSection", {
         /**
-         *  A translatable section could be:
-          * - the content of translatable element,
-          * - nodes between `<!-- i18n -->` and `<!-- /i18n -->` comments
+         * A translatable section could be:
+         * - the content of translatable element,
+         * - nodes between `<!-- i18n -->` and `<!-- /i18n -->` comments
          * @return {?}
          */
         get: function () {
@@ -43254,20 +43623,20 @@ var _Visitor = (function () {
         configurable: true
     });
     /**
-     *  Terminates a section.
-      * *
-      * If a section has only one significant children (comments not significant) then we should not
-      * keep the message from this children:
-      * *
-      * `<p i18n="meaning|description">{ICU message}</p>` would produce two messages:
-      * - one for the <p> content with meaning and description,
-      * - another one for the ICU message.
-      * *
-      * In this case the last message is discarded as it contains less information (the AST is
-      * otherwise identical).
-      * *
-      * Note that we should still keep messages extracted from attributes inside the section (ie in the
-      * ICU message here)
+     * Terminates a section.
+     *
+     * If a section has only one significant children (comments not significant) then we should not
+     * keep the message from this children:
+     *
+     * `<p i18n="meaning|description">{ICU message}</p>` would produce two messages:
+     * - one for the <p> content with meaning and description,
+     * - another one for the ICU message.
+     *
+     * In this case the last message is discarded as it contains less information (the AST is
+     * otherwise identical).
+     *
+     * Note that we should still keep messages extracted from attributes inside the section (ie in the
+     * ICU message here)
      * @param {?} node
      * @param {?} directChildren
      * @return {?}
@@ -43420,7 +43789,7 @@ function _parseMessageMeta(i18n) {
  */
 
 /**
- *  A container for message extracted from the templates.
+ * A container for message extracted from the templates.
  */
 var MessageBundle = (function () {
     /**
@@ -43508,8 +43877,6 @@ var /** @type {?} */ _PLACEHOLDER_TAG = 'x';
 var /** @type {?} */ _SOURCE_TAG = 'source';
 var /** @type {?} */ _TARGET_TAG = 'target';
 var /** @type {?} */ _UNIT_TAG = 'trans-unit';
-// http://docs.oasis-open.org/xliff/v1.2/os/xliff-core.html
-// http://docs.oasis-open.org/xliff/v1.2/xliff-profile-html/xliff-profile-html-1.2.html
 var Xliff = (function () {
     function Xliff() {
     }
@@ -43660,8 +44027,6 @@ function _WriteVisitor_tsickle_Closure_declarations() {
     /** @type {?} */
     _WriteVisitor.prototype._isInIcu;
 }
-// TODO(vicb): add error management (structure)
-// Extract messages as xml nodes from the xliff file
 var XliffParser = (function () {
     function XliffParser() {
     }
@@ -43770,7 +44135,6 @@ function XliffParser_tsickle_Closure_declarations() {
     /** @type {?} */
     XliffParser.prototype._mlNodesByMsgId;
 }
-// Convert ml nodes (xliff syntax) to i18n nodes
 var XmlToI18n = (function () {
     function XmlToI18n() {
     }
@@ -44124,7 +44488,6 @@ var Xtb = (function () {
     Xtb.prototype.digest = function (message) { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4__xmb__["a" /* digest */])(message); };
     return Xtb;
 }());
-// Extract messages as xml nodes from the xtb file
 var XtbParser = (function () {
     function XtbParser() {
     }
@@ -44226,7 +44589,6 @@ function XtbParser_tsickle_Closure_declarations() {
     /** @type {?} */
     XtbParser.prototype._mlNodesByMsgId;
 }
-// Convert ml nodes (xtb syntax) to i18n nodes
 var XmlToI18n = (function () {
     function XmlToI18n() {
     }
@@ -44374,12 +44736,13 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 /**
- *  An internal module of the Angular compiler that begins with component types,
-  * extracts templates, and eventually produces a compiled version of the component
-  * ready for linking into an application.
-  * *
-  * from a trusted source. Attacker-controlled data introduced by a template could expose your
-  * application to XSS risks.  For more detail, see the [Security Guide](http://g.co/ng/security).
+ * An internal module of the Angular compiler that begins with component types,
+ * extracts templates, and eventually produces a compiled version of the component
+ * ready for linking into an application.
+ *
+ * \@security When compiling templates at runtime, you must ensure that the entire template comes
+ * from a trusted source. Attacker-controlled data introduced by a template could expose your
+ * application to XSS risks.  For more detail, see the [Security Guide](http://g.co/ng/security).
  */
 var JitCompiler = (function () {
     /**
@@ -44537,6 +44900,7 @@ var JitCompiler = (function () {
         return ngModuleFactory;
     };
     /**
+     * \@internal
      * @param {?} mainModule
      * @param {?} allComponentFactories
      * @return {?}
@@ -44805,7 +45169,7 @@ function assertComponent(meta) {
     }
 }
 /**
- *  Implements `Compiler` by delegating to the JitCompiler using a known module.
+ * Implements `Compiler` by delegating to the JitCompiler using a known module.
  */
 var ModuleBoundCompiler = (function () {
     /**
@@ -44860,12 +45224,12 @@ var ModuleBoundCompiler = (function () {
         return this._delegate.getNgContentSelectors(component);
     };
     /**
-     *  Clears all caches
+     * Clears all caches
      * @return {?}
      */
     ModuleBoundCompiler.prototype.clearCache = function () { this._delegate.clearCache(); };
     /**
-     *  Clears the cache for the given component/ngModule.
+     * Clears the cache for the given component/ngModule.
      * @param {?} type
      * @return {?}
      */
@@ -45064,9 +45428,15 @@ var ProviderViewContext = (function () {
     return ProviderViewContext;
 }());
 function ProviderViewContext_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ProviderViewContext.prototype.viewQueries;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ProviderViewContext.prototype.viewProviders;
     /** @type {?} */
     ProviderViewContext.prototype.errors;
@@ -45657,8 +46027,8 @@ function isStyleUrlResolvable(url) {
     return schemeMatch === null || schemeMatch[1] == 'package' || schemeMatch[1] == 'asset';
 }
 /**
- *  Rewrites stylesheets by resolving and removing the @import urls that
-  * are either relative or don't have a `package:` scheme
+ * Rewrites stylesheets by resolving and removing the \@import urls that
+ * are either relative or don't have a `package:` scheme
  * @param {?} resolver
  * @param {?} baseUrl
  * @param {?} cssText
@@ -45735,7 +46105,7 @@ BoundPropertyType[BoundPropertyType.DEFAULT] = "DEFAULT";
 BoundPropertyType[BoundPropertyType.LITERAL_ATTR] = "LITERAL_ATTR";
 BoundPropertyType[BoundPropertyType.ANIMATION] = "ANIMATION";
 /**
- *  Represents a parsed property.
+ * Represents a parsed property.
  */
 var BoundProperty = (function () {
     /**
@@ -45779,7 +46149,7 @@ function BoundProperty_tsickle_Closure_declarations() {
     BoundProperty.prototype.sourceSpan;
 }
 /**
- *  Parses bindings in templates and in the directive host area.
+ * Parses bindings in templates and in the directive host area.
  */
 var BindingParser = (function () {
     /**
@@ -47967,33 +48337,35 @@ function AnimationSequencePlayer_tsickle_Closure_declarations() {
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return AnimationTransitionEvent; });
 
 /**
- *  An instance of this class is returned as an event parameter when an animation
-  * callback is captured for an animation either during the start or done phase.
-  * *
-  * ```typescript
-  * host: {
-  * '[@myAnimationTrigger]': 'someExpression',
-  * '(@myAnimationTrigger.start)': 'captureStartEvent($event)',
-  * '(@myAnimationTrigger.done)': 'captureDoneEvent($event)',
-  * },
-  * animations: [
-  * trigger("myAnimationTrigger", [
-  * // ...
-  * ])
-  * ]
-  * })
-  * class MyComponent {
-  * someExpression: any = false;
-  * captureStartEvent(event: AnimationTransitionEvent) {
-  * // the toState, fromState and totalTime data is accessible from the event variable
-  * }
-  * *
-  * captureDoneEvent(event: AnimationTransitionEvent) {
-  * // the toState, fromState and totalTime data is accessible from the event variable
-  * }
-  * }
-  * ```
-  * *
+ * An instance of this class is returned as an event parameter when an animation
+ * callback is captured for an animation either during the start or done phase.
+ *
+ * ```typescript
+ * \@Component({
+ *   host: {
+ *     '[\@myAnimationTrigger]': 'someExpression',
+ *     '(\@myAnimationTrigger.start)': 'captureStartEvent($event)',
+ *     '(\@myAnimationTrigger.done)': 'captureDoneEvent($event)',
+ *   },
+ *   animations: [
+ *     trigger("myAnimationTrigger", [
+ *        // ...
+ *     ])
+ *   ]
+ * })
+ * class MyComponent {
+ *   someExpression: any = false;
+ *   captureStartEvent(event: AnimationTransitionEvent) {
+ *     // the toState, fromState and totalTime data is accessible from the event variable
+ *   }
+ *
+ *   captureDoneEvent(event: AnimationTransitionEvent) {
+ *     // the toState, fromState and totalTime data is accessible from the event variable
+ *   }
+ * }
+ * ```
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationTransitionEvent = (function () {
     /**
@@ -48070,10 +48442,11 @@ var __extends = (this && this.__extends) || function (d, b) {
  */
 var /** @type {?} */ AUTO_STYLE = '*';
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link trigger trigger
-  * animation function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link trigger trigger
+ * animation function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationEntryMetadata = (function () {
     /**
@@ -48093,6 +48466,7 @@ function AnimationEntryMetadata_tsickle_Closure_declarations() {
     AnimationEntryMetadata.prototype.definitions;
 }
 /**
+ * \@experimental Animation support is experimental.
  * @abstract
  */
 var AnimationStateMetadata = (function () {
@@ -48101,10 +48475,11 @@ var AnimationStateMetadata = (function () {
     return AnimationStateMetadata;
 }());
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link state state animation
-  * function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link state state animation
+ * function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationStateDeclarationMetadata = (function (_super) {
     __extends(AnimationStateDeclarationMetadata, _super);
@@ -48126,10 +48501,11 @@ function AnimationStateDeclarationMetadata_tsickle_Closure_declarations() {
     AnimationStateDeclarationMetadata.prototype.styles;
 }
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the
-  * {@link transition transition animation function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the
+ * {\@link transition transition animation function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationStateTransitionMetadata = (function (_super) {
     __extends(AnimationStateTransitionMetadata, _super);
@@ -48151,6 +48527,7 @@ function AnimationStateTransitionMetadata_tsickle_Closure_declarations() {
     AnimationStateTransitionMetadata.prototype.steps;
 }
 /**
+ * \@experimental Animation support is experimental.
  * @abstract
  */
 var AnimationMetadata = (function () {
@@ -48159,10 +48536,11 @@ var AnimationMetadata = (function () {
     return AnimationMetadata;
 }());
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link keyframes keyframes
-  * animation function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link keyframes keyframes
+ * animation function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationKeyframesSequenceMetadata = (function (_super) {
     __extends(AnimationKeyframesSequenceMetadata, _super);
@@ -48180,10 +48558,11 @@ function AnimationKeyframesSequenceMetadata_tsickle_Closure_declarations() {
     AnimationKeyframesSequenceMetadata.prototype.steps;
 }
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link style style animation
-  * function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link style style animation
+ * function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationStyleMetadata = (function (_super) {
     __extends(AnimationStyleMetadata, _super);
@@ -48206,10 +48585,11 @@ function AnimationStyleMetadata_tsickle_Closure_declarations() {
     AnimationStyleMetadata.prototype.offset;
 }
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link animate animate
-  * animation function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link animate animate
+ * animation function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationAnimateMetadata = (function (_super) {
     __extends(AnimationAnimateMetadata, _super);
@@ -48231,6 +48611,7 @@ function AnimationAnimateMetadata_tsickle_Closure_declarations() {
     AnimationAnimateMetadata.prototype.styles;
 }
 /**
+ * \@experimental Animation support is experimental.
  * @abstract
  */
 var AnimationWithStepsMetadata = (function (_super) {
@@ -48249,10 +48630,11 @@ var AnimationWithStepsMetadata = (function (_super) {
     return AnimationWithStepsMetadata;
 }(AnimationMetadata));
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link sequence sequence
-  * animation function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link sequence sequence
+ * animation function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationSequenceMetadata = (function (_super) {
     __extends(AnimationSequenceMetadata, _super);
@@ -48278,10 +48660,11 @@ function AnimationSequenceMetadata_tsickle_Closure_declarations() {
     AnimationSequenceMetadata.prototype._steps;
 }
 /**
- *  Metadata representing the entry of animations.
-  * Instances of this class are provided via the animation DSL when the {@link group group animation
-  * function} is called.
-  * *
+ * Metadata representing the entry of animations.
+ * Instances of this class are provided via the animation DSL when the {\@link group group animation
+ * function} is called.
+ *
+ * \@experimental Animation support is experimental.
  */
 var AnimationGroupMetadata = (function (_super) {
     __extends(AnimationGroupMetadata, _super);
@@ -48307,55 +48690,56 @@ function AnimationGroupMetadata_tsickle_Closure_declarations() {
     AnimationGroupMetadata.prototype._steps;
 }
 /**
- *  `animate` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `animate` specifies an animation step that will apply the provided `styles` data for a given
-  * amount of
-  * time based on the provided `timing` expression value. Calls to `animate` are expected to be
-  * used within {@link sequence an animation sequence}, {@link group group}, or {@link transition
-  * transition}.
-  * *
-  * ### Usage
-  * *
-  * The `animate` function accepts two input parameters: `timing` and `styles`:
-  * *
-  * - `timing` is a string based value that can be a combination of a duration with optional
-  * delay and easing values. The format for the expression breaks down to `duration delay easing`
-  * (therefore a value such as `1s 100ms ease-out` will be parse itself into `duration=1000,
-  * delay=100, easing=ease-out`.
-  * If a numeric value is provided then that will be used as the `duration` value in millisecond
-  * form.
-  * - `styles` is the style input data which can either be a call to {@link style style} or {@link
-  * keyframes keyframes}.
-  * If left empty then the styles from the destination state will be collected and used (this is
-  * useful when
-  * describing an animation step that will complete an animation by {@link
-  * transition#the-final-animate-call animating to the final state}).
-  * *
-  * ```typescript
-  * // various functions for specifying timing data
-  * animate(500, style(...))
-  * animate("1s", style(...))
-  * animate("100ms 0.5s", style(...))
-  * animate("5s ease", style(...))
-  * animate("5s 10ms cubic-bezier(.17,.67,.88,.1)", style(...))
-  * *
-  * // either style() of keyframes() can be used
-  * animate(500, style({ background: "red" }))
-  * animate(500, keyframes([
-  * style({ background: "blue" })),
-  * style({ background: "red" }))
-  * ])
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `animate` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `animate` specifies an animation step that will apply the provided `styles` data for a given
+ * amount of
+ * time based on the provided `timing` expression value. Calls to `animate` are expected to be
+ * used within {\@link sequence an animation sequence}, {\@link group group}, or {\@link transition
+ * transition}.
+ *
+ * ### Usage
+ *
+ * The `animate` function accepts two input parameters: `timing` and `styles`:
+ *
+ * - `timing` is a string based value that can be a combination of a duration with optional
+ * delay and easing values. The format for the expression breaks down to `duration delay easing`
+ * (therefore a value such as `1s 100ms ease-out` will be parse itself into `duration=1000,
+ * delay=100, easing=ease-out`.
+ * If a numeric value is provided then that will be used as the `duration` value in millisecond
+ * form.
+ * - `styles` is the style input data which can either be a call to {\@link style style} or {\@link
+ * keyframes keyframes}.
+ * If left empty then the styles from the destination state will be collected and used (this is
+ * useful when
+ * describing an animation step that will complete an animation by {\@link
+ * transition#the-final-animate-call animating to the final state}).
+ *
+ * ```typescript
+ * // various functions for specifying timing data
+ * animate(500, style(...))
+ * animate("1s", style(...))
+ * animate("100ms 0.5s", style(...))
+ * animate("5s ease", style(...))
+ * animate("5s 10ms cubic-bezier(.17,.67,.88,.1)", style(...))
+ *
+ * // either style() of keyframes() can be used
+ * animate(500, style({ background: "red" }))
+ * animate(500, keyframes([
+ *   style({ background: "blue" })),
+ *   style({ background: "red" }))
+ * ])
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} timing
  * @param {?=} styles
  * @return {?}
@@ -48370,41 +48754,42 @@ function animate(timing, styles) {
     return new AnimationAnimateMetadata(timing, stylesEntry);
 }
 /**
- *  `group` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `group` specifies a list of animation steps that are all run in parallel. Grouped animations
-  * are useful when a series of styles must be animated/closed off
-  * at different statrting/ending times.
-  * *
-  * The `group` function can either be used within a {@link sequence sequence} or a {@link transition
-  * transition}
-  * and it will only continue to the next instruction once all of the inner animation steps
-  * have completed.
-  * *
-  * ### Usage
-  * *
-  * The `steps` data that is passed into the `group` animation function can either consist
-  * of {@link style style} or {@link animate animate} function calls. Each call to `style()` or
-  * `animate()`
-  * within a group will be executed instantly (use {@link keyframes keyframes} or a
-  * {@link animate#usage animate() with a delay value} to offset styles to be applied at a later
-  * time).
-  * *
-  * ```typescript
-  * group([
-  * animate("1s", { background: "black" }))
-  * animate("2s", { color: "white" }))
-  * ])
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `group` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `group` specifies a list of animation steps that are all run in parallel. Grouped animations
+ * are useful when a series of styles must be animated/closed off
+ * at different statrting/ending times.
+ *
+ * The `group` function can either be used within a {\@link sequence sequence} or a {\@link transition
+ * transition}
+ * and it will only continue to the next instruction once all of the inner animation steps
+ * have completed.
+ *
+ * ### Usage
+ *
+ * The `steps` data that is passed into the `group` animation function can either consist
+ * of {\@link style style} or {\@link animate animate} function calls. Each call to `style()` or
+ * `animate()`
+ * within a group will be executed instantly (use {\@link keyframes keyframes} or a
+ * {\@link animate#usage animate() with a delay value} to offset styles to be applied at a later
+ * time).
+ *
+ * ```typescript
+ * group([
+ *   animate("1s", { background: "black" }))
+ *   animate("2s", { color: "white" }))
+ * ])
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} steps
  * @return {?}
  */
@@ -48412,42 +48797,43 @@ function group(steps) {
     return new AnimationGroupMetadata(steps);
 }
 /**
- *  `sequence` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `sequence` Specifies a list of animation steps that are run one by one. (`sequence` is used
-  * by default when an array is passed as animation data into {@link transition transition}.)
-  * *
-  * The `sequence` function can either be used within a {@link group group} or a {@link transition
-  * transition}
-  * and it will only continue to the next instruction once each of the inner animation steps
-  * have completed.
-  * *
-  * To perform animation styling in parallel with other animation steps then
-  * have a look at the {@link group group} animation function.
-  * *
-  * ### Usage
-  * *
-  * The `steps` data that is passed into the `sequence` animation function can either consist
-  * of {@link style style} or {@link animate animate} function calls. A call to `style()` will apply
-  * the
-  * provided styling data immediately while a call to `animate()` will apply its styling
-  * data over a given time depending on its timing data.
-  * *
-  * ```typescript
-  * sequence([
-  * style({ opacity: 0 })),
-  * animate("1s", { opacity: 1 }))
-  * ])
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `sequence` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `sequence` Specifies a list of animation steps that are run one by one. (`sequence` is used
+ * by default when an array is passed as animation data into {\@link transition transition}.)
+ *
+ * The `sequence` function can either be used within a {\@link group group} or a {\@link transition
+ * transition}
+ * and it will only continue to the next instruction once each of the inner animation steps
+ * have completed.
+ *
+ * To perform animation styling in parallel with other animation steps then
+ * have a look at the {\@link group group} animation function.
+ *
+ * ### Usage
+ *
+ * The `steps` data that is passed into the `sequence` animation function can either consist
+ * of {\@link style style} or {\@link animate animate} function calls. A call to `style()` will apply
+ * the
+ * provided styling data immediately while a call to `animate()` will apply its styling
+ * data over a given time depending on its timing data.
+ *
+ * ```typescript
+ * sequence([
+ *   style({ opacity: 0 })),
+ *   animate("1s", { opacity: 1 }))
+ * ])
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} steps
  * @return {?}
  */
@@ -48455,50 +48841,51 @@ function sequence(steps) {
     return new AnimationSequenceMetadata(steps);
 }
 /**
- *  `style` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `style` declares a key/value object containing CSS properties/styles that can then
-  * be used for {@link state animation states}, within an {@link sequence animation sequence}, or as
-  * styling data for both {@link animate animate} and {@link keyframes keyframes}.
-  * *
-  * ### Usage
-  * *
-  * `style` takes in a key/value string map as data and expects one or more CSS property/value
-  * pairs to be defined.
-  * *
-  * ```typescript
-  * // string values are used for css properties
-  * style({ background: "red", color: "blue" })
-  * *
-  * // numerical (pixel) values are also supported
-  * style({ width: 100, height: 0 })
-  * ```
-  * *
-  * #### Auto-styles (using `*`)
-  * *
-  * When an asterix (`*`) character is used as a value then it will be detected from the element
-  * being animated
-  * and applied as animation data when the animation starts.
-  * *
-  * This feature proves useful for a state depending on layout and/or environment factors; in such
-  * cases
-  * the styles are calculated just before the animation starts.
-  * *
-  * ```typescript
-  * // the steps below will animate from 0 to the
-  * // actual height of the element
-  * style({ height: 0 }),
-  * animate("1s", style({ height: "*" }))
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `style` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `style` declares a key/value object containing CSS properties/styles that can then
+ * be used for {\@link state animation states}, within an {\@link sequence animation sequence}, or as
+ * styling data for both {\@link animate animate} and {\@link keyframes keyframes}.
+ *
+ * ### Usage
+ *
+ * `style` takes in a key/value string map as data and expects one or more CSS property/value
+ * pairs to be defined.
+ *
+ * ```typescript
+ * // string values are used for css properties
+ * style({ background: "red", color: "blue" })
+ *
+ * // numerical (pixel) values are also supported
+ * style({ width: 100, height: 0 })
+ * ```
+ *
+ * #### Auto-styles (using `*`)
+ *
+ * When an asterix (`*`) character is used as a value then it will be detected from the element
+ * being animated
+ * and applied as animation data when the animation starts.
+ *
+ * This feature proves useful for a state depending on layout and/or environment factors; in such
+ * cases
+ * the styles are calculated just before the animation starts.
+ *
+ * ```typescript
+ * // the steps below will animate from 0 to the
+ * // actual height of the element
+ * style({ height: 0 }),
+ * animate("1s", style({ height: "*" }))
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} tokens
  * @return {?}
  */
@@ -48525,57 +48912,58 @@ function style(tokens) {
     return new AnimationStyleMetadata(input, offset);
 }
 /**
- *  `state` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `state` declares an animation state within the given trigger. When a state is
-  * active within a component then its associated styles will persist on
-  * the element that the trigger is attached to (even when the animation ends).
-  * *
-  * To animate between states, have a look at the animation {@link transition transition}
-  * DSL function. To register states to an animation trigger please have a look
-  * at the {@link trigger trigger} function.
-  * *
-  * #### The `void` state
-  * *
-  * The `void` state value is a reserved word that angular uses to determine when the element is not
-  * apart
-  * of the application anymore (e.g. when an `ngIf` evaluates to false then the state of the
-  * associated element
-  * is void).
-  * *
-  * #### The `*` (default) state
-  * *
-  * The `*` state (when styled) is a fallback state that will be used if
-  * the state that is being animated is not declared within the trigger.
-  * *
-  * ### Usage
-  * *
-  * `state` will declare an animation state with its associated styles
-  * within the given trigger.
-  * *
-  * - `stateNameExpr` can be one or more state names separated by commas.
-  * - `styles` refers to the {@link style styling data} that will be persisted on the element once
-  * the state
-  * has been reached.
-  * *
-  * ```typescript
-  * // "void" is a reserved name for a state and is used to represent
-  * // the state in which an element is detached from from the application.
-  * state("void", style({ height: 0 }))
-  * *
-  * // user-defined states
-  * state("closed", style({ height: 0 }))
-  * state("open, visible", style({ height: "*" }))
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `state` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `state` declares an animation state within the given trigger. When a state is
+ * active within a component then its associated styles will persist on
+ * the element that the trigger is attached to (even when the animation ends).
+ *
+ * To animate between states, have a look at the animation {\@link transition transition}
+ * DSL function. To register states to an animation trigger please have a look
+ * at the {\@link trigger trigger} function.
+ *
+ * #### The `void` state
+ *
+ * The `void` state value is a reserved word that angular uses to determine when the element is not
+ * apart
+ * of the application anymore (e.g. when an `ngIf` evaluates to false then the state of the
+ * associated element
+ * is void).
+ *
+ * #### The `*` (default) state
+ *
+ * The `*` state (when styled) is a fallback state that will be used if
+ * the state that is being animated is not declared within the trigger.
+ *
+ * ### Usage
+ *
+ * `state` will declare an animation state with its associated styles
+ * within the given trigger.
+ *
+ * - `stateNameExpr` can be one or more state names separated by commas.
+ * - `styles` refers to the {\@link style styling data} that will be persisted on the element once
+ * the state
+ * has been reached.
+ *
+ * ```typescript
+ * // "void" is a reserved name for a state and is used to represent
+ * // the state in which an element is detached from from the application.
+ * state("void", style({ height: 0 }))
+ *
+ * // user-defined states
+ * state("closed", style({ height: 0 }))
+ * state("open, visible", style({ height: "*" }))
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} stateNameExpr
  * @param {?} styles
  * @return {?}
@@ -48584,52 +48972,53 @@ function state(stateNameExpr, styles) {
     return new AnimationStateDeclarationMetadata(stateNameExpr, styles);
 }
 /**
- *  `keyframes` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `keyframes` specifies a collection of {@link style style} entries each optionally characterized
-  * by an `offset` value.
-  * *
-  * ### Usage
-  * *
-  * The `keyframes` animation function is designed to be used alongside the {@link animate animate}
-  * animation function. Instead of applying animations from where they are
-  * currently to their destination, keyframes can describe how each style entry is applied
-  * and at what point within the animation arc (much like CSS Keyframe Animations do).
-  * *
-  * For each `style()` entry an `offset` value can be set. Doing so allows to specifiy at
-  * what percentage of the animate time the styles will be applied.
-  * *
-  * ```typescript
-  * // the provided offset values describe when each backgroundColor value is applied.
-  * animate("5s", keyframes([
-  * style({ backgroundColor: "red", offset: 0 }),
-  * style({ backgroundColor: "blue", offset: 0.2 }),
-  * style({ backgroundColor: "orange", offset: 0.3 }),
-  * style({ backgroundColor: "black", offset: 1 })
-  * ]))
-  * ```
-  * *
-  * Alternatively, if there are no `offset` values used within the style entries then the offsets
-  * will
-  * be calculated automatically.
-  * *
-  * ```typescript
-  * animate("5s", keyframes([
-  * style({ backgroundColor: "red" }) // offset = 0
-  * style({ backgroundColor: "blue" }) // offset = 0.33
-  * style({ backgroundColor: "orange" }) // offset = 0.66
-  * style({ backgroundColor: "black" }) // offset = 1
-  * ]))
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `keyframes` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `keyframes` specifies a collection of {\@link style style} entries each optionally characterized
+ * by an `offset` value.
+ *
+ * ### Usage
+ *
+ * The `keyframes` animation function is designed to be used alongside the {\@link animate animate}
+ * animation function. Instead of applying animations from where they are
+ * currently to their destination, keyframes can describe how each style entry is applied
+ * and at what point within the animation arc (much like CSS Keyframe Animations do).
+ *
+ * For each `style()` entry an `offset` value can be set. Doing so allows to specifiy at
+ * what percentage of the animate time the styles will be applied.
+ *
+ * ```typescript
+ * // the provided offset values describe when each backgroundColor value is applied.
+ * animate("5s", keyframes([
+ *   style({ backgroundColor: "red", offset: 0 }),
+ *   style({ backgroundColor: "blue", offset: 0.2 }),
+ *   style({ backgroundColor: "orange", offset: 0.3 }),
+ *   style({ backgroundColor: "black", offset: 1 })
+ * ]))
+ * ```
+ *
+ * Alternatively, if there are no `offset` values used within the style entries then the offsets
+ * will
+ * be calculated automatically.
+ *
+ * ```typescript
+ * animate("5s", keyframes([
+ *   style({ backgroundColor: "red" }) // offset = 0
+ *   style({ backgroundColor: "blue" }) // offset = 0.33
+ *   style({ backgroundColor: "orange" }) // offset = 0.66
+ *   style({ backgroundColor: "black" }) // offset = 1
+ * ]))
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} steps
  * @return {?}
  */
@@ -48637,117 +49026,118 @@ function keyframes(steps) {
     return new AnimationKeyframesSequenceMetadata(steps);
 }
 /**
- *  `transition` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `transition` declares the {@link sequence sequence of animation steps} that will be run when the
-  * provided
-  * `stateChangeExpr` value is satisfied. The `stateChangeExpr` consists of a `state1 => state2`
-  * which consists
-  * of two known states (use an asterix (`*`) to refer to a dynamic starting and/or ending state).
-  * *
-  * A function can also be provided as the `stateChangeExpr` argument for a transition and this
-  * function will be executed each time a state change occurs. If the value returned within the
-  * function is true then the associated animation will be run.
-  * *
-  * Animation transitions are placed within an {@link trigger animation trigger}. For an transition
-  * to animate to
-  * a state value and persist its styles then one or more {@link state animation states} is expected
-  * to be defined.
-  * *
-  * ### Usage
-  * *
-  * An animation transition is kicked off the `stateChangeExpr` predicate evaluates to true based on
-  * what the
-  * previous state is and what the current state has become. In other words, if a transition is
-  * defined that
-  * matches the old/current state criteria then the associated animation will be triggered.
-  * *
-  * ```typescript
-  * // all transition/state changes are defined within an animation trigger
-  * trigger("myAnimationTrigger", [
-  * // if a state is defined then its styles will be persisted when the
-  * // animation has fully completed itself
-  * state("on", style({ background: "green" })),
-  * state("off", style({ background: "grey" })),
-  * *
-  * // a transition animation that will be kicked off when the state value
-  * // bound to "myAnimationTrigger" changes from "on" to "off"
-  * transition("on => off", animate(500)),
-  * *
-  * // it is also possible to do run the same animation for both directions
-  * transition("on <=> off", animate(500)),
-  * *
-  * // or to define multiple states pairs separated by commas
-  * transition("on => off, off => void", animate(500)),
-  * *
-  * // this is a catch-all state change for when an element is inserted into
-  * // the page and the destination state is unknown
-  * transition("void => *", [
-  * style({ opacity: 0 }),
-  * animate(500)
-  * ]),
-  * *
-  * // this will capture a state change between any states
-  * transition("* => *", animate("1s 0s")),
-  * *
-  * // you can also go full out and include a function
-  * transition((fromState, toState) => {
-  * // when `true` then it will allow the animation below to be invoked
-  * return fromState == "off" && toState == "on";
-  * }, animate("1s 0s"))
-  * ])
-  * ```
-  * *
-  * The template associated with this component will make use of the `myAnimationTrigger`
-  * animation trigger by binding to an element within its template code.
-  * *
-  * ```html
-  * <!-- somewhere inside of my-component-tpl.html -->
-  * <div [@myAnimationTrigger]="myStatusExp">...</div>
-  * ```
-  * *
-  * #### The final `animate` call
-  * *
-  * If the final step within the transition steps is a call to `animate()` that **only**
-  * uses a timing value with **no style data** then it will be automatically used as the final
-  * animation
-  * arc for the element to animate itself to the final state. This involves an automatic mix of
-  * adding/removing CSS styles so that the element will be in the exact state it should be for the
-  * applied state to be presented correctly.
-  * *
-  * ```
-  * // start off by hiding the element, but make sure that it animates properly to whatever state
-  * // is currently active for "myAnimationTrigger"
-  * transition("void => *", [
-  * style({ opacity: 0 }),
-  * animate(500)
-  * ])
-  * ```
-  * *
-  * ### Transition Aliases (`:enter` and `:leave`)
-  * *
-  * Given that enter (insertion) and leave (removal) animations are so common,
-  * the `transition` function accepts both `:enter` and `:leave` values which
-  * are aliases for the `void => *` and `* => void` state changes.
-  * *
-  * ```
-  * transition(":enter", [
-  * style({ opacity: 0 }),
-  * animate(500, style({ opacity: 1 }))
-  * ])
-  * transition(":leave", [
-  * animate(500, style({ opacity: 0 }))
-  * ])
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `transition` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `transition` declares the {\@link sequence sequence of animation steps} that will be run when the
+ * provided
+ * `stateChangeExpr` value is satisfied. The `stateChangeExpr` consists of a `state1 => state2`
+ * which consists
+ * of two known states (use an asterix (`*`) to refer to a dynamic starting and/or ending state).
+ *
+ * A function can also be provided as the `stateChangeExpr` argument for a transition and this
+ * function will be executed each time a state change occurs. If the value returned within the
+ * function is true then the associated animation will be run.
+ *
+ * Animation transitions are placed within an {\@link trigger animation trigger}. For an transition
+ * to animate to
+ * a state value and persist its styles then one or more {\@link state animation states} is expected
+ * to be defined.
+ *
+ * ### Usage
+ *
+ * An animation transition is kicked off the `stateChangeExpr` predicate evaluates to true based on
+ * what the
+ * previous state is and what the current state has become. In other words, if a transition is
+ * defined that
+ * matches the old/current state criteria then the associated animation will be triggered.
+ *
+ * ```typescript
+ * // all transition/state changes are defined within an animation trigger
+ * trigger("myAnimationTrigger", [
+ *   // if a state is defined then its styles will be persisted when the
+ *   // animation has fully completed itself
+ *   state("on", style({ background: "green" })),
+ *   state("off", style({ background: "grey" })),
+ *
+ *   // a transition animation that will be kicked off when the state value
+ *   // bound to "myAnimationTrigger" changes from "on" to "off"
+ *   transition("on => off", animate(500)),
+ *
+ *   // it is also possible to do run the same animation for both directions
+ *   transition("on <=> off", animate(500)),
+ *
+ *   // or to define multiple states pairs separated by commas
+ *   transition("on => off, off => void", animate(500)),
+ *
+ *   // this is a catch-all state change for when an element is inserted into
+ *   // the page and the destination state is unknown
+ *   transition("void => *", [
+ *     style({ opacity: 0 }),
+ *     animate(500)
+ *   ]),
+ *
+ *   // this will capture a state change between any states
+ *   transition("* => *", animate("1s 0s")),
+ *
+ *   // you can also go full out and include a function
+ *   transition((fromState, toState) => {
+ *     // when `true` then it will allow the animation below to be invoked
+ *     return fromState == "off" && toState == "on";
+ *   }, animate("1s 0s"))
+ * ])
+ * ```
+ *
+ * The template associated with this component will make use of the `myAnimationTrigger`
+ * animation trigger by binding to an element within its template code.
+ *
+ * ```html
+ * <!-- somewhere inside of my-component-tpl.html -->
+ * <div [\@myAnimationTrigger]="myStatusExp">...</div>
+ * ```
+ *
+ * #### The final `animate` call
+ *
+ * If the final step within the transition steps is a call to `animate()` that **only**
+ * uses a timing value with **no style data** then it will be automatically used as the final
+ * animation
+ * arc for the element to animate itself to the final state. This involves an automatic mix of
+ * adding/removing CSS styles so that the element will be in the exact state it should be for the
+ * applied state to be presented correctly.
+ *
+ * ```
+ * // start off by hiding the element, but make sure that it animates properly to whatever state
+ * // is currently active for "myAnimationTrigger"
+ * transition("void => *", [
+ *   style({ opacity: 0 }),
+ *   animate(500)
+ * ])
+ * ```
+ *
+ * ### Transition Aliases (`:enter` and `:leave`)
+ *
+ * Given that enter (insertion) and leave (removal) animations are so common,
+ * the `transition` function accepts both `:enter` and `:leave` values which
+ * are aliases for the `void => *` and `* => void` state changes.
+ *
+ * ```
+ * transition(":enter", [
+ *   style({ opacity: 0 }),
+ *   animate(500, style({ opacity: 1 }))
+ * ])
+ * transition(":leave", [
+ *   animate(500, style({ opacity: 0 }))
+ * ])
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} stateChangeExpr
  * @param {?} steps
  * @return {?}
@@ -48757,58 +49147,60 @@ function transition(stateChangeExpr, steps) {
     return new AnimationStateTransitionMetadata(stateChangeExpr, animationData);
 }
 /**
- *  `trigger` is an animation-specific function that is designed to be used inside of Angular2's
-  * animation
-  * DSL language. If this information is new, please navigate to the
-  * {@link Component#animations-anchor component animations metadata
-  * page} to gain a better understanding of how animations in Angular2 are used.
-  * *
-  * `trigger` Creates an animation trigger which will a list of {@link state state} and {@link
-  * transition transition}
-  * entries that will be evaluated when the expression bound to the trigger changes.
-  * *
-  * Triggers are registered within the component annotation data under the
-  * {@link Component#animations-anchor animations section}. An animation trigger can
-  * be placed on an element within a template by referencing the name of the
-  * trigger followed by the expression value that the trigger is bound to
-  * (in the form of `[@triggerName]="expression"`.
-  * *
-  * ### Usage
-  * *
-  * `trigger` will create an animation trigger reference based on the provided `name` value.
-  * The provided `animation` value is expected to be an array consisting of {@link state state} and
-  * {@link transition transition}
-  * declarations.
-  * *
-  * ```typescript
-  * selector: 'my-component',
-  * templateUrl: 'my-component-tpl.html',
-  * animations: [
-  * trigger("myAnimationTrigger", [
-  * state(...),
-  * state(...),
-  * transition(...),
-  * transition(...)
-  * ])
-  * ]
-  * })
-  * class MyComponent {
-  * myStatusExp = "something";
-  * }
-  * ```
-  * *
-  * The template associated with this component will make use of the `myAnimationTrigger`
-  * animation trigger by binding to an element within its template code.
-  * *
-  * ```html
-  * <!-- somewhere inside of my-component-tpl.html -->
-  * <div [@myAnimationTrigger]="myStatusExp">...</div>
-  * ```
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
-  * *
-  * {@example core/animation/ts/dsl/animation_example.ts region='Component'}
-  * *
+ * `trigger` is an animation-specific function that is designed to be used inside of Angular2's
+ * animation
+ * DSL language. If this information is new, please navigate to the
+ * {\@link Component#animations-anchor component animations metadata
+ * page} to gain a better understanding of how animations in Angular2 are used.
+ *
+ * `trigger` Creates an animation trigger which will a list of {\@link state state} and {\@link
+ * transition transition}
+ * entries that will be evaluated when the expression bound to the trigger changes.
+ *
+ * Triggers are registered within the component annotation data under the
+ * {\@link Component#animations-anchor animations section}. An animation trigger can
+ * be placed on an element within a template by referencing the name of the
+ * trigger followed by the expression value that the trigger is bound to
+ * (in the form of `[\@triggerName]="expression"`.
+ *
+ * ### Usage
+ *
+ * `trigger` will create an animation trigger reference based on the provided `name` value.
+ * The provided `animation` value is expected to be an array consisting of {\@link state state} and
+ * {\@link transition transition}
+ * declarations.
+ *
+ * ```typescript
+ * \@Component({
+ *   selector: 'my-component',
+ *   templateUrl: 'my-component-tpl.html',
+ *   animations: [
+ *     trigger("myAnimationTrigger", [
+ *       state(...),
+ *       state(...),
+ *       transition(...),
+ *       transition(...)
+ *     ])
+ *   ]
+ * })
+ * class MyComponent {
+ *   myStatusExp = "something";
+ * }
+ * ```
+ *
+ * The template associated with this component will make use of the `myAnimationTrigger`
+ * animation trigger by binding to an element within its template code.
+ *
+ * ```html
+ * <!-- somewhere inside of my-component-tpl.html -->
+ * <div [\@myAnimationTrigger]="myStatusExp">...</div>
+ * ```
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/Kez8XGWBxWue7qP7nNvF?p=preview))
+ *
+ * {\@example core/animation/ts/dsl/animation_example.ts region='Component'}
+ *
+ * \@experimental Animation support is experimental.
  * @param {?} name
  * @param {?} animation
  * @return {?}
@@ -48857,22 +49249,23 @@ function devModeEqual(a, b) {
     }
 }
 /**
- *  Indicates that the result of a {@link Pipe} transformation has changed even though the
-  * reference
-  * has not changed.
-  * *
-  * The wrapped value will be unwrapped by change detection, and the unwrapped value will be stored.
-  * *
-  * Example:
-  * *
-  * ```
-  * if (this._latestValue === this._latestReturnedValue) {
-  * return this._latestReturnedValue;
-  * } else {
-  * this._latestReturnedValue = this._latestValue;
-  * return WrappedValue.wrap(this._latestValue); // this will force update
-  * }
-  * ```
+ * Indicates that the result of a {\@link Pipe} transformation has changed even though the
+ * reference
+ * has not changed.
+ *
+ * The wrapped value will be unwrapped by change detection, and the unwrapped value will be stored.
+ *
+ * Example:
+ *
+ * ```
+ * if (this._latestValue === this._latestReturnedValue) {
+ *    return this._latestReturnedValue;
+ *  } else {
+ *    this._latestReturnedValue = this._latestValue;
+ *    return WrappedValue.wrap(this._latestValue); // this will force update
+ *  }
+ * ```
+ * \@stable
  */
 var WrappedValue = (function () {
     /**
@@ -48893,7 +49286,7 @@ function WrappedValue_tsickle_Closure_declarations() {
     WrappedValue.prototype.wrapped;
 }
 /**
- *  Helper class for unwrapping WrappedValue s
+ * Helper class for unwrapping WrappedValue s
  */
 var ValueUnwrapper = (function () {
     function ValueUnwrapper() {
@@ -48921,7 +49314,8 @@ function ValueUnwrapper_tsickle_Closure_declarations() {
     ValueUnwrapper.prototype.hasWrappedValue;
 }
 /**
- *  Represents a basic change from a previous to a new value.
+ * Represents a basic change from a previous to a new value.
+ * \@stable
  */
 var SimpleChange = (function () {
     /**
@@ -48935,7 +49329,7 @@ var SimpleChange = (function () {
         this.firstChange = firstChange;
     }
     /**
-     *  Check whether the new value is the first value assigned.
+     * Check whether the new value is the first value assigned.
      * @return {?}
      */
     SimpleChange.prototype.isFirstChange = function () { return this.firstChange; };
@@ -48958,187 +49352,194 @@ function SimpleChange_tsickle_Closure_declarations() {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return ChangeDetectorRef; });
 /**
+ * \@stable
  * @abstract
  */
 var ChangeDetectorRef = (function () {
     function ChangeDetectorRef() {
     }
     /**
-     *  Marks all {@link ChangeDetectionStrategy#OnPush} ancestors as to be checked.
-      * *
-      * <!-- TODO: Add a link to a chapter on OnPush components -->
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/GC512b?p=preview))
-      * *
-      * ```typescript
-      * selector: 'cmp',
-      * changeDetection: ChangeDetectionStrategy.OnPush,
-      * template: `Number of ticks: {{numberOfTicks}}`
-      * })
-      * class Cmp {
-      * numberOfTicks = 0;
-      * *
-      * constructor(ref: ChangeDetectorRef) {
-      * setInterval(() => {
-      * this.numberOfTicks ++
-      * // the following is required, otherwise the view will not be updated
-      * this.ref.markForCheck();
-      * }, 1000);
-      * }
-      * }
-      * *
-      * selector: 'app',
-      * changeDetection: ChangeDetectionStrategy.OnPush,
-      * template: `
-      * <cmp><cmp>
-      * `,
-      * })
-      * class App {
-      * }
-      * ```
+     * Marks all {\@link ChangeDetectionStrategy#OnPush} ancestors as to be checked.
+     *
+     * <!-- TODO: Add a link to a chapter on OnPush components -->
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/GC512b?p=preview))
+     *
+     * ```typescript
+     * \@Component({
+     *   selector: 'cmp',
+     *   changeDetection: ChangeDetectionStrategy.OnPush,
+     *   template: `Number of ticks: {{numberOfTicks}}`
+     * })
+     * class Cmp {
+     *   numberOfTicks = 0;
+     *
+     *   constructor(ref: ChangeDetectorRef) {
+     *     setInterval(() => {
+     *       this.numberOfTicks ++
+     *       // the following is required, otherwise the view will not be updated
+     *       this.ref.markForCheck();
+     *     }, 1000);
+     *   }
+     * }
+     *
+     * \@Component({
+     *   selector: 'app',
+     *   changeDetection: ChangeDetectionStrategy.OnPush,
+     *   template: `
+     *     <cmp><cmp>
+     *   `,
+     * })
+     * class App {
+     * }
+     * ```
      * @abstract
      * @return {?}
      */
     ChangeDetectorRef.prototype.markForCheck = function () { };
     /**
-     *  Detaches the change detector from the change detector tree.
-      * *
-      * The detached change detector will not be checked until it is reattached.
-      * *
-      * This can also be used in combination with {@link ChangeDetectorRef#detectChanges} to implement
-      * local change
-      * detection checks.
-      * *
-      * <!-- TODO: Add a link to a chapter on detach/reattach/local digest -->
-      * <!-- TODO: Add a live demo once ref.detectChanges is merged into master -->
-      * *
-      * ### Example
-      * *
-      * The following example defines a component with a large list of readonly data.
-      * Imagine the data changes constantly, many times per second. For performance reasons,
-      * we want to check and update the list every five seconds. We can do that by detaching
-      * the component's change detector and doing a local check every five seconds.
-      * *
-      * ```typescript
-      * class DataProvider {
-      * // in a real application the returned data will be different every time
-      * get data() {
-      * return [1,2,3,4,5];
-      * }
-      * }
-      * *
-      * selector: 'giant-list',
-      * template: `
-      * <li *ngFor="let d of dataProvider.data">Data {{d}}</lig>
-      * `,
-      * })
-      * class GiantList {
-      * constructor(private ref: ChangeDetectorRef, private dataProvider:DataProvider) {
-      * ref.detach();
-      * setInterval(() => {
-      * this.ref.detectChanges();
-      * }, 5000);
-      * }
-      * }
-      * *
-      * selector: 'app',
-      * providers: [DataProvider],
-      * template: `
-      * <giant-list><giant-list>
-      * `,
-      * })
-      * class App {
-      * }
-      * ```
+     * Detaches the change detector from the change detector tree.
+     *
+     * The detached change detector will not be checked until it is reattached.
+     *
+     * This can also be used in combination with {\@link ChangeDetectorRef#detectChanges} to implement
+     * local change
+     * detection checks.
+     *
+     * <!-- TODO: Add a link to a chapter on detach/reattach/local digest -->
+     * <!-- TODO: Add a live demo once ref.detectChanges is merged into master -->
+     *
+     * ### Example
+     *
+     * The following example defines a component with a large list of readonly data.
+     * Imagine the data changes constantly, many times per second. For performance reasons,
+     * we want to check and update the list every five seconds. We can do that by detaching
+     * the component's change detector and doing a local check every five seconds.
+     *
+     * ```typescript
+     * class DataProvider {
+     *   // in a real application the returned data will be different every time
+     *   get data() {
+     *     return [1,2,3,4,5];
+     *   }
+     * }
+     *
+     * \@Component({
+     *   selector: 'giant-list',
+     *   template: `
+     *     <li *ngFor="let d of dataProvider.data">Data {{d}}</lig>
+     *   `,
+     * })
+     * class GiantList {
+     *   constructor(private ref: ChangeDetectorRef, private dataProvider:DataProvider) {
+     *     ref.detach();
+     *     setInterval(() => {
+     *       this.ref.detectChanges();
+     *     }, 5000);
+     *   }
+     * }
+     *
+     * \@Component({
+     *   selector: 'app',
+     *   providers: [DataProvider],
+     *   template: `
+     *     <giant-list><giant-list>
+     *   `,
+     * })
+     * class App {
+     * }
+     * ```
      * @abstract
      * @return {?}
      */
     ChangeDetectorRef.prototype.detach = function () { };
     /**
-     *  Checks the change detector and its children.
-      * *
-      * This can also be used in combination with {@link ChangeDetectorRef#detach} to implement local
-      * change detection
-      * checks.
-      * *
-      * <!-- TODO: Add a link to a chapter on detach/reattach/local digest -->
-      * <!-- TODO: Add a live demo once ref.detectChanges is merged into master -->
-      * *
-      * ### Example
-      * *
-      * The following example defines a component with a large list of readonly data.
-      * Imagine, the data changes constantly, many times per second. For performance reasons,
-      * we want to check and update the list every five seconds.
-      * *
-      * We can do that by detaching the component's change detector and doing a local change detection
-      * check
-      * every five seconds.
-      * *
-      * See {@link ChangeDetectorRef#detach} for more information.
+     * Checks the change detector and its children.
+     *
+     * This can also be used in combination with {\@link ChangeDetectorRef#detach} to implement local
+     * change detection
+     * checks.
+     *
+     * <!-- TODO: Add a link to a chapter on detach/reattach/local digest -->
+     * <!-- TODO: Add a live demo once ref.detectChanges is merged into master -->
+     *
+     * ### Example
+     *
+     * The following example defines a component with a large list of readonly data.
+     * Imagine, the data changes constantly, many times per second. For performance reasons,
+     * we want to check and update the list every five seconds.
+     *
+     * We can do that by detaching the component's change detector and doing a local change detection
+     * check
+     * every five seconds.
+     *
+     * See {\@link ChangeDetectorRef#detach} for more information.
      * @abstract
      * @return {?}
      */
     ChangeDetectorRef.prototype.detectChanges = function () { };
     /**
-     *  Checks the change detector and its children, and throws if any changes are detected.
-      * *
-      * This is used in development mode to verify that running change detection doesn't introduce
-      * other changes.
+     * Checks the change detector and its children, and throws if any changes are detected.
+     *
+     * This is used in development mode to verify that running change detection doesn't introduce
+     * other changes.
      * @abstract
      * @return {?}
      */
     ChangeDetectorRef.prototype.checkNoChanges = function () { };
     /**
-     *  Reattach the change detector to the change detector tree.
-      * *
-      * This also marks OnPush ancestors as to be checked. This reattached change detector will be
-      * checked during the next change detection run.
-      * *
-      * <!-- TODO: Add a link to a chapter on detach/reattach/local digest -->
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/aUhZha?p=preview))
-      * *
-      * The following example creates a component displaying `live` data. The component will detach
-      * its change detector from the main change detector tree when the component's live property
-      * is set to false.
-      * *
-      * ```typescript
-      * class DataProvider {
-      * data = 1;
-      * *
-      * constructor() {
-      * setInterval(() => {
-      * this.data = this.data * 2;
-      * }, 500);
-      * }
-      * }
-      * *
-      * selector: 'live-data',
-      * inputs: ['live'],
-      * template: 'Data: {{dataProvider.data}}'
-      * })
-      * class LiveData {
-      * constructor(private ref: ChangeDetectorRef, private dataProvider:DataProvider) {}
-      * *
-      * set live(value) {
-      * if (value)
-      * this.ref.reattach();
-      * else
-      * this.ref.detach();
-      * }
-      * }
-      * *
-      * selector: 'app',
-      * providers: [DataProvider],
-      * template: `
-      * Live Update: <input type="checkbox" [(ngModel)]="live">
-      * <live-data [live]="live"><live-data>
-      * `,
-      * })
-      * class App {
-      * live = true;
-      * }
-      * ```
+     * Reattach the change detector to the change detector tree.
+     *
+     * This also marks OnPush ancestors as to be checked. This reattached change detector will be
+     * checked during the next change detection run.
+     *
+     * <!-- TODO: Add a link to a chapter on detach/reattach/local digest -->
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/aUhZha?p=preview))
+     *
+     * The following example creates a component displaying `live` data. The component will detach
+     * its change detector from the main change detector tree when the component's live property
+     * is set to false.
+     *
+     * ```typescript
+     * class DataProvider {
+     *   data = 1;
+     *
+     *   constructor() {
+     *     setInterval(() => {
+     *       this.data = this.data * 2;
+     *     }, 500);
+     *   }
+     * }
+     *
+     * \@Component({
+     *   selector: 'live-data',
+     *   inputs: ['live'],
+     *   template: 'Data: {{dataProvider.data}}'
+     * })
+     * class LiveData {
+     *   constructor(private ref: ChangeDetectorRef, private dataProvider:DataProvider) {}
+     *
+     *   set live(value) {
+     *     if (value)
+     *       this.ref.reattach();
+     *     else
+     *       this.ref.detach();
+     *   }
+     * }
+     *
+     * \@Component({
+     *   selector: 'app',
+     *   providers: [DataProvider],
+     *   template: `
+     *     Live Update: <input type="checkbox" [(ngModel)]="live">
+     *     <live-data [live]="live"><live-data>
+     *   `,
+     * })
+     * class App {
+     *   live = true;
+     * }
+     * ```
      * @abstract
      * @return {?}
      */
@@ -49324,6 +49725,7 @@ var DefaultKeyValueDiffer = (function () {
         return this.isDirty;
     };
     /**
+     * \@internal
      * @return {?}
      */
     DefaultKeyValueDiffer.prototype._reset = function () {
@@ -49496,6 +49898,7 @@ var DefaultKeyValueDiffer = (function () {
             'removals: ' + removals.join(', ') + '\n';
     };
     /**
+     * \@internal
      * @param {?} obj
      * @param {?} fn
      * @return {?}
@@ -49531,7 +49934,7 @@ function DefaultKeyValueDiffer_tsickle_Closure_declarations() {
     DefaultKeyValueDiffer.prototype._removalsTail;
 }
 /**
- * @stable
+ * \@stable
  */
 var KeyValueChangeRecord_ = (function () {
     /**
@@ -49570,17 +49973,35 @@ function KeyValueChangeRecord__tsickle_Closure_declarations() {
     KeyValueChangeRecord_.prototype.previousValue;
     /** @type {?} */
     KeyValueChangeRecord_.prototype.currentValue;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     KeyValueChangeRecord_.prototype._nextPrevious;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     KeyValueChangeRecord_.prototype._next;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     KeyValueChangeRecord_.prototype._nextAdded;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     KeyValueChangeRecord_.prototype._nextRemoved;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     KeyValueChangeRecord_.prototype._prevRemoved;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     KeyValueChangeRecord_.prototype._nextChanged;
     /** @type {?} */
     KeyValueChangeRecord_.prototype.key;
@@ -49605,7 +50026,8 @@ function KeyValueChangeRecord__tsickle_Closure_declarations() {
 
 
 /**
- *  A repository of different iterable diffing strategies used by NgFor, NgClass, and others.
+ * A repository of different iterable diffing strategies used by NgFor, NgClass, and others.
+ * \@stable
  */
 var IterableDiffers = (function () {
     /**
@@ -49630,22 +50052,23 @@ var IterableDiffers = (function () {
         }
     };
     /**
-     *  Takes an array of {@link IterableDifferFactory} and returns a provider used to extend the
-      * inherited {@link IterableDiffers} instance with the provided factories and return a new
-      * {@link IterableDiffers} instance.
-      * *
-      * The following example shows how to extend an existing list of factories,
-      * which will only be applied to the injector for this component and its children.
-      * This step is all that's required to make a new {@link IterableDiffer} available.
-      * *
-      * ### Example
-      * *
-      * ```
-      * viewProviders: [
-      * IterableDiffers.extend([new ImmutableListDiffer()])
-      * ]
-      * })
-      * ```
+     * Takes an array of {\@link IterableDifferFactory} and returns a provider used to extend the
+     * inherited {\@link IterableDiffers} instance with the provided factories and return a new
+     * {\@link IterableDiffers} instance.
+     *
+     * The following example shows how to extend an existing list of factories,
+     * which will only be applied to the injector for this component and its children.
+     * This step is all that's required to make a new {\@link IterableDiffer} available.
+     *
+     * ### Example
+     *
+     * ```
+     * \@Component({
+     *   viewProviders: [
+     *     IterableDiffers.extend([new ImmutableListDiffer()])
+     *   ]
+     * })
+     * ```
      * @param {?} factories
      * @return {?}
      */
@@ -49682,7 +50105,7 @@ var IterableDiffers = (function () {
 }());
 function IterableDiffers_tsickle_Closure_declarations() {
     /**
-     * @deprecated
+     * @deprecated v4.0.0 - Should be private
      * @type {?}
      */
     IterableDiffers.prototype.factories;
@@ -49705,7 +50128,8 @@ function IterableDiffers_tsickle_Closure_declarations() {
  */
 
 /**
- *  A repository of different Map diffing strategies used by NgClass, NgStyle, and others.
+ * A repository of different Map diffing strategies used by NgClass, NgStyle, and others.
+ * \@stable
  */
 var KeyValueDiffers = (function () {
     /**
@@ -49727,22 +50151,23 @@ var KeyValueDiffers = (function () {
         return new KeyValueDiffers(factories);
     };
     /**
-     *  Takes an array of {@link KeyValueDifferFactory} and returns a provider used to extend the
-      * inherited {@link KeyValueDiffers} instance with the provided factories and return a new
-      * {@link KeyValueDiffers} instance.
-      * *
-      * The following example shows how to extend an existing list of factories,
-      * which will only be applied to the injector for this component and its children.
-      * This step is all that's required to make a new {@link KeyValueDiffer} available.
-      * *
-      * ### Example
-      * *
-      * ```
-      * viewProviders: [
-      * KeyValueDiffers.extend([new ImmutableMapDiffer()])
-      * ]
-      * })
-      * ```
+     * Takes an array of {\@link KeyValueDifferFactory} and returns a provider used to extend the
+     * inherited {\@link KeyValueDiffers} instance with the provided factories and return a new
+     * {\@link KeyValueDiffers} instance.
+     *
+     * The following example shows how to extend an existing list of factories,
+     * which will only be applied to the injector for this component and its children.
+     * This step is all that's required to make a new {\@link KeyValueDiffer} available.
+     *
+     * ### Example
+     *
+     * ```
+     * \@Component({
+     *   viewProviders: [
+     *     KeyValueDiffers.extend([new ImmutableMapDiffer()])
+     *   ]
+     * })
+     * ```
      * @param {?} factories
      * @return {?}
      */
@@ -49776,7 +50201,7 @@ var KeyValueDiffers = (function () {
 }());
 function KeyValueDiffers_tsickle_Closure_declarations() {
     /**
-     * @deprecated
+     * @deprecated v4.0.0 - Should be private.
      * @type {?}
      */
     KeyValueDiffers.prototype.factories;
@@ -49827,7 +50252,7 @@ function EventListener_tsickle_Closure_declarations() {
     EventListener.prototype.callback;
 }
 /**
- * @experimental All debugging apis are currently experimental.
+ * \@experimental All debugging apis are currently experimental.
  */
 var DebugNode = (function () {
     /**
@@ -49909,7 +50334,7 @@ function DebugNode_tsickle_Closure_declarations() {
     DebugNode.prototype._debugInfo;
 }
 /**
- * @experimental All debugging apis are currently experimental.
+ * \@experimental All debugging apis are currently experimental.
  */
 var DebugElement = (function (_super) {
     __extends(DebugElement, _super);
@@ -50035,6 +50460,7 @@ function DebugElement_tsickle_Closure_declarations() {
     DebugElement.prototype.nativeElement;
 }
 /**
+ * \@experimental
  * @param {?} debugEls
  * @return {?}
  */
@@ -50078,6 +50504,7 @@ function _queryNodeChildren(parentNode, predicate, matches) {
 // Need to keep the nodes in a global Map so that multiple angular apps are supported.
 var /** @type {?} */ _nativeNodeToDebugNode = new Map();
 /**
+ * \@experimental
  * @param {?} nativeNode
  * @return {?}
  */
@@ -50163,7 +50590,8 @@ function constructResolvingPath(keys) {
     return '';
 }
 /**
- *  Base class for all errors arising from misconfigured providers.
+ * Base class for all errors arising from misconfigured providers.
+ * \@stable
  */
 var AbstractProviderError = (function (_super) {
     __extends(AbstractProviderError, _super);
@@ -50192,28 +50620,41 @@ var AbstractProviderError = (function (_super) {
     return AbstractProviderError;
 }(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["a" /* BaseError */]));
 function AbstractProviderError_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     AbstractProviderError.prototype.message;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     AbstractProviderError.prototype.keys;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     AbstractProviderError.prototype.injectors;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     AbstractProviderError.prototype.constructResolvingMessage;
 }
 /**
- *  Thrown when trying to retrieve a dependency by key from {@link Injector}, but the
-  * {@link Injector} does not have a {@link Provider} for the given key.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/vq8D3FRB9aGbnWJqtEPE?p=preview))
-  * *
-  * ```typescript
-  * class A {
-  * constructor(b:B) {}
-  * }
-  * *
-  * expect(() => Injector.resolveAndCreate([A])).toThrowError();
-  * ```
+ * Thrown when trying to retrieve a dependency by key from {\@link Injector}, but the
+ * {\@link Injector} does not have a {\@link Provider} for the given key.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/vq8D3FRB9aGbnWJqtEPE?p=preview))
+ *
+ * ```typescript
+ * class A {
+ *   constructor(b:B) {}
+ * }
+ *
+ * expect(() => Injector.resolveAndCreate([A])).toThrowError();
+ * ```
+ * \@stable
  */
 var NoProviderError = (function (_super) {
     __extends(NoProviderError, _super);
@@ -50230,20 +50671,21 @@ var NoProviderError = (function (_super) {
     return NoProviderError;
 }(AbstractProviderError));
 /**
- *  Thrown when dependencies form a cycle.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/wYQdNos0Tzql3ei1EV9j?p=info))
-  * *
-  * ```typescript
-  * var injector = Injector.resolveAndCreate([
-  * {provide: "one", useFactory: (two) => "two", deps: [[new Inject("two")]]},
-  * {provide: "two", useFactory: (one) => "one", deps: [[new Inject("one")]]}
-  * ]);
-  * *
-  * expect(() => injector.get("one")).toThrowError();
-  * ```
-  * *
-  * Retrieving `A` or `B` throws a `CyclicDependencyError` as the graph above cannot be constructed.
+ * Thrown when dependencies form a cycle.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/wYQdNos0Tzql3ei1EV9j?p=info))
+ *
+ * ```typescript
+ * var injector = Injector.resolveAndCreate([
+ *   {provide: "one", useFactory: (two) => "two", deps: [[new Inject("two")]]},
+ *   {provide: "two", useFactory: (one) => "one", deps: [[new Inject("one")]]}
+ * ]);
+ *
+ * expect(() => injector.get("one")).toThrowError();
+ * ```
+ *
+ * Retrieving `A` or `B` throws a `CyclicDependencyError` as the graph above cannot be constructed.
+ * \@stable
  */
 var CyclicDependencyError = (function (_super) {
     __extends(CyclicDependencyError, _super);
@@ -50259,29 +50701,30 @@ var CyclicDependencyError = (function (_super) {
     return CyclicDependencyError;
 }(AbstractProviderError));
 /**
- *  Thrown when a constructing type returns with an Error.
-  * *
-  * The `InstantiationError` class contains the original error plus the dependency graph which caused
-  * this object to be instantiated.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/7aWYdcqTQsP0eNqEdUAf?p=preview))
-  * *
-  * ```typescript
-  * class A {
-  * constructor() {
-  * throw new Error('message');
-  * }
-  * }
-  * *
-  * var injector = Injector.resolveAndCreate([A]);
-  * try {
-  * injector.get(A);
-  * } catch (e) {
-  * expect(e instanceof InstantiationError).toBe(true);
-  * expect(e.originalException.message).toEqual("message");
-  * expect(e.originalStack).toBeDefined();
-  * }
-  * ```
+ * Thrown when a constructing type returns with an Error.
+ *
+ * The `InstantiationError` class contains the original error plus the dependency graph which caused
+ * this object to be instantiated.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/7aWYdcqTQsP0eNqEdUAf?p=preview))
+ *
+ * ```typescript
+ * class A {
+ *   constructor() {
+ *     throw new Error('message');
+ *   }
+ * }
+ *
+ * var injector = Injector.resolveAndCreate([A]);
+ * try {
+ *   injector.get(A);
+ * } catch (e) {
+ *   expect(e instanceof InstantiationError).toBe(true);
+ *   expect(e.originalException.message).toEqual("message");
+ *   expect(e.originalStack).toBeDefined();
+ * }
+ * ```
+ * \@stable
  */
 var InstantiationError = (function (_super) {
     __extends(InstantiationError, _super);
@@ -50327,20 +50770,27 @@ var InstantiationError = (function (_super) {
     return InstantiationError;
 }(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["c" /* WrappedError */]));
 function InstantiationError_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     InstantiationError.prototype.keys;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     InstantiationError.prototype.injectors;
 }
 /**
- *  Thrown when an object other then {@link Provider} (or `Type`) is passed to {@link Injector}
-  * creation.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/YatCFbPAMCL0JSSQ4mvH?p=preview))
-  * *
-  * ```typescript
-  * expect(() => Injector.resolveAndCreate(["not a type"])).toThrowError();
-  * ```
+ * Thrown when an object other then {\@link Provider} (or `Type`) is passed to {\@link Injector}
+ * creation.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/YatCFbPAMCL0JSSQ4mvH?p=preview))
+ *
+ * ```typescript
+ * expect(() => Injector.resolveAndCreate(["not a type"])).toThrowError();
+ * ```
+ * \@stable
  */
 var InvalidProviderError = (function (_super) {
     __extends(InvalidProviderError, _super);
@@ -50353,32 +50803,33 @@ var InvalidProviderError = (function (_super) {
     return InvalidProviderError;
 }(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["a" /* BaseError */]));
 /**
- *  Thrown when the class has no annotation information.
-  * *
-  * Lack of annotation information prevents the {@link Injector} from determining which dependencies
-  * need to be injected into the constructor.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/rHnZtlNS7vJOPQ6pcVkm?p=preview))
-  * *
-  * ```typescript
-  * class A {
-  * constructor(b) {}
-  * }
-  * *
-  * expect(() => Injector.resolveAndCreate([A])).toThrowError();
-  * ```
-  * *
-  * This error is also thrown when the class not marked with {@link Injectable} has parameter types.
-  * *
-  * ```typescript
-  * class B {}
-  * *
-  * class A {
-  * constructor(b:B) {} // no information about the parameter types of A is available at runtime.
-  * }
-  * *
-  * expect(() => Injector.resolveAndCreate([A,B])).toThrowError();
-  * ```
+ * Thrown when the class has no annotation information.
+ *
+ * Lack of annotation information prevents the {\@link Injector} from determining which dependencies
+ * need to be injected into the constructor.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/rHnZtlNS7vJOPQ6pcVkm?p=preview))
+ *
+ * ```typescript
+ * class A {
+ *   constructor(b) {}
+ * }
+ *
+ * expect(() => Injector.resolveAndCreate([A])).toThrowError();
+ * ```
+ *
+ * This error is also thrown when the class not marked with {\@link Injectable} has parameter types.
+ *
+ * ```typescript
+ * class B {}
+ *
+ * class A {
+ *   constructor(b:B) {} // no information about the parameter types of A is available at runtime.
+ * }
+ *
+ * expect(() => Injector.resolveAndCreate([A,B])).toThrowError();
+ * ```
+ * \@stable
  */
 var NoAnnotationError = (function (_super) {
     __extends(NoAnnotationError, _super);
@@ -50413,17 +50864,18 @@ var NoAnnotationError = (function (_super) {
     return NoAnnotationError;
 }(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["a" /* BaseError */]));
 /**
- *  Thrown when getting an object by index.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/bRs0SX2OTQiJzqvjgl8P?p=preview))
-  * *
-  * ```typescript
-  * class A {}
-  * *
-  * var injector = Injector.resolveAndCreate([A]);
-  * *
-  * expect(() => injector.getAt(100)).toThrowError();
-  * ```
+ * Thrown when getting an object by index.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/bRs0SX2OTQiJzqvjgl8P?p=preview))
+ *
+ * ```typescript
+ * class A {}
+ *
+ * var injector = Injector.resolveAndCreate([A]);
+ *
+ * expect(() => injector.getAt(100)).toThrowError();
+ * ```
+ * \@stable
  */
 var OutOfBoundsError = (function (_super) {
     __extends(OutOfBoundsError, _super);
@@ -50436,16 +50888,16 @@ var OutOfBoundsError = (function (_super) {
     return OutOfBoundsError;
 }(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["a" /* BaseError */]));
 /**
- *  Thrown when a multi provider and a regular provider are bound to the same token.
-  * *
-  * ### Example
-  * *
-  * ```typescript
-  * expect(() => Injector.resolveAndCreate([
-  * { provide: "Strings", useValue: "string1", multi: true},
-  * { provide: "Strings", useValue: "string2", multi: false}
-  * ])).toThrowError();
-  * ```
+ * Thrown when a multi provider and a regular provider are bound to the same token.
+ *
+ * ### Example
+ *
+ * ```typescript
+ * expect(() => Injector.resolveAndCreate([
+ *   { provide: "Strings", useValue: "string1", multi: true},
+ *   { provide: "Strings", useValue: "string2", multi: false}
+ * ])).toThrowError();
+ * ```
  */
 var MixingMultiProvidersWithRegularProvidersError = (function (_super) {
     __extends(MixingMultiProvidersWithRegularProvidersError, _super);
@@ -50475,26 +50927,30 @@ var MixingMultiProvidersWithRegularProvidersError = (function (_super) {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  *
-  * *
-  * The default implementation of `ErrorHandler` prints error messages to the `console`. To
-  * intercept error handling, write a custom exception handler that replaces this default as
-  * appropriate for your app.
-  * *
-  * ### Example
-  * *
-  * ```
-  * class MyErrorHandler implements ErrorHandler {
-  * handleError(error) {
-  * // do something with the exception
-  * }
-  * }
-  * *
-  * providers: [{provide: ErrorHandler, useClass: MyErrorHandler}]
-  * })
-  * class MyModule {}
-  * ```
-  * *
+ * \@whatItDoes Provides a hook for centralized exception handling.
+ *
+ * \@description
+ *
+ * The default implementation of `ErrorHandler` prints error messages to the `console`. To
+ * intercept error handling, write a custom exception handler that replaces this default as
+ * appropriate for your app.
+ *
+ * ### Example
+ *
+ * ```
+ * class MyErrorHandler implements ErrorHandler {
+ *   handleError(error) {
+ *     // do something with the exception
+ *   }
+ * }
+ *
+ * \@NgModule({
+ *   providers: [{provide: ErrorHandler, useClass: MyErrorHandler}]
+ * })
+ * class MyModule {}
+ * ```
+ *
+ * \@stable
  */
 var ErrorHandler = (function () {
     /**
@@ -50534,6 +50990,7 @@ var ErrorHandler = (function () {
             throw error;
     };
     /**
+     * \@internal
      * @param {?} error
      * @return {?}
      */
@@ -50541,6 +50998,7 @@ var ErrorHandler = (function () {
         return error instanceof Error ? error.message : error.toString();
     };
     /**
+     * \@internal
      * @param {?} error
      * @return {?}
      */
@@ -50552,6 +51010,7 @@ var ErrorHandler = (function () {
         return null;
     };
     /**
+     * \@internal
      * @param {?} error
      * @return {?}
      */
@@ -50563,6 +51022,7 @@ var ErrorHandler = (function () {
         return e;
     };
     /**
+     * \@internal
      * @param {?} error
      * @return {?}
      */
@@ -50582,9 +51042,15 @@ var ErrorHandler = (function () {
     return ErrorHandler;
 }());
 function ErrorHandler_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ErrorHandler.prototype._console;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ErrorHandler.prototype.rethrowError;
 }
 //# sourceMappingURL=error_handler.js.map
@@ -50594,7 +51060,7 @@ function ErrorHandler_tsickle_Closure_declarations() {
 /***/ function(module, exports, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__di_opaque_token__ = __webpack_require__(163);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__di_injection_token__ = __webpack_require__(163);
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return LOCALE_ID; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return TRANSLATIONS; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "c", function() { return TRANSLATIONS_FORMAT; });
@@ -50609,15 +51075,15 @@ function ErrorHandler_tsickle_Closure_declarations() {
 /**
  * @experimental i18n support is experimental.
  */
-var /** @type {?} */ LOCALE_ID = new __WEBPACK_IMPORTED_MODULE_0__di_opaque_token__["a" /* OpaqueToken */]('LocaleId');
+var /** @type {?} */ LOCALE_ID = new __WEBPACK_IMPORTED_MODULE_0__di_injection_token__["a" /* InjectionToken */]('LocaleId');
 /**
  * @experimental i18n support is experimental.
  */
-var /** @type {?} */ TRANSLATIONS = new __WEBPACK_IMPORTED_MODULE_0__di_opaque_token__["a" /* OpaqueToken */]('Translations');
+var /** @type {?} */ TRANSLATIONS = new __WEBPACK_IMPORTED_MODULE_0__di_injection_token__["a" /* InjectionToken */]('Translations');
 /**
  * @experimental i18n support is experimental.
  */
-var /** @type {?} */ TRANSLATIONS_FORMAT = new __WEBPACK_IMPORTED_MODULE_0__di_opaque_token__["a" /* OpaqueToken */]('TranslationsFormat');
+var /** @type {?} */ TRANSLATIONS_FORMAT = new __WEBPACK_IMPORTED_MODULE_0__di_injection_token__["a" /* InjectionToken */]('TranslationsFormat');
 //# sourceMappingURL=tokens.js.map
 
 /***/ },
@@ -50826,32 +51292,35 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 
 /**
- *  An error thrown if application changes model breaking the top-down data flow.
-  * *
-  * This exception is only thrown in dev mode.
-  * *
-  * <!-- TODO: Add a link once the dev mode option is configurable -->
-  * *
-  * ### Example
-  * *
-  * ```typescript
-  * selector: 'parent',
-  * template: '<child [prop]="parentProp"></child>',
-  * })
-  * class Parent {
-  * parentProp = 'init';
-  * }
-  * *
-  * class Child {
-  * constructor(public parent: Parent) {}
-  * *
-  * set prop(v) {
-  * // this updates the parent property, which is disallowed during change detection
-  * // this will result in ExpressionChangedAfterItHasBeenCheckedError
-  * this.parent.parentProp = 'updated';
-  * }
-  * }
-  * ```
+ * An error thrown if application changes model breaking the top-down data flow.
+ *
+ * This exception is only thrown in dev mode.
+ *
+ * <!-- TODO: Add a link once the dev mode option is configurable -->
+ *
+ * ### Example
+ *
+ * ```typescript
+ * \@Component({
+ *   selector: 'parent',
+ *   template: '<child [prop]="parentProp"></child>',
+ * })
+ * class Parent {
+ *   parentProp = 'init';
+ * }
+ *
+ * \@Directive({selector: 'child', inputs: ['prop']})
+ * class Child {
+ *   constructor(public parent: Parent) {}
+ *
+ *   set prop(v) {
+ *     // this updates the parent property, which is disallowed during change detection
+ *     // this will result in ExpressionChangedAfterItHasBeenCheckedError
+ *     this.parent.parentProp = 'updated';
+ *   }
+ * }
+ * ```
+ * \@stable
  */
 var ExpressionChangedAfterItHasBeenCheckedError = (function (_super) {
     __extends(ExpressionChangedAfterItHasBeenCheckedError, _super);
@@ -50872,10 +51341,11 @@ var ExpressionChangedAfterItHasBeenCheckedError = (function (_super) {
     return ExpressionChangedAfterItHasBeenCheckedError;
 }(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["a" /* BaseError */]));
 /**
- *  Thrown when an exception was raised during view creation, change detection or destruction.
-  * *
-  * This error wraps the original exception to attach additional contextual information that can
-  * be useful for debugging.
+ * Thrown when an exception was raised during view creation, change detection or destruction.
+ *
+ * This error wraps the original exception to attach additional contextual information that can
+ * be useful for debugging.
+ * \@stable
  */
 var ViewWrappedError = (function (_super) {
     __extends(ViewWrappedError, _super);
@@ -50897,11 +51367,12 @@ function ViewWrappedError_tsickle_Closure_declarations() {
     ViewWrappedError.prototype.context;
 }
 /**
- *  Thrown when a destroyed view is used.
-  * *
-  * This error indicates a bug in the framework.
-  * *
-  * This is an internal Angular error.
+ * Thrown when a destroyed view is used.
+ *
+ * This error indicates a bug in the framework.
+ *
+ * This is an internal Angular error.
+ * \@stable
  */
 var ViewDestroyedError = (function (_super) {
     __extends(ViewDestroyedError, _super);
@@ -50944,11 +51415,12 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Represents an instance of an NgModule created via a {@link NgModuleFactory}.
-  * *
-  * `NgModuleRef` provides access to the NgModule Instance as well other objects related to this
-  * NgModule Instance.
-  * *
+ * Represents an instance of an NgModule created via a {\@link NgModuleFactory}.
+ *
+ * `NgModuleRef` provides access to the NgModule Instance as well other objects related to this
+ * NgModule Instance.
+ *
+ * \@stable
  * @abstract
  */
 var NgModuleRef = (function () {
@@ -50956,7 +51428,7 @@ var NgModuleRef = (function () {
     }
     Object.defineProperty(NgModuleRef.prototype, "injector", {
         /**
-         *  The injector that contains all of the providers of the NgModule.
+         * The injector that contains all of the providers of the NgModule.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_errors__["b" /* unimplemented */])(); },
@@ -50965,8 +51437,8 @@ var NgModuleRef = (function () {
     });
     Object.defineProperty(NgModuleRef.prototype, "componentFactoryResolver", {
         /**
-         *  The ComponentFactoryResolver to get hold of the ComponentFactories
-          * declared in the `entryComponents` property of the module.
+         * The ComponentFactoryResolver to get hold of the ComponentFactories
+         * declared in the `entryComponents` property of the module.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_errors__["b" /* unimplemented */])(); },
@@ -50975,7 +51447,7 @@ var NgModuleRef = (function () {
     });
     Object.defineProperty(NgModuleRef.prototype, "instance", {
         /**
-         *  The NgModule instance.
+         * The NgModule instance.
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_errors__["b" /* unimplemented */])(); },
@@ -50983,13 +51455,13 @@ var NgModuleRef = (function () {
         configurable: true
     });
     /**
-     *  Destroys the module instance and all of the data structures associated with it.
+     * Destroys the module instance and all of the data structures associated with it.
      * @abstract
      * @return {?}
      */
     NgModuleRef.prototype.destroy = function () { };
     /**
-     *  Allows to register a callback that will be called when the module is destroyed.
+     * Allows to register a callback that will be called when the module is destroyed.
      * @abstract
      * @param {?} callback
      * @return {?}
@@ -50998,7 +51470,7 @@ var NgModuleRef = (function () {
     return NgModuleRef;
 }());
 /**
- * @experimental
+ * \@experimental
  */
 var NgModuleFactory = (function () {
     /**
@@ -51154,7 +51626,8 @@ function NgModuleInjector_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  Used to load ng module factories.
+ * Used to load ng module factories.
+ * \@stable
  * @abstract
  */
 var NgModuleFactoryLoader = (function () {
@@ -51170,7 +51643,8 @@ var NgModuleFactoryLoader = (function () {
 }());
 var /** @type {?} */ moduleFactories = new Map();
 /**
- *  Registers a loaded module. Should only be called from generated NgModuleFactory code.
+ * Registers a loaded module. Should only be called from generated NgModuleFactory code.
+ * \@experimental
  * @param {?} id
  * @param {?} factory
  * @return {?}
@@ -51189,9 +51663,10 @@ function clearModulesForTest() {
     moduleFactories = new Map();
 }
 /**
- *  Returns the NgModuleFactory with the given id, if it exists and has been loaded.
-  * Factories for modules that do not specify an `id` cannot be retrieved. Throws if the module
-  * cannot be found.
+ * Returns the NgModuleFactory with the given id, if it exists and has been loaded.
+ * Factories for modules that do not specify an `id` cannot be retrieved. Throws if the module
+ * cannot be found.
+ * \@experimental
  * @param {?} id
  * @return {?}
  */
@@ -51225,16 +51700,17 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 
 /**
- *  Represents an Embedded Template that can be used to instantiate Embedded Views.
-  * *
-  * You can access a `TemplateRef`, in two ways. Via a directive placed on a `<template>` element (or
-  * directive prefixed with `*`) and have the `TemplateRef` for this Embedded View injected into the
-  * constructor of the directive using the `TemplateRef` Token. Alternatively you can query for the
-  * `TemplateRef` from a Component or a Directive via {@link Query}.
-  * *
-  * To instantiate Embedded Views based on a Template, use
-  * {@link ViewContainerRef#createEmbeddedView}, which will create the View and attach it to the
-  * View Container.
+ * Represents an Embedded Template that can be used to instantiate Embedded Views.
+ *
+ * You can access a `TemplateRef`, in two ways. Via a directive placed on a `<template>` element (or
+ * directive prefixed with `*`) and have the `TemplateRef` for this Embedded View injected into the
+ * constructor of the directive using the `TemplateRef` Token. Alternatively you can query for the
+ * `TemplateRef` from a Component or a Directive via {\@link Query}.
+ *
+ * To instantiate Embedded Views based on a Template, use
+ * {\@link ViewContainerRef#createEmbeddedView}, which will create the View and attach it to the
+ * View Container.
+ * \@stable
  * @abstract
  */
 var TemplateRef = (function () {
@@ -51319,21 +51795,22 @@ function TemplateRef__tsickle_Closure_declarations() {
 
 
 /**
- *  Represents a container where one or more Views can be attached.
-  * *
-  * The container can contain two kinds of Views. Host Views, created by instantiating a
-  * {@link Component} via {@link #createComponent}, and Embedded Views, created by instantiating an
-  * {@link TemplateRef Embedded Template} via {@link #createEmbeddedView}.
-  * *
-  * The location of the View Container within the containing View is specified by the Anchor
-  * `element`. Each View Container can have only one Anchor Element and each Anchor Element can only
-  * have a single View Container.
-  * *
-  * Root elements of Views attached to this container become siblings of the Anchor Element in
-  * the Rendered View.
-  * *
-  * To access a `ViewContainerRef` of an Element, you can either place a {@link Directive} injected
-  * with `ViewContainerRef` on the Element, or you obtain it via a {@link ViewChild} query.
+ * Represents a container where one or more Views can be attached.
+ *
+ * The container can contain two kinds of Views. Host Views, created by instantiating a
+ * {\@link Component} via {\@link #createComponent}, and Embedded Views, created by instantiating an
+ * {\@link TemplateRef Embedded Template} via {\@link #createEmbeddedView}.
+ *
+ * The location of the View Container within the containing View is specified by the Anchor
+ * `element`. Each View Container can have only one Anchor Element and each Anchor Element can only
+ * have a single View Container.
+ *
+ * Root elements of Views attached to this container become siblings of the Anchor Element in
+ * the Rendered View.
+ *
+ * To access a `ViewContainerRef` of an Element, you can either place a {\@link Directive} injected
+ * with `ViewContainerRef` on the Element, or you obtain it via a {\@link ViewChild} query.
+ * \@stable
  * @abstract
  */
 var ViewContainerRef = (function () {
@@ -51341,8 +51818,8 @@ var ViewContainerRef = (function () {
     }
     Object.defineProperty(ViewContainerRef.prototype, "element", {
         /**
-         *  Anchor element that specifies the location of this container in the containing View.
-          * <!-- TODO: rename to anchorElement -->
+         * Anchor element that specifies the location of this container in the containing View.
+         * <!-- TODO: rename to anchorElement -->
          * @return {?}
          */
         get: function () { return (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])()); },
@@ -51366,13 +51843,13 @@ var ViewContainerRef = (function () {
         configurable: true
     });
     /**
-     *  Destroys all Views in this container.
+     * Destroys all Views in this container.
      * @abstract
      * @return {?}
      */
     ViewContainerRef.prototype.clear = function () { };
     /**
-     *  Returns the {@link ViewRef} for the View located in this container at the specified index.
+     * Returns the {\@link ViewRef} for the View located in this container at the specified index.
      * @abstract
      * @param {?} index
      * @return {?}
@@ -51380,7 +51857,7 @@ var ViewContainerRef = (function () {
     ViewContainerRef.prototype.get = function (index) { };
     Object.defineProperty(ViewContainerRef.prototype, "length", {
         /**
-         *  Returns the number of Views currently attached to this container.
+         * Returns the number of Views currently attached to this container.
          * @return {?}
          */
         get: function () { return (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])()); },
@@ -51389,12 +51866,12 @@ var ViewContainerRef = (function () {
     });
     ;
     /**
-     *  Instantiates an Embedded View based on the {@link TemplateRef `templateRef`} and inserts it
-      * into this container at the specified `index`.
-      * *
-      * If `index` is not specified, the new View will be inserted as the last View in the container.
-      * *
-      * Returns the {@link ViewRef} for the newly created View.
+     * Instantiates an Embedded View based on the {\@link TemplateRef `templateRef`} and inserts it
+     * into this container at the specified `index`.
+     *
+     * If `index` is not specified, the new View will be inserted as the last View in the container.
+     *
+     * Returns the {\@link ViewRef} for the newly created View.
      * @abstract
      * @param {?} templateRef
      * @param {?=} context
@@ -51403,17 +51880,17 @@ var ViewContainerRef = (function () {
      */
     ViewContainerRef.prototype.createEmbeddedView = function (templateRef, context, index) { };
     /**
-     *  Instantiates a single {@link Component} and inserts its Host View into this container at the
-      * specified `index`.
-      * *
-      * The component is instantiated using its {@link ComponentFactory} which can be
-      * obtained via {@link ComponentFactoryResolver#resolveComponentFactory}.
-      * *
-      * If `index` is not specified, the new View will be inserted as the last View in the container.
-      * *
-      * You can optionally specify the {@link Injector} that will be used as parent for the Component.
-      * *
-      * Returns the {@link ComponentRef} of the Host View created for the newly instantiated Component.
+     * Instantiates a single {\@link Component} and inserts its Host View into this container at the
+     * specified `index`.
+     *
+     * The component is instantiated using its {\@link ComponentFactory} which can be
+     * obtained via {\@link ComponentFactoryResolver#resolveComponentFactory}.
+     *
+     * If `index` is not specified, the new View will be inserted as the last View in the container.
+     *
+     * You can optionally specify the {\@link Injector} that will be used as parent for the Component.
+     *
+     * Returns the {\@link ComponentRef} of the Host View created for the newly instantiated Component.
      * @abstract
      * @param {?} componentFactory
      * @param {?=} index
@@ -51423,11 +51900,11 @@ var ViewContainerRef = (function () {
      */
     ViewContainerRef.prototype.createComponent = function (componentFactory, index, injector, projectableNodes) { };
     /**
-     *  Inserts a View identified by a {@link ViewRef} into the container at the specified `index`.
-      * *
-      * If `index` is not specified, the new View will be inserted as the last View in the container.
-      * *
-      * Returns the inserted {@link ViewRef}.
+     * Inserts a View identified by a {\@link ViewRef} into the container at the specified `index`.
+     *
+     * If `index` is not specified, the new View will be inserted as the last View in the container.
+     *
+     * Returns the inserted {\@link ViewRef}.
      * @abstract
      * @param {?} viewRef
      * @param {?=} index
@@ -51435,9 +51912,9 @@ var ViewContainerRef = (function () {
      */
     ViewContainerRef.prototype.insert = function (viewRef, index) { };
     /**
-     *  Moves a View identified by a {@link ViewRef} into the container at the specified `index`.
-      * *
-      * Returns the inserted {@link ViewRef}.
+     * Moves a View identified by a {\@link ViewRef} into the container at the specified `index`.
+     *
+     * Returns the inserted {\@link ViewRef}.
      * @abstract
      * @param {?} viewRef
      * @param {?} currentIndex
@@ -51445,26 +51922,26 @@ var ViewContainerRef = (function () {
      */
     ViewContainerRef.prototype.move = function (viewRef, currentIndex) { };
     /**
-     *  Returns the index of the View, specified via {@link ViewRef}, within the current container or
-      * `-1` if this container doesn't contain the View.
+     * Returns the index of the View, specified via {\@link ViewRef}, within the current container or
+     * `-1` if this container doesn't contain the View.
      * @abstract
      * @param {?} viewRef
      * @return {?}
      */
     ViewContainerRef.prototype.indexOf = function (viewRef) { };
     /**
-     *  Destroys a View attached to this container at the specified `index`.
-      * *
-      * If `index` is not specified, the last View in the container will be removed.
+     * Destroys a View attached to this container at the specified `index`.
+     *
+     * If `index` is not specified, the last View in the container will be removed.
      * @abstract
      * @param {?=} index
      * @return {?}
      */
     ViewContainerRef.prototype.remove = function (index) { };
     /**
-     *  Use along with {@link #insert} to move a View within the current container.
-      * *
-      * If the `index` param is omitted, the last {@link ViewRef} is detached.
+     * Use along with {\@link #insert} to move a View within the current container.
+     *
+     * If the `index` param is omitted, the last {\@link ViewRef} is detached.
      * @abstract
      * @param {?=} index
      * @return {?}
@@ -51628,13 +52105,25 @@ var ViewContainerRef_ = (function () {
     return ViewContainerRef_;
 }());
 function ViewContainerRef__tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ViewContainerRef_.prototype._createComponentInContainerScope;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ViewContainerRef_.prototype._insertScope;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ViewContainerRef_.prototype._removeScope;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ViewContainerRef_.prototype._detachScope;
     /** @type {?} */
     ViewContainerRef_.prototype._element;
@@ -51668,6 +52157,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
+ * \@stable
  * @abstract
  */
 var ViewRef = (function (_super) {
@@ -51676,7 +52166,7 @@ var ViewRef = (function (_super) {
         _super.apply(this, arguments);
     }
     /**
-     *  Destroys the view and all of the data structures associated with it.
+     * Destroys the view and all of the data structures associated with it.
      * @abstract
      * @return {?}
      */
@@ -51698,57 +52188,58 @@ var ViewRef = (function (_super) {
     return ViewRef;
 }(__WEBPACK_IMPORTED_MODULE_0__change_detection_change_detector_ref__["a" /* ChangeDetectorRef */]));
 /**
- *  Represents an Angular View.
-  * *
-  * <!-- TODO: move the next two paragraphs to the dev guide -->
-  * A View is a fundamental building block of the application UI. It is the smallest grouping of
-  * Elements which are created and destroyed together.
-  * *
-  * Properties of elements in a View can change, but the structure (number and order) of elements in
-  * a View cannot. Changing the structure of Elements can only be done by inserting, moving or
-  * removing nested Views via a {@link ViewContainerRef}. Each View can contain many View Containers.
-  * <!-- /TODO -->
-  * *
-  * ### Example
-  * *
-  * Given this template...
-  * *
-  * ```
-  * Count: {{items.length}}
-  * <ul>
-  * <li *ngFor="let  item of items">{{item}}</li>
-  * </ul>
-  * ```
-  * *
-  * We have two {@link TemplateRef}s:
-  * *
-  * Outer {@link TemplateRef}:
-  * ```
-  * Count: {{items.length}}
-  * <ul>
-  * <template ngFor let-item [ngForOf]="items"></template>
-  * </ul>
-  * ```
-  * *
-  * Inner {@link TemplateRef}:
-  * ```
-  * <li>{{item}}</li>
-  * ```
-  * *
-  * Notice that the original template is broken down into two separate {@link TemplateRef}s.
-  * *
-  * The outer/inner {@link TemplateRef}s are then assembled into views like so:
-  * *
-  * ```
-  * <!-- ViewRef: outer-0 -->
-  * Count: 2
-  * <ul>
-  * <template view-container-ref></template>
-  * <!-- ViewRef: inner-1 --><li>first</li><!-- /ViewRef: inner-1 -->
-  * <!-- ViewRef: inner-2 --><li>second</li><!-- /ViewRef: inner-2 -->
-  * </ul>
-  * <!-- /ViewRef: outer-0 -->
-  * ```
+ * Represents an Angular View.
+ *
+ * <!-- TODO: move the next two paragraphs to the dev guide -->
+ * A View is a fundamental building block of the application UI. It is the smallest grouping of
+ * Elements which are created and destroyed together.
+ *
+ * Properties of elements in a View can change, but the structure (number and order) of elements in
+ * a View cannot. Changing the structure of Elements can only be done by inserting, moving or
+ * removing nested Views via a {\@link ViewContainerRef}. Each View can contain many View Containers.
+ * <!-- /TODO -->
+ *
+ * ### Example
+ *
+ * Given this template...
+ *
+ * ```
+ * Count: {{items.length}}
+ * <ul>
+ *   <li *ngFor="let  item of items">{{item}}</li>
+ * </ul>
+ * ```
+ *
+ * We have two {\@link TemplateRef}s:
+ *
+ * Outer {\@link TemplateRef}:
+ * ```
+ * Count: {{items.length}}
+ * <ul>
+ *   <template ngFor let-item [ngForOf]="items"></template>
+ * </ul>
+ * ```
+ *
+ * Inner {\@link TemplateRef}:
+ * ```
+ *   <li>{{item}}</li>
+ * ```
+ *
+ * Notice that the original template is broken down into two separate {\@link TemplateRef}s.
+ *
+ * The outer/inner {\@link TemplateRef}s are then assembled into views like so:
+ *
+ * ```
+ * <!-- ViewRef: outer-0 -->
+ * Count: 2
+ * <ul>
+ *   <template view-container-ref></template>
+ *   <!-- ViewRef: inner-1 --><li>first</li><!-- /ViewRef: inner-1 -->
+ *   <!-- ViewRef: inner-2 --><li>second</li><!-- /ViewRef: inner-2 -->
+ * </ul>
+ * <!-- /ViewRef: outer-0 -->
+ * ```
+ * \@experimental
  * @abstract
  */
 var EmbeddedViewRef = (function (_super) {
@@ -51861,7 +52352,10 @@ var ViewRef_ = (function () {
     return ViewRef_;
 }());
 function ViewRef__tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ViewRef_.prototype._originalMode;
     /** @type {?} */
     ViewRef_.prototype._view;
@@ -51965,14 +52459,18 @@ var /** @type {?} */ LIFECYCLE_HOOKS_VALUES = [
     LifecycleHooks.AfterViewChecked
 ];
 /**
- *  {@example core/ts/metadata/lifecycle_hooks_spec.ts region='OnChanges'}
-  * *
-  * `ngOnChanges` is called right after the data-bound properties have been checked and before view
-  * and content children are checked if at least one of them has changed.
-  * The `changes` parameter contains the changed properties.
-  * *
-  * See {@linkDocs guide/lifecycle-hooks#onchanges "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called when any data-bound property of a directive changes.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='OnChanges'}
+ *
+ * \@description
+ * `ngOnChanges` is called right after the data-bound properties have been checked and before view
+ * and content children are checked if at least one of them has changed.
+ * The `changes` parameter contains the changed properties.
+ *
+ * See {\@linkDocs guide/lifecycle-hooks#onchanges "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var OnChanges = (function () {
@@ -51987,15 +52485,19 @@ var OnChanges = (function () {
     return OnChanges;
 }());
 /**
- *  initialized.
-  * {@example core/ts/metadata/lifecycle_hooks_spec.ts region='OnInit'}
-  * *
-  * `ngOnInit` is called right after the directive's data-bound properties have been checked for the
-  * first time, and before any of its children have been checked. It is invoked only once when the
-  * directive is instantiated.
-  * *
-  * See {@linkDocs guide/lifecycle-hooks "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called after data-bound properties of a directive are
+ * initialized.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='OnInit'}
+ *
+ * \@description
+ * `ngOnInit` is called right after the directive's data-bound properties have been checked for the
+ * first time, and before any of its children have been checked. It is invoked only once when the
+ * directive is instantiated.
+ *
+ * See {\@linkDocs guide/lifecycle-hooks "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var OnInit = (function () {
@@ -52009,21 +52511,25 @@ var OnInit = (function () {
     return OnInit;
 }());
 /**
- *  {@example core/ts/metadata/lifecycle_hooks_spec.ts region='DoCheck'}
-  * *
-  * `ngDoCheck` gets called to check the changes in the directives in addition to the default
-  * algorithm. The default change detection algorithm looks for differences by comparing
-  * bound-property values by reference across change detection runs.
-  * *
-  * Note that a directive typically should not use both `DoCheck` and {@link OnChanges} to respond to
-  * changes on the same input, as `ngOnChanges` will continue to be called when the default change
-  * detector detects changes.
-  * *
-  * See {@link KeyValueDiffers} and {@link IterableDiffers} for implementing custom dirty checking
-  * for collections.
-  * *
-  * See {@linkDocs guide/lifecycle-hooks#docheck "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called when Angular dirty checks a directive.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='DoCheck'}
+ *
+ * \@description
+ * `ngDoCheck` gets called to check the changes in the directives in addition to the default
+ * algorithm. The default change detection algorithm looks for differences by comparing
+ * bound-property values by reference across change detection runs.
+ *
+ * Note that a directive typically should not use both `DoCheck` and {\@link OnChanges} to respond to
+ * changes on the same input, as `ngOnChanges` will continue to be called when the default change
+ * detector detects changes.
+ *
+ * See {\@link KeyValueDiffers} and {\@link IterableDiffers} for implementing custom dirty checking
+ * for collections.
+ *
+ * See {\@linkDocs guide/lifecycle-hooks#docheck "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var DoCheck = (function () {
@@ -52037,13 +52543,17 @@ var DoCheck = (function () {
     return DoCheck;
 }());
 /**
- *  {@example core/ts/metadata/lifecycle_hooks_spec.ts region='OnDestroy'}
-  * *
-  * `ngOnDestroy` callback is typically used for any custom cleanup that needs to occur when the
-  * instance is destroyed.
-  * *
-  * See {@linkDocs guide/lifecycle-hooks "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called when a directive, pipe or service is destroyed.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='OnDestroy'}
+ *
+ * \@description
+ * `ngOnDestroy` callback is typically used for any custom cleanup that needs to occur when the
+ * instance is destroyed.
+ *
+ * See {\@linkDocs guide/lifecycle-hooks "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var OnDestroy = (function () {
@@ -52057,12 +52567,16 @@ var OnDestroy = (function () {
     return OnDestroy;
 }());
 /**
- *  *
-  * initialized.
-  * {@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterContentInit'}
-  * *
-  * See {@linkDocs guide/lifecycle-hooks#aftercontent "Lifecycle Hooks Guide"}.
-  * *
+ *
+ * \@whatItDoes Lifecycle hook that is called after a directive's content has been fully
+ * initialized.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterContentInit'}
+ *
+ * \@description
+ * See {\@linkDocs guide/lifecycle-hooks#aftercontent "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var AfterContentInit = (function () {
@@ -52076,10 +52590,14 @@ var AfterContentInit = (function () {
     return AfterContentInit;
 }());
 /**
- *  {@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterContentChecked'}
-  * *
-  * See {@linkDocs guide/lifecycle-hooks#aftercontent "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called after every check of a directive's content.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterContentChecked'}
+ *
+ * \@description
+ * See {\@linkDocs guide/lifecycle-hooks#aftercontent "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var AfterContentChecked = (function () {
@@ -52093,11 +52611,15 @@ var AfterContentChecked = (function () {
     return AfterContentChecked;
 }());
 /**
- *  initialized.
-  * {@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterViewInit'}
-  * *
-  * See {@linkDocs guide/lifecycle-hooks#afterview "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called after a component's view has been fully
+ * initialized.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterViewInit'}
+ *
+ * \@description
+ * See {\@linkDocs guide/lifecycle-hooks#afterview "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var AfterViewInit = (function () {
@@ -52111,10 +52633,14 @@ var AfterViewInit = (function () {
     return AfterViewInit;
 }());
 /**
- *  {@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterViewChecked'}
-  * *
-  * See {@linkDocs guide/lifecycle-hooks#afterview "Lifecycle Hooks Guide"}.
-  * *
+ * \@whatItDoes Lifecycle hook that is called after every check of a component's view.
+ * \@howToUse
+ * {\@example core/ts/metadata/lifecycle_hooks_spec.ts region='AfterViewChecked'}
+ *
+ * \@description
+ * See {\@linkDocs guide/lifecycle-hooks#afterview "Lifecycle Hooks Guide"}.
+ *
+ * \@stable
  * @abstract
  */
 var AfterViewChecked = (function () {
@@ -52151,28 +52677,29 @@ ViewEncapsulation[ViewEncapsulation.Emulated] = "Emulated";
 ViewEncapsulation[ViewEncapsulation.Native] = "Native";
 ViewEncapsulation[ViewEncapsulation.None] = "None";
 /**
- *  Metadata properties available for configuring Views.
-  * *
-  * For details on the `@Component` annotation, see {@link Component}.
-  * *
-  * ### Example
-  * *
-  * ```
-  * selector: 'greet',
-  * template: 'Hello {{name}}!',
-  * })
-  * class Greet {
-  * name: string;
-  * *
-  * constructor() {
-  * this.name = 'World';
-  * }
-  * }
-  * ```
-  * *
+ * Metadata properties available for configuring Views.
+ *
+ * For details on the `\@Component` annotation, see {\@link Component}.
+ *
+ * ### Example
+ *
+ * ```
+ * \@Component({
+ *   selector: 'greet',
+ *   template: 'Hello {{name}}!',
+ * })
+ * class Greet {
+ *   name: string;
+ *
+ *   constructor() {
+ *     this.name = 'World';
+ *   }
+ * }
+ * ```
+ *
  * @deprecated Use Component instead.
-  * *
-  * {@link Component}
+ *
+ * {\@link Component}
  */
 var ViewMetadata = (function () {
     /**
@@ -52192,37 +52719,37 @@ var ViewMetadata = (function () {
 }());
 function ViewMetadata_tsickle_Closure_declarations() {
     /**
-     * {@link Component.templateUrl}
+     * {\@link Component.templateUrl}
      * @type {?}
      */
     ViewMetadata.prototype.templateUrl;
     /**
-     * {@link Component.template}
+     * {\@link Component.template}
      * @type {?}
      */
     ViewMetadata.prototype.template;
     /**
-     * {@link Component.stylesUrl}
+     * {\@link Component.stylesUrl}
      * @type {?}
      */
     ViewMetadata.prototype.styleUrls;
     /**
-     * {@link Component.styles}
+     * {\@link Component.styles}
      * @type {?}
      */
     ViewMetadata.prototype.styles;
     /**
-     * {@link Component.encapsulation}
+     * {\@link Component.encapsulation}
      * @type {?}
      */
     ViewMetadata.prototype.encapsulation;
     /**
-     * {@link Component.animation}
+     * {\@link Component.animation}
      * @type {?}
      */
     ViewMetadata.prototype.animations;
     /**
-     * {@link Component.interpolation}
+     * {\@link Component.interpolation}
      * @type {?}
      */
     ViewMetadata.prototype.interpolation;
@@ -52274,6 +52801,7 @@ var ReflectionCapabilities = (function () {
         return new (t.bind.apply(t, [void 0].concat(args)))();
     }; };
     /**
+     * \@internal
      * @param {?} paramTypes
      * @param {?} paramAnnotations
      * @return {?}
@@ -52571,8 +53099,8 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 
 /**
- *  Provides access to reflection data about symbols. Used internally by Angular
-  * to power dependency injection and compilation.
+ * Provides access to reflection data about symbols. Used internally by Angular
+ * to power dependency injection and compilation.
  */
 var Reflector = (function (_super) {
     __extends(Reflector, _super);
@@ -52688,8 +53216,9 @@ SecurityContext[SecurityContext.SCRIPT] = "SCRIPT";
 SecurityContext[SecurityContext.URL] = "URL";
 SecurityContext[SecurityContext.RESOURCE_URL] = "RESOURCE_URL";
 /**
- *  Sanitizer is used by the views to sanitize potentially dangerous values.
-  * *
+ * Sanitizer is used by the views to sanitize potentially dangerous values.
+ *
+ * \@stable
  * @abstract
  */
 var Sanitizer = (function () {
@@ -52714,7 +53243,9 @@ var Sanitizer = (function () {
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return Version; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return VERSION; });
 /**
- *  *
+ * \@whatItDoes Represents the version of Angular
+ *
+ * \@stable
  */
 var Version = (function () {
     /**
@@ -52756,7 +53287,7 @@ function Version_tsickle_Closure_declarations() {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new Version('4.0.0-beta.3');
+var /** @type {?} */ VERSION = new Version('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
@@ -52836,7 +53367,6 @@ function _getJsonpConnections() {
     }
     return _jsonpConnections;
 }
-// Make sure not to evaluate this in a non-browser environment!
 var BrowserJsonp = (function () {
     function BrowserJsonp() {
     }
@@ -52946,16 +53476,17 @@ var __extends = (this && this.__extends) || function (d, b) {
 var /** @type {?} */ JSONP_ERR_NO_CALLBACK = 'JSONP injected script did not invoke callback.';
 var /** @type {?} */ JSONP_ERR_WRONG_METHOD = 'JSONP requests must use GET request method.';
 /**
- *  Abstract base class for an in-flight JSONP request.
-  * *
+ * Abstract base class for an in-flight JSONP request.
+ *
+ * \@experimental
  * @abstract
  */
 var JSONPConnection = (function () {
     function JSONPConnection() {
     }
     /**
-     *  Callback called when the JSONP request completes, to notify the application
-      * of the new data.
+     * Callback called when the JSONP request completes, to notify the application
+     * of the new data.
      * @abstract
      * @param {?=} data
      * @return {?}
@@ -52965,7 +53496,7 @@ var JSONPConnection = (function () {
 }());
 function JSONPConnection_tsickle_Closure_declarations() {
     /**
-     * The {@link ReadyState} of this request.
+     * The {\@link ReadyState} of this request.
      * @type {?}
      */
     JSONPConnection.prototype.readyState;
@@ -53083,8 +53614,9 @@ function JSONPConnection__tsickle_Closure_declarations() {
     JSONPConnection_.prototype.baseResponseOptions;
 }
 /**
- *  A {@link ConnectionBackend} that uses the JSONP strategy of making requests.
-  * *
+ * A {\@link ConnectionBackend} that uses the JSONP strategy of making requests.
+ *
+ * \@experimental
  * @abstract
  */
 var JSONPBackend = (function (_super) {
@@ -53175,13 +53707,14 @@ function JSONPBackend__tsickle_Closure_declarations() {
 
 var /** @type {?} */ XSSI_PREFIX = /^\)\]\}',?\n/;
 /**
- *  Creates connections using `XMLHttpRequest`. Given a fully-qualified
-  * request, an `XHRConnection` will immediately create an `XMLHttpRequest` object and send the
-  * request.
-  * *
-  * This class would typically not be created or interacted with directly inside applications, though
-  * the {@link MockConnection} may be interacted with in tests.
-  * *
+ * Creates connections using `XMLHttpRequest`. Given a fully-qualified
+ * request, an `XHRConnection` will immediately create an `XMLHttpRequest` object and send the
+ * request.
+ *
+ * This class would typically not be created or interacted with directly inside applications, though
+ * the {\@link MockConnection} may be interacted with in tests.
+ *
+ * \@experimental
  */
 var XHRConnection = (function () {
     /**
@@ -53325,7 +53858,7 @@ function XHRConnection_tsickle_Closure_declarations() {
     /** @type {?} */
     XHRConnection.prototype.request;
     /**
-     * Response {@link EventEmitter} which emits a single {@link Response} value on load event of
+     * Response {\@link EventEmitter} which emits a single {\@link Response} value on load event of
      * `XMLHttpRequest`.
      * @type {?}
      */
@@ -53334,14 +53867,15 @@ function XHRConnection_tsickle_Closure_declarations() {
     XHRConnection.prototype.readyState;
 }
 /**
- *  `XSRFConfiguration` sets up Cross Site Request Forgery (XSRF) protection for the application
-  * using a cookie. See {@link https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)}
-  * for more information on XSRF.
-  * *
-  * Applications can configure custom cookie and header names by binding an instance of this class
-  * with different `cookieName` and `headerName` values. See the main HTTP documentation for more
-  * details.
-  * *
+ * `XSRFConfiguration` sets up Cross Site Request Forgery (XSRF) protection for the application
+ * using a cookie. See {\@link https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)}
+ * for more information on XSRF.
+ *
+ * Applications can configure custom cookie and header names by binding an instance of this class
+ * with different `cookieName` and `headerName` values. See the main HTTP documentation for more
+ * details.
+ *
+ * \@experimental
  */
 var CookieXSRFStrategy = (function () {
     /**
@@ -53373,28 +53907,30 @@ function CookieXSRFStrategy_tsickle_Closure_declarations() {
     CookieXSRFStrategy.prototype._headerName;
 }
 /**
- *  Creates {@link XHRConnection} instances.
-  * *
-  * This class would typically not be used by end users, but could be
-  * overridden if a different backend implementation should be used,
-  * such as in a node backend.
-  * *
-  * ### Example
-  * *
-  * ```
-  * import {Http, MyNodeBackend, HTTP_PROVIDERS, BaseRequestOptions} from '@angular/http';
-  * viewProviders: [
-  * HTTP_PROVIDERS,
-  * {provide: Http, useFactory: (backend, options) => {
-  * return new Http(backend, options);
-  * }, deps: [MyNodeBackend, BaseRequestOptions]}]
-  * })
-  * class MyComponent {
-  * constructor(http:Http) {
-  * http.request('people.json').subscribe(res => this.people = res.json());
-  * }
-  * }
-  * ```
+ * Creates {\@link XHRConnection} instances.
+ *
+ * This class would typically not be used by end users, but could be
+ * overridden if a different backend implementation should be used,
+ * such as in a node backend.
+ *
+ * ### Example
+ *
+ * ```
+ * import {Http, MyNodeBackend, HTTP_PROVIDERS, BaseRequestOptions} from '\@angular/http';
+ * \@Component({
+ *   viewProviders: [
+ *     HTTP_PROVIDERS,
+ *     {provide: Http, useFactory: (backend, options) => {
+ *       return new Http(backend, options);
+ *     }, deps: [MyNodeBackend, BaseRequestOptions]}]
+ * })
+ * class MyComponent {
+ *   constructor(http:Http) {
+ *     http.request('people.json').subscribe(res => this.people = res.json());
+ *   }
+ * }
+ * ```
+ * \@experimental
  */
 var XHRBackend = (function () {
     /**
@@ -53461,15 +53997,15 @@ function XHRBackend_tsickle_Closure_declarations() {
 
 
 /**
- *  HTTP request body used by both {@link Request} and {@link Response}
-  * https://fetch.spec.whatwg.org/#body
+ * HTTP request body used by both {\@link Request} and {\@link Response}
+ * https://fetch.spec.whatwg.org/#body
  * @abstract
  */
 var Body = (function () {
     function Body() {
     }
     /**
-     *  Attempts to return body as parsed `JSON` object, or raises an exception.
+     * Attempts to return body as parsed `JSON` object, or raises an exception.
      * @return {?}
      */
     Body.prototype.json = function () {
@@ -53482,7 +54018,7 @@ var Body = (function () {
         return this._body;
     };
     /**
-     *  Returns the body as a string, presuming `toString()` can be called on the response body.
+     * Returns the body as a string, presuming `toString()` can be called on the response body.
      * @return {?}
      */
     Body.prototype.text = function () {
@@ -53501,7 +54037,7 @@ var Body = (function () {
         return this._body.toString();
     };
     /**
-     *  Return the body as an ArrayBuffer
+     * Return the body as an ArrayBuffer
      * @return {?}
      */
     Body.prototype.arrayBuffer = function () {
@@ -53511,7 +54047,7 @@ var Body = (function () {
         return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__http_utils__["a" /* stringToArrayBuffer */])(this.text());
     };
     /**
-     *  Returns the request's body as a Blob, assuming that body exists.
+     * Returns the request's body as a Blob, assuming that body exists.
      * @return {?}
      */
     Body.prototype.blob = function () {
@@ -53526,7 +54062,10 @@ var Body = (function () {
     return Body;
 }());
 function Body_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     Body.prototype._body;
 }
 //# sourceMappingURL=body.js.map
@@ -53592,62 +54131,64 @@ function mergeOptions(defaultOpts, providedOpts, method, url) {
     return newOptions.merge(new __WEBPACK_IMPORTED_MODULE_1__base_request_options__["a" /* RequestOptions */]({ method: method, url: url }));
 }
 /**
- *  Performs http requests using `XMLHttpRequest` as the default backend.
-  * *
-  * `Http` is available as an injectable class, with methods to perform http requests. Calling
-  * `request` returns an `Observable` which will emit a single {@link Response} when a
-  * response is received.
-  * *
-  * ### Example
-  * *
-  * ```typescript
-  * import {Http, HTTP_PROVIDERS} from '@angular/http';
-  * import 'rxjs/add/operator/map'
-  * selector: 'http-app',
-  * viewProviders: [HTTP_PROVIDERS],
-  * templateUrl: 'people.html'
-  * })
-  * class PeopleComponent {
-  * constructor(http: Http) {
-  * http.get('people.json')
-  * // Call map on the response observable to get the parsed people object
-  * .map(res => res.json())
-  * // Subscribe to the observable to get the parsed people object and attach it to the
-  * // component
-  * .subscribe(people => this.people = people);
-  * }
-  * }
-  * ```
-  * *
-  * *
-  * ### Example
-  * *
-  * ```
-  * http.get('people.json').subscribe((res:Response) => this.people = res.json());
-  * ```
-  * *
-  * The default construct used to perform requests, `XMLHttpRequest`, is abstracted as a "Backend" (
-  * {@link XHRBackend} in this case), which could be mocked with dependency injection by replacing
-  * the {@link XHRBackend} provider, as in the following example:
-  * *
-  * ### Example
-  * *
-  * ```typescript
-  * import {BaseRequestOptions, Http} from '@angular/http';
-  * import {MockBackend} from '@angular/http/testing';
-  * var injector = Injector.resolveAndCreate([
-  * BaseRequestOptions,
-  * MockBackend,
-  * {provide: Http, useFactory:
-  * function(backend, defaultOptions) {
-  * return new Http(backend, defaultOptions);
-  * },
-  * deps: [MockBackend, BaseRequestOptions]}
-  * ]);
-  * var http = injector.get(Http);
-  * http.get('request-from-mock-backend.json').subscribe((res:Response) => doSomething(res));
-  * ```
-  * *
+ * Performs http requests using `XMLHttpRequest` as the default backend.
+ *
+ * `Http` is available as an injectable class, with methods to perform http requests. Calling
+ * `request` returns an `Observable` which will emit a single {\@link Response} when a
+ * response is received.
+ *
+ * ### Example
+ *
+ * ```typescript
+ * import {Http, HTTP_PROVIDERS} from '\@angular/http';
+ * import 'rxjs/add/operator/map'
+ * \@Component({
+ *   selector: 'http-app',
+ *   viewProviders: [HTTP_PROVIDERS],
+ *   templateUrl: 'people.html'
+ * })
+ * class PeopleComponent {
+ *   constructor(http: Http) {
+ *     http.get('people.json')
+ *       // Call map on the response observable to get the parsed people object
+ *       .map(res => res.json())
+ *       // Subscribe to the observable to get the parsed people object and attach it to the
+ *       // component
+ *       .subscribe(people => this.people = people);
+ *   }
+ * }
+ * ```
+ *
+ *
+ * ### Example
+ *
+ * ```
+ * http.get('people.json').subscribe((res:Response) => this.people = res.json());
+ * ```
+ *
+ * The default construct used to perform requests, `XMLHttpRequest`, is abstracted as a "Backend" (
+ * {\@link XHRBackend} in this case), which could be mocked with dependency injection by replacing
+ * the {\@link XHRBackend} provider, as in the following example:
+ *
+ * ### Example
+ *
+ * ```typescript
+ * import {BaseRequestOptions, Http} from '\@angular/http';
+ * import {MockBackend} from '\@angular/http/testing';
+ * var injector = Injector.resolveAndCreate([
+ *   BaseRequestOptions,
+ *   MockBackend,
+ *   {provide: Http, useFactory:
+ *       function(backend, defaultOptions) {
+ *         return new Http(backend, defaultOptions);
+ *       },
+ *       deps: [MockBackend, BaseRequestOptions]}
+ * ]);
+ * var http = injector.get(Http);
+ * http.get('request-from-mock-backend.json').subscribe((res:Response) => doSomething(res));
+ * ```
+ *
+ * \@experimental
  */
 var Http = (function () {
     /**
@@ -53659,10 +54200,10 @@ var Http = (function () {
         this._defaultOptions = _defaultOptions;
     }
     /**
-     *  Performs any type of http request. First argument is required, and can either be a url or
-      * a {@link Request} instance. If the first argument is a url, an optional {@link RequestOptions}
-      * object can be provided as the 2nd argument. The options object will be merged with the values
-      * of {@link BaseRequestOptions} before performing the request.
+     * Performs any type of http request. First argument is required, and can either be a url or
+     * a {\@link Request} instance. If the first argument is a url, an optional {\@link RequestOptions}
+     * object can be provided as the 2nd argument. The options object will be merged with the values
+     * of {\@link BaseRequestOptions} before performing the request.
      * @param {?} url
      * @param {?=} options
      * @return {?}
@@ -53681,7 +54222,7 @@ var Http = (function () {
         return responseObservable;
     };
     /**
-     *  Performs a request with `get` http method.
+     * Performs a request with `get` http method.
      * @param {?} url
      * @param {?=} options
      * @return {?}
@@ -53690,7 +54231,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions, options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Get, url)));
     };
     /**
-     *  Performs a request with `post` http method.
+     * Performs a request with `post` http method.
      * @param {?} url
      * @param {?} body
      * @param {?=} options
@@ -53700,7 +54241,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions.merge(new __WEBPACK_IMPORTED_MODULE_1__base_request_options__["a" /* RequestOptions */]({ body: body })), options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Post, url)));
     };
     /**
-     *  Performs a request with `put` http method.
+     * Performs a request with `put` http method.
      * @param {?} url
      * @param {?} body
      * @param {?=} options
@@ -53710,7 +54251,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions.merge(new __WEBPACK_IMPORTED_MODULE_1__base_request_options__["a" /* RequestOptions */]({ body: body })), options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Put, url)));
     };
     /**
-     *  Performs a request with `delete` http method.
+     * Performs a request with `delete` http method.
      * @param {?} url
      * @param {?=} options
      * @return {?}
@@ -53719,7 +54260,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions, options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Delete, url)));
     };
     /**
-     *  Performs a request with `patch` http method.
+     * Performs a request with `patch` http method.
      * @param {?} url
      * @param {?} body
      * @param {?=} options
@@ -53729,7 +54270,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions.merge(new __WEBPACK_IMPORTED_MODULE_1__base_request_options__["a" /* RequestOptions */]({ body: body })), options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Patch, url)));
     };
     /**
-     *  Performs a request with `head` http method.
+     * Performs a request with `head` http method.
      * @param {?} url
      * @param {?=} options
      * @return {?}
@@ -53738,7 +54279,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions, options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Head, url)));
     };
     /**
-     *  Performs a request with `options` http method.
+     * Performs a request with `options` http method.
      * @param {?} url
      * @param {?=} options
      * @return {?}
@@ -53770,7 +54311,7 @@ function Http_tsickle_Closure_declarations() {
     Http.prototype._defaultOptions;
 }
 /**
- * @experimental
+ * \@experimental
  */
 var Jsonp = (function (_super) {
     __extends(Jsonp, _super);
@@ -53782,17 +54323,18 @@ var Jsonp = (function (_super) {
         _super.call(this, backend, defaultOptions);
     }
     /**
-     *  Performs any type of http request. First argument is required, and can either be a url or
-      * a {@link Request} instance. If the first argument is a url, an optional {@link RequestOptions}
-      * object can be provided as the 2nd argument. The options object will be merged with the values
-      * of {@link BaseRequestOptions} before performing the request.
-      * *
-      * supported by all current browsers. Because JSONP creates a `<script>` element with
-      * contents retrieved from a remote source, attacker-controlled data introduced by an untrusted
-      * source could expose your application to XSS risks. Data exposed by JSONP may also be
-      * readable by malicious third-party websites. In addition, JSONP introduces potential risk for
-      * future security issues (e.g. content sniffing).  For more detail, see the
-      * [Security Guide](http://g.co/ng/security).
+     * Performs any type of http request. First argument is required, and can either be a url or
+     * a {\@link Request} instance. If the first argument is a url, an optional {\@link RequestOptions}
+     * object can be provided as the 2nd argument. The options object will be merged with the values
+     * of {\@link BaseRequestOptions} before performing the request.
+     *
+     * \@security Regular XHR is the safest alternative to JSONP for most applications, and is
+     * supported by all current browsers. Because JSONP creates a `<script>` element with
+     * contents retrieved from a remote source, attacker-controlled data introduced by an untrusted
+     * source could expose your application to XSS risks. Data exposed by JSONP may also be
+     * readable by malicious third-party websites. In addition, JSONP introduces potential risk for
+     * future security issues (e.g. content sniffing).  For more detail, see the
+     * [Security Guide](http://g.co/ng/security).
      * @param {?} url
      * @param {?=} options
      * @return {?}
@@ -53846,6 +54388,7 @@ function Jsonp_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__http_utils__ = __webpack_require__(125);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__url_search_params__ = __webpack_require__(126);
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return Request; });
+/* unused harmony export ArrayBuffer */
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -53864,41 +54407,43 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Creates `Request` instances from provided values.
-  * *
-  * The Request's interface is inspired by the Request constructor defined in the [Fetch
-  * Spec](https://fetch.spec.whatwg.org/#request-class),
-  * but is considered a static value whose body can be accessed many times. There are other
-  * differences in the implementation, but this is the most significant.
-  * *
-  * `Request` instances are typically created by higher-level classes, like {@link Http} and
-  * {@link Jsonp}, but it may occasionally be useful to explicitly create `Request` instances.
-  * One such example is when creating services that wrap higher-level services, like {@link Http},
-  * where it may be useful to generate a `Request` with arbitrary headers and search params.
-  * *
-  * ```typescript
-  * import {Injectable, Injector} from '@angular/core';
-  * import {HTTP_PROVIDERS, Http, Request, RequestMethod} from '@angular/http';
-  * *
-  * class AutoAuthenticator {
-  * constructor(public http:Http) {}
-  * request(url:string) {
-  * return this.http.request(new Request({
-  * method: RequestMethod.Get,
-  * url: url,
-  * search: 'password=123'
-  * }));
-  * }
-  * }
-  * *
-  * var injector = Injector.resolveAndCreate([HTTP_PROVIDERS, AutoAuthenticator]);
-  * var authenticator = injector.get(AutoAuthenticator);
-  * authenticator.request('people.json').subscribe(res => {
-  * //URL should have included '?password=123'
-  * console.log('people', res.json());
-  * });
-  * ```
-  * *
+ * Creates `Request` instances from provided values.
+ *
+ * The Request's interface is inspired by the Request constructor defined in the [Fetch
+ * Spec](https://fetch.spec.whatwg.org/#request-class),
+ * but is considered a static value whose body can be accessed many times. There are other
+ * differences in the implementation, but this is the most significant.
+ *
+ * `Request` instances are typically created by higher-level classes, like {\@link Http} and
+ * {\@link Jsonp}, but it may occasionally be useful to explicitly create `Request` instances.
+ * One such example is when creating services that wrap higher-level services, like {\@link Http},
+ * where it may be useful to generate a `Request` with arbitrary headers and search params.
+ *
+ * ```typescript
+ * import {Injectable, Injector} from '\@angular/core';
+ * import {HTTP_PROVIDERS, Http, Request, RequestMethod} from '\@angular/http';
+ *
+ * \@Injectable()
+ * class AutoAuthenticator {
+ *   constructor(public http:Http) {}
+ *   request(url:string) {
+ *     return this.http.request(new Request({
+ *       method: RequestMethod.Get,
+ *       url: url,
+ *       search: 'password=123'
+ *     }));
+ *   }
+ * }
+ *
+ * var injector = Injector.resolveAndCreate([HTTP_PROVIDERS, AutoAuthenticator]);
+ * var authenticator = injector.get(AutoAuthenticator);
+ * authenticator.request('people.json').subscribe(res => {
+ *   //URL should have included '?password=123'
+ *   console.log('people', res.json());
+ * });
+ * ```
+ *
+ * \@experimental
  */
 var Request = (function (_super) {
     __extends(Request, _super);
@@ -53931,7 +54476,7 @@ var Request = (function (_super) {
         this.responseType = requestOptions.responseType;
     }
     /**
-     *  Returns the content type enum based on header options.
+     * Returns the content type enum based on header options.
      * @return {?}
      */
     Request.prototype.detectContentType = function () {
@@ -53946,13 +54491,13 @@ var Request = (function (_super) {
             case 'text/html':
                 return __WEBPACK_IMPORTED_MODULE_1__enums__["b" /* ContentType */].TEXT;
             case 'application/octet-stream':
-                return __WEBPACK_IMPORTED_MODULE_1__enums__["b" /* ContentType */].BLOB;
+                return this._body instanceof ArrayBuffer ? __WEBPACK_IMPORTED_MODULE_1__enums__["b" /* ContentType */].ARRAY_BUFFER : __WEBPACK_IMPORTED_MODULE_1__enums__["b" /* ContentType */].BLOB;
             default:
                 return this.detectContentTypeFromBody();
         }
     };
     /**
-     *  Returns the content type of request's body based on its type.
+     * Returns the content type of request's body based on its type.
      * @return {?}
      */
     Request.prototype.detectContentTypeFromBody = function () {
@@ -53971,7 +54516,7 @@ var Request = (function (_super) {
         else if (this._body instanceof ArrayBuffer) {
             return __WEBPACK_IMPORTED_MODULE_1__enums__["b" /* ContentType */].ARRAY_BUFFER;
         }
-        else if (this._body && typeof this._body == 'object') {
+        else if (this._body && typeof this._body === 'object') {
             return __WEBPACK_IMPORTED_MODULE_1__enums__["b" /* ContentType */].JSON;
         }
         else {
@@ -53979,8 +54524,8 @@ var Request = (function (_super) {
         }
     };
     /**
-     *  Returns the request's body according to its type. If body is undefined, return
-      * null.
+     * Returns the request's body according to its type. If body is undefined, return
+     * null.
      * @return {?}
      */
     Request.prototype.getBody = function () {
@@ -54010,7 +54555,7 @@ function Request_tsickle_Closure_declarations() {
      */
     Request.prototype.method;
     /**
-     * {@link Headers} instance
+     * {\@link Headers} instance
      * @type {?}
      */
     Request.prototype.headers;
@@ -54248,8 +54793,9 @@ function _resolveDefaultAnimationDriver() {
     return __WEBPACK_IMPORTED_MODULE_2__src_dom_animation_driver__["a" /* AnimationDriver */].NOOP;
 }
 /**
- *  The ng module for the browser.
-  * *
+ * The ng module for the browser.
+ *
+ * \@stable
  */
 var BrowserModule = (function () {
     /**
@@ -54372,13 +54918,6 @@ var /** @type {?} */ _chromeNumKeyPadMap = {
     '\x60': '0',
     '\x90': 'NumLock'
 };
-/**
- * A `DomAdapter` powered by full browser DOM APIs.
- *
- * @security Tread carefully! Interacting with the DOM directly is dangerous and
- * can introduce XSS risks.
- */
-/* tslint:disable:requireParameterType no-console */
 var BrowserDomAdapter = (function (_super) {
     __extends(BrowserDomAdapter, _super);
     function BrowserDomAdapter() {
@@ -55262,9 +55801,9 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  `PlatformLocation` encapsulates all of the direct calls to platform APIs.
-  * This class should not be used directly by an application developer. Instead, use
-  * {@link Location}.
+ * `PlatformLocation` encapsulates all of the direct calls to platform APIs.
+ * This class should not be used directly by an application developer. Instead, use
+ * {\@link Location}.
  */
 var BrowserPlatformLocation = (function (_super) {
     __extends(BrowserPlatformLocation, _super);
@@ -55273,6 +55812,7 @@ var BrowserPlatformLocation = (function (_super) {
         this._init();
     }
     /**
+     * \@internal
      * @return {?}
      */
     BrowserPlatformLocation.prototype._init = function () {
@@ -55410,8 +55950,9 @@ function BrowserPlatformLocation_tsickle_Closure_declarations() {
 
 
 /**
- *  A service that can be used to get and add meta tags.
-  * *
+ * A service that can be used to get and add meta tags.
+ *
+ * \@experimental
  */
 var Meta = (function () {
     /**
@@ -55670,24 +56211,25 @@ var BrowserGetTestability = (function () {
  */
 
 /**
- *  A service that can be used to get and set the title of a current HTML document.
-  * *
-  * Since an Angular 2 application can't be bootstrapped on the entire HTML document (`<html>` tag)
-  * it is not possible to bind to the `text` property of the `HTMLTitleElement` elements
-  * (representing the `<title>` tag). Instead, this service can be used to set and get the current
-  * title value.
-  * *
+ * A service that can be used to get and set the title of a current HTML document.
+ *
+ * Since an Angular 2 application can't be bootstrapped on the entire HTML document (`<html>` tag)
+ * it is not possible to bind to the `text` property of the `HTMLTitleElement` elements
+ * (representing the `<title>` tag). Instead, this service can be used to set and get the current
+ * title value.
+ *
+ * \@experimental
  */
 var Title = (function () {
     function Title() {
     }
     /**
-     *  Get the title of the current HTML document.
+     * Get the title of the current HTML document.
      * @return {?}
      */
     Title.prototype.getTitle = function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__dom_dom_adapter__["b" /* getDOM */])().getTitle(); };
     /**
-     *  Set the title of the current HTML document.
+     * Set the title of the current HTML document.
      * @param {?} newTitle
      * @return {?}
      */
@@ -55788,7 +56330,7 @@ var /** @type {?} */ MODIFIER_KEY_GETTERS = {
     'shift': function (event) { return event.shiftKey; }
 };
 /**
- * @experimental
+ * \@experimental
  */
 var KeyEventsPlugin = (function (_super) {
     __extends(KeyEventsPlugin, _super);
@@ -55881,6 +56423,7 @@ var KeyEventsPlugin = (function (_super) {
         };
     };
     /**
+     * \@internal
      * @param {?} keyName
      * @return {?}
      */
@@ -56038,45 +56581,47 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  DomSanitizer helps preventing Cross Site Scripting Security bugs (XSS) by sanitizing
-  * values to be safe to use in the different DOM contexts.
-  * *
-  * For example, when binding a URL in an `<a [href]="someValue">` hyperlink, `someValue` will be
-  * sanitized so that an attacker cannot inject e.g. a `javascript:` URL that would execute code on
-  * the website.
-  * *
-  * In specific situations, it might be necessary to disable sanitization, for example if the
-  * application genuinely needs to produce a `javascript:` style link with a dynamic value in it.
-  * Users can bypass security by constructing a value with one of the `bypassSecurityTrust...`
-  * methods, and then binding to that value from the template.
-  * *
-  * These situations should be very rare, and extraordinary care must be taken to avoid creating a
-  * Cross Site Scripting (XSS) security bug!
-  * *
-  * When using `bypassSecurityTrust...`, make sure to call the method as early as possible and as
-  * close as possible to the source of the value, to make it easy to verify no security bug is
-  * created by its use.
-  * *
-  * It is not required (and not recommended) to bypass security if the value is safe, e.g. a URL that
-  * does not start with a suspicious protocol, or an HTML snippet that does not contain dangerous
-  * code. The sanitizer leaves safe values intact.
-  * *
-  * sanitization for the value passed in. Carefully check and audit all values and code paths going
-  * into this call. Make sure any user data is appropriately escaped for this security context.
-  * For more detail, see the [Security Guide](http://g.co/ng/security).
-  * *
+ * DomSanitizer helps preventing Cross Site Scripting Security bugs (XSS) by sanitizing
+ * values to be safe to use in the different DOM contexts.
+ *
+ * For example, when binding a URL in an `<a [href]="someValue">` hyperlink, `someValue` will be
+ * sanitized so that an attacker cannot inject e.g. a `javascript:` URL that would execute code on
+ * the website.
+ *
+ * In specific situations, it might be necessary to disable sanitization, for example if the
+ * application genuinely needs to produce a `javascript:` style link with a dynamic value in it.
+ * Users can bypass security by constructing a value with one of the `bypassSecurityTrust...`
+ * methods, and then binding to that value from the template.
+ *
+ * These situations should be very rare, and extraordinary care must be taken to avoid creating a
+ * Cross Site Scripting (XSS) security bug!
+ *
+ * When using `bypassSecurityTrust...`, make sure to call the method as early as possible and as
+ * close as possible to the source of the value, to make it easy to verify no security bug is
+ * created by its use.
+ *
+ * It is not required (and not recommended) to bypass security if the value is safe, e.g. a URL that
+ * does not start with a suspicious protocol, or an HTML snippet that does not contain dangerous
+ * code. The sanitizer leaves safe values intact.
+ *
+ * \@security Calling any of the `bypassSecurityTrust...` APIs disables Angular's built-in
+ * sanitization for the value passed in. Carefully check and audit all values and code paths going
+ * into this call. Make sure any user data is appropriately escaped for this security context.
+ * For more detail, see the [Security Guide](http://g.co/ng/security).
+ *
+ * \@stable
  * @abstract
  */
 var DomSanitizer = (function () {
     function DomSanitizer() {
     }
     /**
-     *  Sanitizes a value for use in the given SecurityContext.
-      * *
-      * If value is trusted for the context, this method will unwrap the contained safe value and use
-      * it directly. Otherwise, value will be sanitized to be safe in the given context, for example
-      * by replacing URLs that have an unsafe protocol part (such as `javascript:`). The implementation
-      * is responsible to make sure that the value can definitely be safely used in the given context.
+     * Sanitizes a value for use in the given SecurityContext.
+     *
+     * If value is trusted for the context, this method will unwrap the contained safe value and use
+     * it directly. Otherwise, value will be sanitized to be safe in the given context, for example
+     * by replacing URLs that have an unsafe protocol part (such as `javascript:`). The implementation
+     * is responsible to make sure that the value can definitely be safely used in the given context.
      * @abstract
      * @param {?} context
      * @param {?} value
@@ -56084,54 +56629,54 @@ var DomSanitizer = (function () {
      */
     DomSanitizer.prototype.sanitize = function (context, value) { };
     /**
-     *  Bypass security and trust the given value to be safe HTML. Only use this when the bound HTML
-      * is unsafe (e.g. contains `<script>` tags) and the code should be executed. The sanitizer will
-      * leave safe HTML intact, so in most situations this method should not be used.
-      * *
-      * **WARNING:** calling this method with untrusted user data exposes your application to XSS
-      * security risks!
+     * Bypass security and trust the given value to be safe HTML. Only use this when the bound HTML
+     * is unsafe (e.g. contains `<script>` tags) and the code should be executed. The sanitizer will
+     * leave safe HTML intact, so in most situations this method should not be used.
+     *
+     * **WARNING:** calling this method with untrusted user data exposes your application to XSS
+     * security risks!
      * @abstract
      * @param {?} value
      * @return {?}
      */
     DomSanitizer.prototype.bypassSecurityTrustHtml = function (value) { };
     /**
-     *  Bypass security and trust the given value to be safe style value (CSS).
-      * *
-      * **WARNING:** calling this method with untrusted user data exposes your application to XSS
-      * security risks!
+     * Bypass security and trust the given value to be safe style value (CSS).
+     *
+     * **WARNING:** calling this method with untrusted user data exposes your application to XSS
+     * security risks!
      * @abstract
      * @param {?} value
      * @return {?}
      */
     DomSanitizer.prototype.bypassSecurityTrustStyle = function (value) { };
     /**
-     *  Bypass security and trust the given value to be safe JavaScript.
-      * *
-      * **WARNING:** calling this method with untrusted user data exposes your application to XSS
-      * security risks!
+     * Bypass security and trust the given value to be safe JavaScript.
+     *
+     * **WARNING:** calling this method with untrusted user data exposes your application to XSS
+     * security risks!
      * @abstract
      * @param {?} value
      * @return {?}
      */
     DomSanitizer.prototype.bypassSecurityTrustScript = function (value) { };
     /**
-     *  Bypass security and trust the given value to be a safe style URL, i.e. a value that can be used
-      * in hyperlinks or `<img src>`.
-      * *
-      * **WARNING:** calling this method with untrusted user data exposes your application to XSS
-      * security risks!
+     * Bypass security and trust the given value to be a safe style URL, i.e. a value that can be used
+     * in hyperlinks or `<img src>`.
+     *
+     * **WARNING:** calling this method with untrusted user data exposes your application to XSS
+     * security risks!
      * @abstract
      * @param {?} value
      * @return {?}
      */
     DomSanitizer.prototype.bypassSecurityTrustUrl = function (value) { };
     /**
-     *  Bypass security and trust the given value to be a safe resource URL, i.e. a location that may
-      * be used to load executable code from, like `<script src>`, or `<iframe src>`.
-      * *
-      * **WARNING:** calling this method with untrusted user data exposes your application to XSS
-      * security risks!
+     * Bypass security and trust the given value to be a safe resource URL, i.e. a location that may
+     * be used to load executable code from, like `<script src>`, or `<iframe src>`.
+     *
+     * **WARNING:** calling this method with untrusted user data exposes your application to XSS
+     * security risks!
      * @abstract
      * @param {?} value
      * @return {?}
@@ -56347,74 +56892,83 @@ var SafeResourceUrlImpl = (function (_super) {
 
 
 /**
- *  *
-  * *
-  * ```
-  * <a routerLink="/user/bob" routerLinkActive="active-link">Bob</a>
-  * ```
-  * *
-  * *
-  * The RouterLinkActive directive lets you add a CSS class to an element when the link's route
-  * becomes active.
-  * *
-  * Consider the following example:
-  * *
-  * ```
-  * <a routerLink="/user/bob" routerLinkActive="active-link">Bob</a>
-  * ```
-  * *
-  * When the url is either '/user' or '/user/bob', the active-link class will
-  * be added to the `a` tag. If the url changes, the class will be removed.
-  * *
-  * You can set more than one class, as follows:
-  * *
-  * ```
-  * <a routerLink="/user/bob" routerLinkActive="class1 class2">Bob</a>
-  * <a routerLink="/user/bob" [routerLinkActive]="['class1', 'class2']">Bob</a>
-  * ```
-  * *
-  * You can configure RouterLinkActive by passing `exact: true`. This will add the classes
-  * only when the url matches the link exactly.
-  * *
-  * ```
-  * <a routerLink="/user/bob" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact:
-  * true}">Bob</a>
-  * ```
-  * *
-  * You can assign the RouterLinkActive instance to a template variable and directly check
-  * the `isActive` status.
-  * ```
-  * <a routerLink="/user/bob" routerLinkActive #rla="routerLinkActive">
-  * Bob {{ rla.isActive ? '(already open)' : ''}}
-  * </a>
-  * ```
-  * *
-  * Finally, you can apply the RouterLinkActive directive to an ancestor of a RouterLink.
-  * *
-  * ```
-  * <div routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
-  * <a routerLink="/user/jim">Jim</a>
-  * <a routerLink="/user/bob">Bob</a>
-  * </div>
-  * ```
-  * *
-  * This will set the active-link class on the div tag if the url is either '/user/jim' or
-  * '/user/bob'.
-  * *
-  * *
+ * \@whatItDoes Lets you add a CSS class to an element when the link's route becomes active.
+ *
+ * \@howToUse
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="active-link">Bob</a>
+ * ```
+ *
+ * \@description
+ *
+ * The RouterLinkActive directive lets you add a CSS class to an element when the link's route
+ * becomes active.
+ *
+ * Consider the following example:
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="active-link">Bob</a>
+ * ```
+ *
+ * When the url is either '/user' or '/user/bob', the active-link class will
+ * be added to the `a` tag. If the url changes, the class will be removed.
+ *
+ * You can set more than one class, as follows:
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="class1 class2">Bob</a>
+ * <a routerLink="/user/bob" [routerLinkActive]="['class1', 'class2']">Bob</a>
+ * ```
+ *
+ * You can configure RouterLinkActive by passing `exact: true`. This will add the classes
+ * only when the url matches the link exactly.
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact:
+ * true}">Bob</a>
+ * ```
+ *
+ * You can assign the RouterLinkActive instance to a template variable and directly check
+ * the `isActive` status.
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive #rla="routerLinkActive">
+ *   Bob {{ rla.isActive ? '(already open)' : ''}}
+ * </a>
+ * ```
+ *
+ * Finally, you can apply the RouterLinkActive directive to an ancestor of a RouterLink.
+ *
+ * ```
+ * <div routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
+ *   <a routerLink="/user/jim">Jim</a>
+ *   <a routerLink="/user/bob">Bob</a>
+ * </div>
+ * ```
+ *
+ * This will set the active-link class on the div tag if the url is either '/user/jim' or
+ * '/user/bob'.
+ *
+ * \@selector ':not(a)[routerLink]'
+ * \@ngModule RouterModule
+ *
+ * \@stable
  */
 var RouterLinkActive = (function () {
     /**
      * @param {?} router
      * @param {?} element
      * @param {?} renderer
+     * @param {?} cdr
      */
-    function RouterLinkActive(router, element, renderer) {
+    function RouterLinkActive(router, element, renderer, cdr) {
         var _this = this;
         this.router = router;
         this.element = element;
         this.renderer = renderer;
+        this.cdr = cdr;
         this.classes = [];
+        this.active = false;
         this.routerLinkActiveOptions = { exact: false };
         this.subscription = router.events.subscribe(function (s) {
             if (s instanceof __WEBPACK_IMPORTED_MODULE_1__router__["b" /* NavigationEnd */]) {
@@ -56426,7 +56980,7 @@ var RouterLinkActive = (function () {
         /**
          * @return {?}
          */
-        get: function () { return this.hasActiveLink(); },
+        get: function () { return this.active; },
         enumerable: true,
         configurable: true
     });
@@ -56435,8 +56989,8 @@ var RouterLinkActive = (function () {
      */
     RouterLinkActive.prototype.ngAfterContentInit = function () {
         var _this = this;
-        this.links.changes.subscribe(function (s) { return _this.update(); });
-        this.linksWithHrefs.changes.subscribe(function (s) { return _this.update(); });
+        this.links.changes.subscribe(function (_) { return _this.update(); });
+        this.linksWithHrefs.changes.subscribe(function (_) { return _this.update(); });
         this.update();
     };
     Object.defineProperty(RouterLinkActive.prototype, "routerLinkActive", {
@@ -56445,12 +56999,8 @@ var RouterLinkActive = (function () {
          * @return {?}
          */
         set: function (data) {
-            if (Array.isArray(data)) {
-                this.classes = (data);
-            }
-            else {
-                this.classes = data.split(' ');
-            }
+            var /** @type {?} */ classes = Array.isArray(data) ? data : data.split(' ');
+            this.classes = classes.filter(function (c) { return !!c; });
         },
         enumerable: true,
         configurable: true
@@ -56471,12 +57021,13 @@ var RouterLinkActive = (function () {
         var _this = this;
         if (!this.links || !this.linksWithHrefs || !this.router.navigated)
             return;
-        var /** @type {?} */ isActive = this.hasActiveLink();
-        this.classes.forEach(function (c) {
-            if (c) {
-                _this.renderer.setElementClass(_this.element.nativeElement, c, isActive);
-            }
-        });
+        var /** @type {?} */ hasActiveLinks = this.hasActiveLinks();
+        // react only when status has changed to prevent unnecessary dom updates
+        if (this.active !== hasActiveLinks) {
+            this.active = hasActiveLinks;
+            this.classes.forEach(function (c) { return _this.renderer.setElementClass(_this.element.nativeElement, c, hasActiveLinks); });
+            this.cdr.detectChanges();
+        }
     };
     /**
      * @param {?} router
@@ -56491,7 +57042,7 @@ var RouterLinkActive = (function () {
     /**
      * @return {?}
      */
-    RouterLinkActive.prototype.hasActiveLink = function () {
+    RouterLinkActive.prototype.hasActiveLinks = function () {
         return this.links.some(this.isLinkActive(this.router)) ||
             this.linksWithHrefs.some(this.isLinkActive(this.router));
     };
@@ -56506,6 +57057,7 @@ var RouterLinkActive = (function () {
         { type: __WEBPACK_IMPORTED_MODULE_1__router__["a" /* Router */], },
         { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["ElementRef"], },
         { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Renderer"], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["ChangeDetectorRef"], },
     ]; };
     RouterLinkActive.propDecorators = {
         'links': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["ContentChildren"], args: [__WEBPACK_IMPORTED_MODULE_2__router_link__["a" /* RouterLink */], { descendants: true },] },],
@@ -56534,6 +57086,8 @@ function RouterLinkActive_tsickle_Closure_declarations() {
     /** @type {?} */
     RouterLinkActive.prototype.subscription;
     /** @type {?} */
+    RouterLinkActive.prototype.active;
+    /** @type {?} */
     RouterLinkActive.prototype.routerLinkActiveOptions;
     /** @type {?} */
     RouterLinkActive.prototype.router;
@@ -56541,6 +57095,8 @@ function RouterLinkActive_tsickle_Closure_declarations() {
     RouterLinkActive.prototype.element;
     /** @type {?} */
     RouterLinkActive.prototype.renderer;
+    /** @type {?} */
+    RouterLinkActive.prototype.cdr;
 }
 //# sourceMappingURL=router_link_active.js.map
 
@@ -56564,24 +57120,29 @@ function RouterLinkActive_tsickle_Closure_declarations() {
 
 
 /**
- *  state.
-  * *
-  * *
-  * ```
-  * <router-outlet></router-outlet>
-  * <router-outlet name='left'></router-outlet>
-  * <router-outlet name='right'></router-outlet>
-  * ```
-  * *
-  * A router outlet will emit an activate event any time a new component is being instantiated,
-  * and a deactivate event when it is being destroyed.
-  * *
-  * ```
-  * <router-outlet
-  * (activate)='onActivate($event)'
-  * (deactivate)='onDeactivate($event)'></router-outlet>
-  * ```
-  * *
+ * \@whatItDoes Acts as a placeholder that Angular dynamically fills based on the current router
+ * state.
+ *
+ * \@howToUse
+ *
+ * ```
+ * <router-outlet></router-outlet>
+ * <router-outlet name='left'></router-outlet>
+ * <router-outlet name='right'></router-outlet>
+ * ```
+ *
+ * A router outlet will emit an activate event any time a new component is being instantiated,
+ * and a deactivate event when it is being destroyed.
+ *
+ * ```
+ * <router-outlet
+ *   (activate)='onActivate($event)'
+ *   (deactivate)='onDeactivate($event)'></router-outlet>
+ * ```
+ * \@selector 'a[routerLink]'
+ * \@ngModule RouterModule
+ *
+ * \@stable
  */
 var RouterOutlet = (function () {
     /**
@@ -56768,21 +57329,23 @@ function RouterOutlet_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  *
+ * \@whatItDoes Provides a way to customize when activated routes get reused.
+ *
+ * \@experimental
  * @abstract
  */
 var RouteReuseStrategy = (function () {
     function RouteReuseStrategy() {
     }
     /**
-     *  Determines if this route (and its subtree) should be detached to be reused later
+     * Determines if this route (and its subtree) should be detached to be reused later
      * @abstract
      * @param {?} route
      * @return {?}
      */
     RouteReuseStrategy.prototype.shouldDetach = function (route) { };
     /**
-     *  Stores the detached route
+     * Stores the detached route
      * @abstract
      * @param {?} route
      * @param {?} handle
@@ -56790,21 +57353,21 @@ var RouteReuseStrategy = (function () {
      */
     RouteReuseStrategy.prototype.store = function (route, handle) { };
     /**
-     *  Determines if this route (and its subtree) should be reattached
+     * Determines if this route (and its subtree) should be reattached
      * @abstract
      * @param {?} route
      * @return {?}
      */
     RouteReuseStrategy.prototype.shouldAttach = function (route) { };
     /**
-     *  Retrieves the previously stored route
+     * Retrieves the previously stored route
      * @abstract
      * @param {?} route
      * @return {?}
      */
     RouteReuseStrategy.prototype.retrieve = function (route) { };
     /**
-     *  Determines if a route should be reused
+     * Determines if a route should be reused
      * @abstract
      * @param {?} future
      * @param {?} curr
@@ -56879,11 +57442,11 @@ var /** @type {?} */ ROUTER_DIRECTIVES = [__WEBPACK_IMPORTED_MODULE_4__directive
  * @whatItDoes Is used in DI to configure the router.
  * @stable
  */
-var /** @type {?} */ ROUTER_CONFIGURATION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["OpaqueToken"]('ROUTER_CONFIGURATION');
+var /** @type {?} */ ROUTER_CONFIGURATION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["InjectionToken"]('ROUTER_CONFIGURATION');
 /**
  * @docsNotRequired
  */
-var /** @type {?} */ ROUTER_FORROOT_GUARD = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["OpaqueToken"]('ROUTER_FORROOT_GUARD');
+var /** @type {?} */ ROUTER_FORROOT_GUARD = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["InjectionToken"]('ROUTER_FORROOT_GUARD');
 var /** @type {?} */ ROUTER_PROVIDERS = [
     __WEBPACK_IMPORTED_MODULE_0__angular_common__["b" /* Location */],
     { provide: __WEBPACK_IMPORTED_MODULE_13__url_tree__["a" /* UrlSerializer */], useClass: __WEBPACK_IMPORTED_MODULE_13__url_tree__["b" /* DefaultUrlSerializer */] },
@@ -56911,49 +57474,55 @@ function routerNgProbeToken() {
     return new __WEBPACK_IMPORTED_MODULE_1__angular_core__["NgProbeToken"]('Router', __WEBPACK_IMPORTED_MODULE_7__router__["a" /* Router */]);
 }
 /**
- *  *
-  * *
-  * RouterModule can be imported multiple times: once per lazily-loaded bundle.
-  * Since the router deals with a global shared resource--location, we cannot have
-  * more than one router service active.
-  * *
-  * That is why there are two ways to create the module: `RouterModule.forRoot` and
-  * `RouterModule.forChild`.
-  * *
-  * * `forRoot` creates a module that contains all the directives, the given routes, and the router
-  * service itself.
-  * * `forChild` creates a module that contains all the directives and the given routes, but does not
-  * include the router service.
-  * *
-  * When registered at the root, the module should be used as follows
-  * *
-  * ```
-  * imports: [RouterModule.forRoot(ROUTES)]
-  * })
-  * class MyNgModule {}
-  * ```
-  * *
-  * For submodules and lazy loaded submodules the module should be used as follows:
-  * *
-  * ```
-  * imports: [RouterModule.forChild(ROUTES)]
-  * })
-  * class MyNgModule {}
-  * ```
-  * *
-  * *
-  * Managing state transitions is one of the hardest parts of building applications. This is
-  * especially true on the web, where you also need to ensure that the state is reflected in the URL.
-  * In addition, we often want to split applications into multiple bundles and load them on demand.
-  * Doing this transparently is not trivial.
-  * *
-  * The Angular 2 router solves these problems. Using the router, you can declaratively specify
-  * application states, manage state transitions while taking care of the URL, and load bundles on
-  * demand.
-  * *
-  * [Read this developer guide](https://angular.io/docs/ts/latest/guide/router.html) to get an
-  * overview of how the router should be used.
-  * *
+ * \@whatItDoes Adds router directives and providers.
+ *
+ * \@howToUse
+ *
+ * RouterModule can be imported multiple times: once per lazily-loaded bundle.
+ * Since the router deals with a global shared resource--location, we cannot have
+ * more than one router service active.
+ *
+ * That is why there are two ways to create the module: `RouterModule.forRoot` and
+ * `RouterModule.forChild`.
+ *
+ * * `forRoot` creates a module that contains all the directives, the given routes, and the router
+ *   service itself.
+ * * `forChild` creates a module that contains all the directives and the given routes, but does not
+ *   include the router service.
+ *
+ * When registered at the root, the module should be used as follows
+ *
+ * ```
+ * \@NgModule({
+ *   imports: [RouterModule.forRoot(ROUTES)]
+ * })
+ * class MyNgModule {}
+ * ```
+ *
+ * For submodules and lazy loaded submodules the module should be used as follows:
+ *
+ * ```
+ * \@NgModule({
+ *   imports: [RouterModule.forChild(ROUTES)]
+ * })
+ * class MyNgModule {}
+ * ```
+ *
+ * \@description
+ *
+ * Managing state transitions is one of the hardest parts of building applications. This is
+ * especially true on the web, where you also need to ensure that the state is reflected in the URL.
+ * In addition, we often want to split applications into multiple bundles and load them on demand.
+ * Doing this transparently is not trivial.
+ *
+ * The Angular 2 router solves these problems. Using the router, you can declaratively specify
+ * application states, manage state transitions while taking care of the URL, and load bundles on
+ * demand.
+ *
+ * [Read this developer guide](https://angular.io/docs/ts/latest/guide/router.html) to get an
+ * overview of how the router should be used.
+ *
+ * \@stable
  */
 var RouterModule = (function () {
     /**
@@ -56962,15 +57531,15 @@ var RouterModule = (function () {
     function RouterModule(guard) {
     }
     /**
-     *  Creates a module with all the router providers and directives. It also optionally sets up an
-      * application listener to perform an initial navigation.
-      * *
-      * Options:
-      * * `enableTracing` makes the router log all its internal events to the console.
-      * * `useHash` enables the location strategy that uses the URL fragment instead of the history
-      * API.
-      * * `initialNavigation` disables the initial navigation.
-      * * `errorHandler` provides a custom error handler.
+     * Creates a module with all the router providers and directives. It also optionally sets up an
+     * application listener to perform an initial navigation.
+     *
+     * Options:
+     * * `enableTracing` makes the router log all its internal events to the console.
+     * * `useHash` enables the location strategy that uses the URL fragment instead of the history
+     * API.
+     * * `initialNavigation` disables the initial navigation.
+     * * `errorHandler` provides a custom error handler.
      * @param {?} routes
      * @param {?=} config
      * @return {?}
@@ -57005,7 +57574,7 @@ var RouterModule = (function () {
         };
     };
     /**
-     *  Creates a module with all the router directives and a provider registering routes.
+     * Creates a module with all the router directives and a provider registering routes.
      * @param {?} routes
      * @return {?}
      */
@@ -57052,15 +57621,19 @@ function provideForRootGuard(router) {
     return 'guarded';
 }
 /**
- *  *
-  * *
-  * ```
-  * imports: [RouterModule.forChild(ROUTES)],
-  * providers: [provideRoutes(EXTRA_ROUTES)]
-  * })
-  * class MyNgModule {}
-  * ```
-  * *
+ * \@whatItDoes Registers routes.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@NgModule({
+ *   imports: [RouterModule.forChild(ROUTES)],
+ *   providers: [provideRoutes(EXTRA_ROUTES)]
+ * })
+ * class MyNgModule {}
+ * ```
+ *
+ * \@stable
  * @param {?} routes
  * @return {?}
  */
@@ -57141,7 +57714,7 @@ function initialRouterNavigation(router, ref, preloader, opts) {
  *
  * @experimental
  */
-var /** @type {?} */ ROUTER_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["OpaqueToken"]('Router Initializer');
+var /** @type {?} */ ROUTER_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["InjectionToken"]('Router Initializer');
 /**
  * @return {?}
  */
@@ -57201,7 +57774,9 @@ function provideRouterInitializer() {
 
 
 /**
- *  *
+ * \@whatItDoes Provides a preloading strategy.
+ *
+ * \@experimental
  * @abstract
  */
 var PreloadingStrategy = (function () {
@@ -57217,12 +57792,15 @@ var PreloadingStrategy = (function () {
     return PreloadingStrategy;
 }());
 /**
- *  *
-  * *
-  * ```
-  * RouteModule.forRoot(ROUTES, {preloadingStrategy: PreloadAllModules})
-  * ```
-  * *
+ * \@whatItDoes Provides a preloading strategy that preloads all modules as quicky as possible.
+ *
+ * \@howToUse
+ *
+ * ```
+ * RouteModule.forRoot(ROUTES, {preloadingStrategy: PreloadAllModules})
+ * ```
+ *
+ * \@experimental
  */
 var PreloadAllModules = (function () {
     function PreloadAllModules() {
@@ -57238,10 +57816,13 @@ var PreloadAllModules = (function () {
     return PreloadAllModules;
 }());
 /**
- *  *
-  * *
-  * This strategy is enabled by default.
-  * *
+ * \@whatItDoes Provides a preloading strategy that does not preload any modules.
+ *
+ * \@description
+ *
+ * This strategy is enabled by default.
+ *
+ * \@experimental
  */
 var NoPreloading = (function () {
     function NoPreloading() {
@@ -57255,15 +57836,16 @@ var NoPreloading = (function () {
     return NoPreloading;
 }());
 /**
- *  The preloader optimistically loads all router configurations to
-  * make navigations into lazily-loaded sections of the application faster.
-  * *
-  * The preloader runs in the background. When the router bootstraps, the preloader
-  * starts listening to all navigation events. After every such event, the preloader
-  * will check if any configurations can be loaded lazily.
-  * *
-  * If a route is protected by `canLoad` guards, the preloaded will not load it.
-  * *
+ * The preloader optimistically loads all router configurations to
+ * make navigations into lazily-loaded sections of the application faster.
+ *
+ * The preloader runs in the background. When the router bootstraps, the preloader
+ * starts listening to all navigation events. After every such event, the preloader
+ * will check if any configurations can be loaded lazily.
+ *
+ * If a route is protected by `canLoad` guards, the preloaded will not load it.
+ *
+ * \@stable
  */
 var RouterPreloader = (function () {
     /**
@@ -59483,8 +60065,9 @@ exports.isPromise = isPromise;
 
 
 /**
- *  The module that includes all the basic Angular directives like {@link NgIf}, {@link NgFor}, ...
-  * *
+ * The module that includes all the basic Angular directives like {\@link NgIf}, {\@link NgFor}, ...
+ *
+ * \@stable
  */
 var CommonModule = (function () {
     function CommonModule() {
@@ -59533,27 +60116,32 @@ function CommonModule_tsickle_Closure_declarations() {
 
 
 /**
- *  *
-  * *
-  * ```
-  * <some-element [ngClass]="'first second'">...</some-element>
-  * *
-  * <some-element [ngClass]="['first', 'second']">...</some-element>
-  * *
-  * <some-element [ngClass]="{'first': true, 'second': true, 'third': false}">...</some-element>
-  * *
-  * <some-element [ngClass]="stringExp|arrayExp|objExp">...</some-element>
-  * *
-  * <some-element [ngClass]="{'class1 class2 class3' : true}">...</some-element>
-  * ```
-  * *
-  * *
-  * The CSS classes are updated as follows, depending on the type of the expression evaluation:
-  * - `string` - the CSS classes listed in the string (space delimited) are added,
-  * - `Array` - the CSS classes declared as Array elements are added,
-  * - `Object` - keys are CSS classes that get added when the expression given in the value
-  * evaluates to a truthy value, otherwise they are removed.
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Adds and removes CSS classes on an HTML element.
+ *
+ * \@howToUse
+ * ```
+ *     <some-element [ngClass]="'first second'">...</some-element>
+ *
+ *     <some-element [ngClass]="['first', 'second']">...</some-element>
+ *
+ *     <some-element [ngClass]="{'first': true, 'second': true, 'third': false}">...</some-element>
+ *
+ *     <some-element [ngClass]="stringExp|arrayExp|objExp">...</some-element>
+ *
+ *     <some-element [ngClass]="{'class1 class2 class3' : true}">...</some-element>
+ * ```
+ *
+ * \@description
+ *
+ * The CSS classes are updated as follows, depending on the type of the expression evaluation:
+ * - `string` - the CSS classes listed in the string (space delimited) are added,
+ * - `Array` - the CSS classes declared as Array elements are added,
+ * - `Object` - keys are CSS classes that get added when the expression given in the value
+ *              evaluates to a truthy value, otherwise they are removed.
+ *
+ * \@stable
  */
 var NgClass = (function () {
     /**
@@ -59760,50 +60348,51 @@ function NgClass_tsickle_Closure_declarations() {
  */
 
 /**
- *  Instantiates a single {@link Component} type and inserts its Host View into current View.
-  * `NgComponentOutlet` provides a declarative approach for dynamic component creation.
-  * *
-  * `NgComponentOutlet` requires a component type, if a falsy value is set the view will clear and
-  * any existing component will get destroyed.
-  * *
-  * ### Fine tune control
-  * *
-  * You can control the component creation process by using the following optional attributes:
-  * *
-  * * `ngOutletInjector`: Optional custom {@link Injector} that will be used as parent for the
-  * Component.
-  * Defaults to the injector of the current view container.
-  * *
-  * * `ngOutletProviders`: Optional injectable objects ({@link Provider}) that are visible to the
-  * component.
-  * *
-  * * `ngOutletContent`: Optional list of projectable nodes to insert into the content
-  * section of the component, if exists. ({@link NgContent}).
-  * *
-  * *
-  * ### Syntax
-  * *
-  * Simple
-  * ```
-  * <ng-container *ngComponentOutlet="componentTypeExpression"></ng-container>
-  * ```
-  * *
-  * Customized
-  * ```
-  * <ng-container *ngComponentOutlet="componentTypeExpression;
-  * injector: injectorExpression;
-  * content: contentNodesExpression">
-  * </ng-container>
-  * ```
-  * *
-  * # Example
-  * *
-  * {@example common/ngComponentOutlet/ts/module.ts region='SimpleExample'}
-  * *
-  * A more complete example with additional options:
-  * *
-  * {@example common/ngComponentOutlet/ts/module.ts region='CompleteExample'}
-  * *
+ * Instantiates a single {\@link Component} type and inserts its Host View into current View.
+ * `NgComponentOutlet` provides a declarative approach for dynamic component creation.
+ *
+ * `NgComponentOutlet` requires a component type, if a falsy value is set the view will clear and
+ * any existing component will get destroyed.
+ *
+ * ### Fine tune control
+ *
+ * You can control the component creation process by using the following optional attributes:
+ *
+ * * `ngOutletInjector`: Optional custom {\@link Injector} that will be used as parent for the
+ * Component.
+ * Defaults to the injector of the current view container.
+ *
+ * * `ngOutletProviders`: Optional injectable objects ({\@link Provider}) that are visible to the
+ * component.
+ *
+ * * `ngOutletContent`: Optional list of projectable nodes to insert into the content
+ * section of the component, if exists. ({\@link NgContent}).
+ *
+ *
+ * ### Syntax
+ *
+ * Simple
+ * ```
+ * <ng-container *ngComponentOutlet="componentTypeExpression"></ng-container>
+ * ```
+ *
+ * Customized
+ * ```
+ * <ng-container *ngComponentOutlet="componentTypeExpression;
+ *                                   injector: injectorExpression;
+ *                                   content: contentNodesExpression">
+ * </ng-container>
+ * ```
+ *
+ * # Example
+ *
+ * {\@example common/ngComponentOutlet/ts/module.ts region='SimpleExample'}
+ *
+ * A more complete example with additional options:
+ *
+ * {\@example common/ngComponentOutlet/ts/module.ts region='CompleteExample'}
+ *
+ * \@experimental
  */
 var NgComponentOutlet = (function () {
     /**
@@ -59941,67 +60530,68 @@ function NgForRow_tsickle_Closure_declarations() {
     NgForRow.prototype.count;
 }
 /**
- *  The `NgFor` directive instantiates a template once per item from an iterable. The context for
-  * each instantiated template inherits from the outer context with the given loop variable set
-  * to the current item from the iterable.
-  * *
-  * ### Local Variables
-  * *
-  * `NgFor` provides several exported values that can be aliased to local variables:
-  * *
-  * * `index` will be set to the current loop iteration for each template context.
-  * * `first` will be set to a boolean value indicating whether the item is the first one in the
-  * iteration.
-  * * `last` will be set to a boolean value indicating whether the item is the last one in the
-  * iteration.
-  * * `even` will be set to a boolean value indicating whether this item has an even index.
-  * * `odd` will be set to a boolean value indicating whether this item has an odd index.
-  * *
-  * ### Change Propagation
-  * *
-  * When the contents of the iterator changes, `NgFor` makes the corresponding changes to the DOM:
-  * *
-  * * When an item is added, a new instance of the template is added to the DOM.
-  * * When an item is removed, its template instance is removed from the DOM.
-  * * When items are reordered, their respective templates are reordered in the DOM.
-  * * Otherwise, the DOM element for that item will remain the same.
-  * *
-  * Angular uses object identity to track insertions and deletions within the iterator and reproduce
-  * those changes in the DOM. This has important implications for animations and any stateful
-  * controls
-  * (such as `<input>` elements which accept user input) that are present. Inserted rows can be
-  * animated in, deleted rows can be animated out, and unchanged rows retain any unsaved state such
-  * as user input.
-  * *
-  * It is possible for the identities of elements in the iterator to change while the data does not.
-  * This can happen, for example, if the iterator produced from an RPC to the server, and that
-  * RPC is re-run. Even if the data hasn't changed, the second response will produce objects with
-  * different identities, and Angular will tear down the entire DOM and rebuild it (as if all old
-  * elements were deleted and all new elements inserted). This is an expensive operation and should
-  * be avoided if possible.
-  * *
-  * To customize the default tracking algorithm, `NgFor` supports `trackBy` option.
-  * `trackBy` takes a function which has two arguments: `index` and `item`.
-  * If `trackBy` is given, Angular tracks changes by the return value of the function.
-  * *
-  * ### Syntax
-  * *
-  * - `<li *ngFor="let item of items; let i = index; trackBy: trackByFn">...</li>`
-  * - `<li template="ngFor let item of items; let i = index; trackBy: trackByFn">...</li>`
-  * *
-  * With `<template>` element:
-  * *
-  * ```
-  * <template ngFor let-item [ngForOf]="items" let-i="index" [ngForTrackBy]="trackByFn">
-  * <li>...</li>
-  * </template>
-  * ```
-  * *
-  * ### Example
-  * *
-  * See a [live demo](http://plnkr.co/edit/KVuXxDp0qinGDyo307QW?p=preview) for a more detailed
-  * example.
-  * *
+ * The `NgFor` directive instantiates a template once per item from an iterable. The context for
+ * each instantiated template inherits from the outer context with the given loop variable set
+ * to the current item from the iterable.
+ *
+ * ### Local Variables
+ *
+ * `NgFor` provides several exported values that can be aliased to local variables:
+ *
+ * * `index` will be set to the current loop iteration for each template context.
+ * * `first` will be set to a boolean value indicating whether the item is the first one in the
+ *   iteration.
+ * * `last` will be set to a boolean value indicating whether the item is the last one in the
+ *   iteration.
+ * * `even` will be set to a boolean value indicating whether this item has an even index.
+ * * `odd` will be set to a boolean value indicating whether this item has an odd index.
+ *
+ * ### Change Propagation
+ *
+ * When the contents of the iterator changes, `NgFor` makes the corresponding changes to the DOM:
+ *
+ * * When an item is added, a new instance of the template is added to the DOM.
+ * * When an item is removed, its template instance is removed from the DOM.
+ * * When items are reordered, their respective templates are reordered in the DOM.
+ * * Otherwise, the DOM element for that item will remain the same.
+ *
+ * Angular uses object identity to track insertions and deletions within the iterator and reproduce
+ * those changes in the DOM. This has important implications for animations and any stateful
+ * controls
+ * (such as `<input>` elements which accept user input) that are present. Inserted rows can be
+ * animated in, deleted rows can be animated out, and unchanged rows retain any unsaved state such
+ * as user input.
+ *
+ * It is possible for the identities of elements in the iterator to change while the data does not.
+ * This can happen, for example, if the iterator produced from an RPC to the server, and that
+ * RPC is re-run. Even if the data hasn't changed, the second response will produce objects with
+ * different identities, and Angular will tear down the entire DOM and rebuild it (as if all old
+ * elements were deleted and all new elements inserted). This is an expensive operation and should
+ * be avoided if possible.
+ *
+ * To customize the default tracking algorithm, `NgFor` supports `trackBy` option.
+ * `trackBy` takes a function which has two arguments: `index` and `item`.
+ * If `trackBy` is given, Angular tracks changes by the return value of the function.
+ *
+ * ### Syntax
+ *
+ * - `<li *ngFor="let item of items; let i = index; trackBy: trackByFn">...</li>`
+ * - `<li template="ngFor let item of items; let i = index; trackBy: trackByFn">...</li>`
+ *
+ * With `<template>` element:
+ *
+ * ```
+ * <template ngFor let-item [ngForOf]="items" let-i="index" [ngForTrackBy]="trackByFn">
+ *   <li>...</li>
+ * </template>
+ * ```
+ *
+ * ### Example
+ *
+ * See a [live demo](http://plnkr.co/edit/KVuXxDp0qinGDyo307QW?p=preview) for a more detailed
+ * example.
+ *
+ * \@stable
  */
 var NgFor = (function () {
     /**
@@ -60202,93 +60792,94 @@ function RecordViewTuple_tsickle_Closure_declarations() {
  */
 
 /**
- *  Conditionally includes a template based on the value of an `expression`.
-  * *
-  * `ngIf` evaluates the `expression` and then renders the `then` or `else` template in its place
-  * when expression is truthy or falsy respectively. Typically the:
-  * - `then` template is the inline template of `ngIf` unless bound to a different value.
-  * - `else` template is blank unless it is bound.
-  * *
-  * # Most common usage
-  * *
-  * The most common usage of the `ngIf` directive is to conditionally show the inline template as
-  * seen in this example:
-  * {@example common/ngIf/ts/module.ts region='NgIfSimple'}
-  * *
-  * # Showing an alternative template using `else`
-  * *
-  * If it is necessary to display a template when the `expression` is falsy use the `else` template
-  * binding as shown. Note that the `else` binding points to a `<template>` labeled `#elseBlock`.
-  * The template can be defined anywhere in the component view but is typically placed right after
-  * `ngIf` for readability.
-  * *
-  * {@example common/ngIf/ts/module.ts region='NgIfElse'}
-  * *
-  * # Using non-inlined `then` template
-  * *
-  * Usually the `then` template is the inlined template of the `ngIf`, but it can be changed using
-  * a binding (just like `else`). Because `then` and `else` are bindings, the template references can
-  * change at runtime as shown in this example.
-  * *
-  * {@example common/ngIf/ts/module.ts region='NgIfThenElse'}
-  * *
-  * # Storing conditional result in a variable
-  * *
-  * A common pattern is that we need to show a set of properties from the same object. If the
-  * object is undefined, then we have to use the safe-traversal-operator `?.` to guard against
-  * dereferencing a `null` value. This is especially the case when waiting on async data such as
-  * when using the `async` pipe as shown in folowing example:
-  * *
-  * ```
-  * Hello {{ (userStream|async)?.last }}, {{ (userStream|async)?.first }}!
-  * ```
-  * *
-  * There are several inefficiencies in the above example:
-  * - We create multiple subscriptions on `userStream`. One for each `async` pipe, or two in the
-  * example above.
-  * - We cannot display an alternative screen while waiting for the data to arrive asynchronously.
-  * - We have to use the safe-traversal-operator `?.` to access properties, which is cumbersome.
-  * - We have to place the `async` pipe in parenthesis.
-  * *
-  * A better way to do this is to use `ngIf` and store the result of the condition in a local
-  * variable as shown in the the example below:
-  * *
-  * {@example common/ngIf/ts/module.ts region='NgIfLet'}
-  * *
-  * Notice that:
-  * - We use only one `async` pipe and hence only one subscription gets created.
-  * - `ngIf` stores the result of the `userStream|async` in the local variable `user`.
-  * - The local `user` can then be bound repeatedly in a more efficient way.
-  * - No need to use the safe-traversal-operator `?.` to access properties as `ngIf` will only
-  * display the data if `userStream` returns a value.
-  * - We can display an alternative template while waiting for the data.
-  * *
-  * ### Syntax
-  * *
-  * Simple form:
-  * - `<div *ngIf="condition">...</div>`
-  * - `<div template="ngIf condition">...</div>`
-  * - `<template [ngIf]="condition"><div>...</div></template>`
-  * *
-  * Form with an else block:
-  * ```
-  * <div *ngIf="condition; else elseBlock">...</div>
-  * <template #elseBlock>...</template>
-  * ```
-  * *
-  * Form with a `then` and `else` block:
-  * ```
-  * <div *ngIf="condition; then thenBlock else elseBlock"></div>
-  * <template #thenBlock>...</template>
-  * <template #elseBlock>...</template>
-  * ```
-  * *
-  * Form with storing the value locally:
-  * ```
-  * <div *ngIf="condition; else elseBlock; let value">{{value}}</div>
-  * <template #elseBlock>...</template>
-  * ```
-  * *
+ * Conditionally includes a template based on the value of an `expression`.
+ *
+ * `ngIf` evaluates the `expression` and then renders the `then` or `else` template in its place
+ * when expression is truthy or falsy respectively. Typically the:
+ *  - `then` template is the inline template of `ngIf` unless bound to a different value.
+ *  - `else` template is blank unless it is bound.
+ *
+ * # Most common usage
+ *
+ * The most common usage of the `ngIf` directive is to conditionally show the inline template as
+ * seen in this example:
+ * {\@example common/ngIf/ts/module.ts region='NgIfSimple'}
+ *
+ * # Showing an alternative template using `else`
+ *
+ * If it is necessary to display a template when the `expression` is falsy use the `else` template
+ * binding as shown. Note that the `else` binding points to a `<template>` labeled `#elseBlock`.
+ * The template can be defined anywhere in the component view but is typically placed right after
+ * `ngIf` for readability.
+ *
+ * {\@example common/ngIf/ts/module.ts region='NgIfElse'}
+ *
+ * # Using non-inlined `then` template
+ *
+ * Usually the `then` template is the inlined template of the `ngIf`, but it can be changed using
+ * a binding (just like `else`). Because `then` and `else` are bindings, the template references can
+ * change at runtime as shown in this example.
+ *
+ * {\@example common/ngIf/ts/module.ts region='NgIfThenElse'}
+ *
+ * # Storing conditional result in a variable
+ *
+ * A common pattern is that we need to show a set of properties from the same object. If the
+ * object is undefined, then we have to use the safe-traversal-operator `?.` to guard against
+ * dereferencing a `null` value. This is especially the case when waiting on async data such as
+ * when using the `async` pipe as shown in folowing example:
+ *
+ * ```
+ * Hello {{ (userStream|async)?.last }}, {{ (userStream|async)?.first }}!
+ * ```
+ *
+ * There are several inefficiencies in the above example:
+ *  - We create multiple subscriptions on `userStream`. One for each `async` pipe, or two in the
+ *    example above.
+ *  - We cannot display an alternative screen while waiting for the data to arrive asynchronously.
+ *  - We have to use the safe-traversal-operator `?.` to access properties, which is cumbersome.
+ *  - We have to place the `async` pipe in parenthesis.
+ *
+ * A better way to do this is to use `ngIf` and store the result of the condition in a local
+ * variable as shown in the the example below:
+ *
+ * {\@example common/ngIf/ts/module.ts region='NgIfLet'}
+ *
+ * Notice that:
+ *  - We use only one `async` pipe and hence only one subscription gets created.
+ *  - `ngIf` stores the result of the `userStream|async` in the local variable `user`.
+ *  - The local `user` can then be bound repeatedly in a more efficient way.
+ *  - No need to use the safe-traversal-operator `?.` to access properties as `ngIf` will only
+ *    display the data if `userStream` returns a value.
+ *  - We can display an alternative template while waiting for the data.
+ *
+ * ### Syntax
+ *
+ * Simple form:
+ * - `<div *ngIf="condition">...</div>`
+ * - `<div template="ngIf condition">...</div>`
+ * - `<template [ngIf]="condition"><div>...</div></template>`
+ *
+ * Form with an else block:
+ * ```
+ * <div *ngIf="condition; else elseBlock">...</div>
+ * <template #elseBlock>...</template>
+ * ```
+ *
+ * Form with a `then` and `else` block:
+ * ```
+ * <div *ngIf="condition; then thenBlock else elseBlock"></div>
+ * <template #thenBlock>...</template>
+ * <template #elseBlock>...</template>
+ * ```
+ *
+ * Form with storing the value locally:
+ * ```
+ * <div *ngIf="condition; else elseBlock; let value">{{value}}</div>
+ * <template #elseBlock>...</template>
+ * ```
+ *
+ * \@stable
  */
 var NgIf = (function () {
     /**
@@ -60438,30 +61029,35 @@ function NgIfContext_tsickle_Closure_declarations() {
 
 
 /**
- *  *
-  * *
-  * ```
-  * <some-element [ngPlural]="value">
-  * <template ngPluralCase="=0">there is nothing</template>
-  * <template ngPluralCase="=1">there is one</template>
-  * <template ngPluralCase="few">there are a few</template>
-  * </some-element>
-  * ```
-  * *
-  * *
-  * Displays DOM sub-trees that match the switch expression value, or failing that, DOM sub-trees
-  * that match the switch expression's pluralization category.
-  * *
-  * To use this directive you must provide a container element that sets the `[ngPlural]` attribute
-  * to a switch expression. Inner elements with a `[ngPluralCase]` will display based on their
-  * expression:
-  * - if `[ngPluralCase]` is set to a value starting with `=`, it will only display if the value
-  * matches the switch expression exactly,
-  * - otherwise, the view will be treated as a "category match", and will only display if exact
-  * value matches aren't found and the value maps to its category for the defined locale.
-  * *
-  * See http://cldr.unicode.org/index/cldr-spec/plural-rules
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Adds / removes DOM sub-trees based on a numeric value. Tailored for pluralization.
+ *
+ * \@howToUse
+ * ```
+ * <some-element [ngPlural]="value">
+ *   <template ngPluralCase="=0">there is nothing</template>
+ *   <template ngPluralCase="=1">there is one</template>
+ *   <template ngPluralCase="few">there are a few</template>
+ * </some-element>
+ * ```
+ *
+ * \@description
+ *
+ * Displays DOM sub-trees that match the switch expression value, or failing that, DOM sub-trees
+ * that match the switch expression's pluralization category.
+ *
+ * To use this directive you must provide a container element that sets the `[ngPlural]` attribute
+ * to a switch expression. Inner elements with a `[ngPluralCase]` will display based on their
+ * expression:
+ * - if `[ngPluralCase]` is set to a value starting with `=`, it will only display if the value
+ *   matches the switch expression exactly,
+ * - otherwise, the view will be treated as a "category match", and will only display if exact
+ *   value matches aren't found and the value maps to its category for the defined locale.
+ *
+ * See http://cldr.unicode.org/index/cldr-spec/plural-rules
+ *
+ * \@experimental
  */
 var NgPlural = (function () {
     /**
@@ -60547,18 +61143,22 @@ function NgPlural_tsickle_Closure_declarations() {
     NgPlural.prototype._localization;
 }
 /**
- *  *
-  * given expression matches the plural expression according to CLDR rules.
-  * *
-  * ```
-  * <some-element [ngPlural]="value">
-  * <template ngPluralCase="=0">...</template>
-  * <template ngPluralCase="other">...</template>
-  * </some-element>
-  * *```
-  * *
-  * See {@link NgPlural} for more details and example.
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Creates a view that will be added/removed from the parent {\@link NgPlural} when the
+ *             given expression matches the plural expression according to CLDR rules.
+ *
+ * \@howToUse
+ * ```
+ * <some-element [ngPlural]="value">
+ *   <template ngPluralCase="=0">...</template>
+ *   <template ngPluralCase="other">...</template>
+ * </some-element>
+ * ```
+ *
+ * See {\@link NgPlural} for more details and example.
+ *
+ * \@experimental
  */
 var NgPluralCase = (function () {
     /**
@@ -60569,7 +61169,8 @@ var NgPluralCase = (function () {
      */
     function NgPluralCase(value, template, viewContainer, ngPlural) {
         this.value = value;
-        ngPlural.addCase(value, new __WEBPACK_IMPORTED_MODULE_2__ng_switch__["d" /* SwitchView */](viewContainer, template));
+        var isANumber = !isNaN(Number(value));
+        ngPlural.addCase(isANumber ? "=" + value : value, new __WEBPACK_IMPORTED_MODULE_2__ng_switch__["d" /* SwitchView */](viewContainer, template));
     }
     NgPluralCase.decorators = [
         { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Directive"], args: [{ selector: '[ngPluralCase]' },] },
@@ -60612,21 +61213,26 @@ function NgPluralCase_tsickle_Closure_declarations() {
  */
 
 /**
- *  *
-  * *
-  * ```
-  * <some-element [ngStyle]="{'font-style': styleExp}">...</some-element>
-  * *
-  * <some-element [ngStyle]="{'max-width.px': widthExp}">...</some-element>
-  * *
-  * <some-element [ngStyle]="objExp">...</some-element>
-  * ```
-  * *
-  * *
-  * The styles are updated according to the value of the expression evaluation:
-  * - keys are style names with an optional `.<unit>` suffix (ie 'top.px', 'font-style.em'),
-  * - values are the values assigned to those properties (expressed in the given unit).
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Update an HTML element styles.
+ *
+ * \@howToUse
+ * ```
+ * <some-element [ngStyle]="{'font-style': styleExp}">...</some-element>
+ *
+ * <some-element [ngStyle]="{'max-width.px': widthExp}">...</some-element>
+ *
+ * <some-element [ngStyle]="objExp">...</some-element>
+ * ```
+ *
+ * \@description
+ *
+ * The styles are updated according to the value of the expression evaluation:
+ * - keys are style names with an optional `.<unit>` suffix (ie 'top.px', 'font-style.em'),
+ * - values are the values assigned to those properties (expressed in the given unit).
+ *
+ * \@stable
  */
 var NgStyle = (function () {
     /**
@@ -60737,23 +61343,28 @@ function NgStyle_tsickle_Closure_declarations() {
  */
 
 /**
- *  *
-  * *
-  * ```
-  * <ng-container *ngTemplateOutlet="templateRefExp; context: contextExp"></ng-container>
-  * ```
-  * *
-  * *
-  * You can attach a context object to the `EmbeddedViewRef` by setting `[ngTemplateOutletContext]`.
-  * `[ngTemplateOutletContext]` should be an object, the object's keys will be available for binding
-  * by the local template `let` declarations.
-  * *
-  * Note: using the key `$implicit` in the context object will set it's value as default.
-  * *
-  * # Example
-  * *
-  * {@example common/ngTemplateOutlet/ts/module.ts region='NgTemplateOutlet'}
-  * *
+ * \@ngModule CommonModule
+ *
+ * \@whatItDoes Inserts an embedded view from a prepared `TemplateRef`
+ *
+ * \@howToUse
+ * ```
+ * <ng-container *ngTemplateOutlet="templateRefExp; context: contextExp"></ng-container>
+ * ```
+ *
+ * \@description
+ *
+ * You can attach a context object to the `EmbeddedViewRef` by setting `[ngTemplateOutletContext]`.
+ * `[ngTemplateOutletContext]` should be an object, the object's keys will be available for binding
+ * by the local template `let` declarations.
+ *
+ * Note: using the key `$implicit` in the context object will set it's value as default.
+ *
+ * # Example
+ *
+ * {\@example common/ngTemplateOutlet/ts/module.ts region='NgTemplateOutlet'}
+ *
+ * \@experimental
  */
 var NgTemplateOutlet = (function () {
     /**
@@ -60839,7 +61450,7 @@ function NgTemplateOutlet_tsickle_Closure_declarations() {
  */
 
 /**
- *  Wraps Javascript Objects
+ * Wraps Javascript Objects
  */
 var StringMapWrapper = (function () {
     function StringMapWrapper() {
@@ -61016,18 +61627,18 @@ var __extends = (this && this.__extends) || function (d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  * @return {?}
  */
 function unimplemented() {
     throw new Error('unimplemented');
 }
 /**
- * @stable
+ * \@stable
  */
 var BaseError = (function (_super) {
     __extends(BaseError, _super);
@@ -61084,11 +61695,14 @@ var BaseError = (function (_super) {
     return BaseError;
 }(Error));
 function BaseError_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal *
+     * @type {?}
+     */
     BaseError.prototype._nativeError;
 }
 /**
- * @stable
+ * \@stable
  */
 var WrappedError = (function (_super) {
     __extends(WrappedError, _super);
@@ -61148,18 +61762,21 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  `HashLocationStrategy` is a {@link LocationStrategy} used to configure the
-  * {@link Location} service to represent its state in the
-  * [hash fragment](https://en.wikipedia.org/wiki/Uniform_Resource_Locator#Syntax)
-  * of the browser's URL.
-  * *
-  * For instance, if you call `location.go('/foo')`, the browser's URL will become
-  * `example.com#/foo`.
-  * *
-  * ### Example
-  * *
-  * {@example common/location/ts/hash_location_component.ts region='LocationComponent'}
-  * *
+ * \@whatItDoes Use URL hash for storing application location data.
+ * \@description
+ * `HashLocationStrategy` is a {\@link LocationStrategy} used to configure the
+ * {\@link Location} service to represent its state in the
+ * [hash fragment](https://en.wikipedia.org/wiki/Uniform_Resource_Locator#Syntax)
+ * of the browser's URL.
+ *
+ * For instance, if you call `location.go('/foo')`, the browser's URL will become
+ * `example.com#/foo`.
+ *
+ * ### Example
+ *
+ * {\@example common/location/ts/hash_location_component.ts region='LocationComponent'}
+ *
+ * \@stable
  */
 var HashLocationStrategy = (function (_super) {
     __extends(HashLocationStrategy, _super);
@@ -61328,27 +61945,30 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  `PathLocationStrategy` is a {@link LocationStrategy} used to configure the
-  * {@link Location} service to represent its state in the
-  * [path](https://en.wikipedia.org/wiki/Uniform_Resource_Locator#Syntax) of the
-  * browser's URL.
-  * *
-  * If you're using `PathLocationStrategy`, you must provide a {@link APP_BASE_HREF}
-  * or add a base element to the document. This URL prefix that will be preserved
-  * when generating and recognizing URLs.
-  * *
-  * For instance, if you provide an `APP_BASE_HREF` of `'/my/app'` and call
-  * `location.go('/foo')`, the browser's URL will become
-  * `example.com/my/app/foo`.
-  * *
-  * Similarly, if you add `<base href='/my/app'/>` to the document and call
-  * `location.go('/foo')`, the browser's URL will become
-  * `example.com/my/app/foo`.
-  * *
-  * ### Example
-  * *
-  * {@example common/location/ts/path_location_component.ts region='LocationComponent'}
-  * *
+ * \@whatItDoes Use URL for storing application location data.
+ * \@description
+ * `PathLocationStrategy` is a {\@link LocationStrategy} used to configure the
+ * {\@link Location} service to represent its state in the
+ * [path](https://en.wikipedia.org/wiki/Uniform_Resource_Locator#Syntax) of the
+ * browser's URL.
+ *
+ * If you're using `PathLocationStrategy`, you must provide a {\@link APP_BASE_HREF}
+ * or add a base element to the document. This URL prefix that will be preserved
+ * when generating and recognizing URLs.
+ *
+ * For instance, if you provide an `APP_BASE_HREF` of `'/my/app'` and call
+ * `location.go('/foo')`, the browser's URL will become
+ * `example.com/my/app/foo`.
+ *
+ * Similarly, if you add `<base href='/my/app'/>` to the document and call
+ * `location.go('/foo')`, the browser's URL will become
+ * `example.com/my/app/foo`.
+ *
+ * ### Example
+ *
+ * {\@example common/location/ts/path_location_component.ts region='LocationComponent'}
+ *
+ * \@stable
  */
 var PathLocationStrategy = (function (_super) {
     __extends(PathLocationStrategy, _super);
@@ -61520,24 +62140,29 @@ var PromiseStrategy = (function () {
 var /** @type {?} */ _promiseStrategy = new PromiseStrategy();
 var /** @type {?} */ _observableStrategy = new ObservableStrategy();
 /**
- *  The `async` pipe subscribes to an `Observable` or `Promise` and returns the latest value it has
-  * emitted. When a new value is emitted, the `async` pipe marks the component to be checked for
-  * changes. When the component gets destroyed, the `async` pipe unsubscribes automatically to avoid
-  * potential memory leaks.
-  * *
-  * *
-  * ## Examples
-  * *
-  * This example binds a `Promise` to the view. Clicking the `Resolve` button resolves the
-  * promise.
-  * *
-  * {@example common/pipes/ts/async_pipe.ts region='AsyncPipePromise'}
-  * *
-  * It's also possible to use `async` with Observables. The example below binds the `time` Observable
-  * to the view. The Observable continuously updates the view with the current time.
-  * *
-  * {@example common/pipes/ts/async_pipe.ts region='AsyncPipeObservable'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Unwraps a value from an asynchronous primitive.
+ * \@howToUse `observable_or_promise_expression | async`
+ * \@description
+ * The `async` pipe subscribes to an `Observable` or `Promise` and returns the latest value it has
+ * emitted. When a new value is emitted, the `async` pipe marks the component to be checked for
+ * changes. When the component gets destroyed, the `async` pipe unsubscribes automatically to avoid
+ * potential memory leaks.
+ *
+ *
+ * ## Examples
+ *
+ * This example binds a `Promise` to the view. Clicking the `Resolve` button resolves the
+ * promise.
+ *
+ * {\@example common/pipes/ts/async_pipe.ts region='AsyncPipePromise'}
+ *
+ * It's also possible to use `async` with Observables. The example below binds the `time` Observable
+ * to the view. The Observable continuously updates the view with the current time.
+ *
+ * {\@example common/pipes/ts/async_pipe.ts region='AsyncPipeObservable'}
+ *
+ * \@stable
  */
 var AsyncPipe = (function () {
     /**
@@ -61677,10 +62302,11 @@ function AsyncPipe_tsickle_Closure_declarations() {
 
 
 /**
- *  Transforms text to lowercase.
-  * *
-  * {@example  common/pipes/ts/lowerupper_pipe.ts region='LowerUpperPipe' }
-  * *
+ * Transforms text to lowercase.
+ *
+ * {\@example  common/pipes/ts/lowerupper_pipe.ts region='LowerUpperPipe' }
+ *
+ * \@stable
  */
 var LowerCasePipe = (function () {
     function LowerCasePipe() {
@@ -61714,8 +62340,9 @@ function LowerCasePipe_tsickle_Closure_declarations() {
     LowerCasePipe.ctorParameters;
 }
 /**
- *  Helper method to transform a single word to titlecase.
-  * *
+ * Helper method to transform a single word to titlecase.
+ *
+ * \@stable
  * @param {?} word
  * @return {?}
  */
@@ -61725,8 +62352,9 @@ function titleCaseWord(word) {
     return word[0].toUpperCase() + word.substr(1).toLowerCase();
 }
 /**
- *  Transforms text to titlecase.
-  * *
+ * Transforms text to titlecase.
+ *
+ * \@stable
  */
 var TitleCasePipe = (function () {
     function TitleCasePipe() {
@@ -61760,8 +62388,9 @@ function TitleCasePipe_tsickle_Closure_declarations() {
     TitleCasePipe.ctorParameters;
 }
 /**
- *  Transforms text to uppercase.
-  * *
+ * Transforms text to uppercase.
+ *
+ * \@stable
  */
 var UpperCasePipe = (function () {
     function UpperCasePipe() {
@@ -61818,68 +62447,73 @@ function UpperCasePipe_tsickle_Closure_declarations() {
 
 
 /**
- *  *
-  * Where:
-  * - `expression` is a date object or a number (milliseconds since UTC epoch) or an ISO string
-  * (https://www.w3.org/TR/NOTE-datetime).
-  * - `format` indicates which date/time components to include. The format can be predifined as
-  * shown below or custom as shown in the table.
-  * - `'medium'`: equivalent to `'yMMMdjms'` (e.g. `Sep 3, 2010, 12:05:08 PM` for `en-US`)
-  * - `'short'`: equivalent to `'yMdjm'` (e.g. `9/3/2010, 12:05 PM` for `en-US`)
-  * - `'fullDate'`: equivalent to `'yMMMMEEEEd'` (e.g. `Friday, September 3, 2010` for `en-US`)
-  * - `'longDate'`: equivalent to `'yMMMMd'` (e.g. `September 3, 2010` for `en-US`)
-  * - `'mediumDate'`: equivalent to `'yMMMd'` (e.g. `Sep 3, 2010` for `en-US`)
-  * - `'shortDate'`: equivalent to `'yMd'` (e.g. `9/3/2010` for `en-US`)
-  * - `'mediumTime'`: equivalent to `'jms'` (e.g. `12:05:08 PM` for `en-US`)
-  * - `'shortTime'`: equivalent to `'jm'` (e.g. `12:05 PM` for `en-US`)
-  * *
-  * *
-  * | Component | Symbol | Narrow | Short Form   | Long Form         | Numeric   | 2-digit   |
-  * |-----------|:------:|--------|--------------|-------------------|-----------|-----------|
-  * | era       |   G    | G (A)  | GGG (AD)     | GGGG (Anno Domini)| -         | -         |
-  * | year      |   y    | -      | -            | -                 | y (2015)  | yy (15)   |
-  * | month     |   M    | L (S)  | MMM (Sep)    | MMMM (September)  | M (9)     | MM (09)   |
-  * | day       |   d    | -      | -            | -                 | d (3)     | dd (03)   |
-  * | weekday   |   E    | E (S)  | EEE (Sun)    | EEEE (Sunday)     | -         | -         |
-  * | hour      |   j    | -      | -            | -                 | j (13)    | jj (13)   |
-  * | hour12    |   h    | -      | -            | -                 | h (1 PM)  | hh (01 PM)|
-  * | hour24    |   H    | -      | -            | -                 | H (13)    | HH (13)   |
-  * | minute    |   m    | -      | -            | -                 | m (5)     | mm (05)   |
-  * | second    |   s    | -      | -            | -                 | s (9)     | ss (09)   |
-  * | timezone  |   z    | -      | -            | z (Pacific Standard Time)| -  | -         |
-  * | timezone  |   Z    | -      | Z (GMT-8:00) | -                 | -         | -         |
-  * | timezone  |   a    | -      | a (PM)       | -                 | -         | -         |
-  * *
-  * In javascript, only the components specified will be respected (not the ordering,
-  * punctuations, ...) and details of the formatting will be dependent on the locale.
-  * *
-  * Timezone of the formatted text will be the local system timezone of the end-user's machine.
-  * *
-  * When the expression is a ISO string without time (e.g. 2016-09-19) the time zone offset is not
-  * applied and the formatted text will have the same day, month and year of the expression.
-  * *
-  * WARNINGS:
-  * - this pipe is marked as pure hence it will not be re-evaluated when the input is mutated.
-  * Instead users should treat the date as an immutable object and change the reference when the
-  * pipe needs to re-run (this is to avoid reformatting the date on every change detection run
-  * which would be an expensive operation).
-  * - this pipe uses the Internationalization API. Therefore it is only reliable in Chrome and Opera
-  * browsers.
-  * *
-  * ### Examples
-  * *
-  * Assuming `dateObj` is (year: 2015, month: 6, day: 15, hour: 21, minute: 43, second: 11)
-  * in the _local_ time and locale is 'en-US':
-  * *
-  * ```
-  * {{ dateObj | date }}               // output is 'Jun 15, 2015'
-  * {{ dateObj | date:'medium' }}      // output is 'Jun 15, 2015, 9:43:11 PM'
-  * {{ dateObj | date:'shortTime' }}   // output is '9:43 PM'
-  * {{ dateObj | date:'mmss' }}        // output is '43:11'
-  * ```
-  * *
-  * {@example common/pipes/ts/date_pipe.ts region='DatePipe'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Formats a date according to locale rules.
+ * \@howToUse `date_expression | date[:format]`
+ * \@description
+ *
+ * Where:
+ * - `expression` is a date object or a number (milliseconds since UTC epoch) or an ISO string
+ * (https://www.w3.org/TR/NOTE-datetime).
+ * - `format` indicates which date/time components to include. The format can be predifined as
+ *   shown below or custom as shown in the table.
+ *   - `'medium'`: equivalent to `'yMMMdjms'` (e.g. `Sep 3, 2010, 12:05:08 PM` for `en-US`)
+ *   - `'short'`: equivalent to `'yMdjm'` (e.g. `9/3/2010, 12:05 PM` for `en-US`)
+ *   - `'fullDate'`: equivalent to `'yMMMMEEEEd'` (e.g. `Friday, September 3, 2010` for `en-US`)
+ *   - `'longDate'`: equivalent to `'yMMMMd'` (e.g. `September 3, 2010` for `en-US`)
+ *   - `'mediumDate'`: equivalent to `'yMMMd'` (e.g. `Sep 3, 2010` for `en-US`)
+ *   - `'shortDate'`: equivalent to `'yMd'` (e.g. `9/3/2010` for `en-US`)
+ *   - `'mediumTime'`: equivalent to `'jms'` (e.g. `12:05:08 PM` for `en-US`)
+ *   - `'shortTime'`: equivalent to `'jm'` (e.g. `12:05 PM` for `en-US`)
+ *
+ *
+ *  | Component | Symbol | Narrow | Short Form   | Long Form         | Numeric   | 2-digit   |
+ *  |-----------|:------:|--------|--------------|-------------------|-----------|-----------|
+ *  | era       |   G    | G (A)  | GGG (AD)     | GGGG (Anno Domini)| -         | -         |
+ *  | year      |   y    | -      | -            | -                 | y (2015)  | yy (15)   |
+ *  | month     |   M    | L (S)  | MMM (Sep)    | MMMM (September)  | M (9)     | MM (09)   |
+ *  | day       |   d    | -      | -            | -                 | d (3)     | dd (03)   |
+ *  | weekday   |   E    | E (S)  | EEE (Sun)    | EEEE (Sunday)     | -         | -         |
+ *  | hour      |   j    | -      | -            | -                 | j (13)    | jj (13)   |
+ *  | hour12    |   h    | -      | -            | -                 | h (1 PM)  | hh (01 PM)|
+ *  | hour24    |   H    | -      | -            | -                 | H (13)    | HH (13)   |
+ *  | minute    |   m    | -      | -            | -                 | m (5)     | mm (05)   |
+ *  | second    |   s    | -      | -            | -                 | s (9)     | ss (09)   |
+ *  | timezone  |   z    | -      | -            | z (Pacific Standard Time)| -  | -         |
+ *  | timezone  |   Z    | -      | Z (GMT-8:00) | -                 | -         | -         |
+ *  | timezone  |   a    | -      | a (PM)       | -                 | -         | -         |
+ *
+ * In javascript, only the components specified will be respected (not the ordering,
+ * punctuations, ...) and details of the formatting will be dependent on the locale.
+ *
+ * Timezone of the formatted text will be the local system timezone of the end-user's machine.
+ *
+ * When the expression is a ISO string without time (e.g. 2016-09-19) the time zone offset is not
+ * applied and the formatted text will have the same day, month and year of the expression.
+ *
+ * WARNINGS:
+ * - this pipe is marked as pure hence it will not be re-evaluated when the input is mutated.
+ *   Instead users should treat the date as an immutable object and change the reference when the
+ *   pipe needs to re-run (this is to avoid reformatting the date on every change detection run
+ *   which would be an expensive operation).
+ * - this pipe uses the Internationalization API. Therefore it is only reliable in Chrome and Opera
+ *   browsers.
+ *
+ * ### Examples
+ *
+ * Assuming `dateObj` is (year: 2015, month: 6, day: 15, hour: 21, minute: 43, second: 11)
+ * in the _local_ time and locale is 'en-US':
+ *
+ * ```
+ *     {{ dateObj | date }}               // output is 'Jun 15, 2015'
+ *     {{ dateObj | date:'medium' }}      // output is 'Jun 15, 2015, 9:43:11 PM'
+ *     {{ dateObj | date:'shortTime' }}   // output is '9:43 PM'
+ *     {{ dateObj | date:'mmss' }}        // output is '43:11'
+ * ```
+ *
+ * {\@example common/pipes/ts/date_pipe.ts region='DatePipe'}
+ *
+ * \@stable
  */
 var DatePipe = (function () {
     /**
@@ -61949,7 +62583,10 @@ var DatePipe = (function () {
     return DatePipe;
 }());
 function DatePipe_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     DatePipe._ALIASES;
     /** @type {?} */
     DatePipe.decorators;
@@ -61991,16 +62628,21 @@ function isBlank(obj) {
 
 var /** @type {?} */ _INTERPOLATION_REGEXP = /#/g;
 /**
- *  *
-  * Where:
-  * - `expression` is a number.
-  * - `mapping` is an object that mimics the ICU format, see
-  * http://userguide.icu-project.org/formatparse/messages
-  * *
-  * ## Example
-  * *
-  * {@example common/pipes/ts/i18n_pipe.ts region='I18nPluralPipeComponent'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Maps a value to a string that pluralizes the value according to locale rules.
+ * \@howToUse `expression | i18nPlural:mapping`
+ * \@description
+ *
+ *  Where:
+ *  - `expression` is a number.
+ *  - `mapping` is an object that mimics the ICU format, see
+ *    http://userguide.icu-project.org/formatparse/messages
+ *
+ *  ## Example
+ *
+ * {\@example common/pipes/ts/i18n_pipe.ts region='I18nPluralPipeComponent'}
+ *
+ * \@experimental
  */
 var I18nPluralPipe = (function () {
     /**
@@ -62063,17 +62705,21 @@ function I18nPluralPipe_tsickle_Closure_declarations() {
 
 
 /**
- *  *
-  * Where `mapping` is an object that indicates the text that should be displayed
-  * for different values of the provided `expression`.
-  * If none of the keys of the mapping match the value of the `expression`, then the content
-  * of the `other` key is returned when present, otherwise an empty string is returned.
-  * *
-  * ## Example
-  * *
-  * {@example common/pipes/ts/i18n_pipe.ts region='I18nSelectPipeComponent'}
-  * *
-  * @experimental
+ * \@ngModule CommonModule
+ * \@whatItDoes Generic selector that displays the string that matches the current value.
+ * \@howToUse `expression | i18nSelect:mapping`
+ * \@description
+ *
+ *  Where `mapping` is an object that indicates the text that should be displayed
+ *  for different values of the provided `expression`.
+ *  If none of the keys of the mapping match the value of the `expression`, then the content
+ *  of the `other` key is returned when present, otherwise an empty string is returned.
+ *
+ *  ## Example
+ *
+ * {\@example common/pipes/ts/i18n_pipe.ts region='I18nSelectPipeComponent'}
+ *
+ *  \@experimental
  */
 var I18nSelectPipe = (function () {
     function I18nSelectPipe() {
@@ -62131,12 +62777,17 @@ function I18nSelectPipe_tsickle_Closure_declarations() {
  */
 
 /**
- *  *
-  * Converts value into string using `JSON.stringify`. Useful for debugging.
-  * *
-  * ### Example
-  * {@example common/pipes/ts/json_pipe.ts region='JsonPipe'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Converts value into JSON string.
+ * \@howToUse `expression | json`
+ * \@description
+ *
+ * Converts value into string using `JSON.stringify`. Useful for debugging.
+ *
+ * ### Example
+ * {\@example common/pipes/ts/json_pipe.ts region='JsonPipe'}
+ *
+ * \@stable
  */
 var JsonPipe = (function () {
     function JsonPipe() {
@@ -62241,27 +62892,31 @@ function formatNumber(pipe, locale, value, style, digits, currency, currencyAsSy
     });
 }
 /**
- *  *
-  * Formats a number as text. Group sizing and separator and other locale-specific
-  * configurations are based on the active locale.
-  * *
-  * where `expression` is a number:
-  * - `digitInfo` is a `string` which has a following format: <br>
-  * <code>{minIntegerDigits}.{minFractionDigits}-{maxFractionDigits}</code>
-  * - `minIntegerDigits` is the minimum number of integer digits to use. Defaults to `1`.
-  * - `minFractionDigits` is the minimum number of digits after fraction. Defaults to `0`.
-  * - `maxFractionDigits` is the maximum number of digits after fraction. Defaults to `3`.
-  * *
-  * For more information on the acceptable range for each of these numbers and other
-  * details see your native internationalization library.
-  * *
-  * WARNING: this pipe uses the Internationalization API which is not yet available in all browsers
-  * and may require a polyfill. See {@linkDocs guide/browser-support} for details.
-  * *
-  * ### Example
-  * *
-  * {@example common/pipes/ts/number_pipe.ts region='NumberPipe'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Formats a number according to locale rules.
+ * \@howToUse `number_expression | number[:digitInfo]`
+ *
+ * Formats a number as text. Group sizing and separator and other locale-specific
+ * configurations are based on the active locale.
+ *
+ * where `expression` is a number:
+ *  - `digitInfo` is a `string` which has a following format: <br>
+ *     <code>{minIntegerDigits}.{minFractionDigits}-{maxFractionDigits}</code>
+ *   - `minIntegerDigits` is the minimum number of integer digits to use. Defaults to `1`.
+ *   - `minFractionDigits` is the minimum number of digits after fraction. Defaults to `0`.
+ *   - `maxFractionDigits` is the maximum number of digits after fraction. Defaults to `3`.
+ *
+ * For more information on the acceptable range for each of these numbers and other
+ * details see your native internationalization library.
+ *
+ * WARNING: this pipe uses the Internationalization API which is not yet available in all browsers
+ * and may require a polyfill. See {\@linkDocs guide/browser-support} for details.
+ *
+ * ### Example
+ *
+ * {\@example common/pipes/ts/number_pipe.ts region='NumberPipe'}
+ *
+ * \@stable
  */
 var DecimalPipe = (function () {
     /**
@@ -62300,19 +62955,24 @@ function DecimalPipe_tsickle_Closure_declarations() {
     DecimalPipe.prototype._locale;
 }
 /**
- *  *
-  * *
-  * Formats a number as percentage.
-  * *
-  * - `digitInfo` See {@link DecimalPipe} for detailed description.
-  * *
-  * WARNING: this pipe uses the Internationalization API which is not yet available in all browsers
-  * and may require a polyfill. See {@linkDocs guide/browser-support} for details.
-  * *
-  * ### Example
-  * *
-  * {@example common/pipes/ts/number_pipe.ts region='PercentPipe'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Formats a number as a percentage according to locale rules.
+ * \@howToUse `number_expression | percent[:digitInfo]`
+ *
+ * \@description
+ *
+ * Formats a number as percentage.
+ *
+ * - `digitInfo` See {\@link DecimalPipe} for detailed description.
+ *
+ * WARNING: this pipe uses the Internationalization API which is not yet available in all browsers
+ * and may require a polyfill. See {\@linkDocs guide/browser-support} for details.
+ *
+ * ### Example
+ *
+ * {\@example common/pipes/ts/number_pipe.ts region='PercentPipe'}
+ *
+ * \@stable
  */
 var PercentPipe = (function () {
     /**
@@ -62351,23 +63011,28 @@ function PercentPipe_tsickle_Closure_declarations() {
     PercentPipe.prototype._locale;
 }
 /**
- *  *
-  * Use `currency` to format a number as currency.
-  * *
-  * - `currencyCode` is the [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217) currency code, such
-  * as `USD` for the US dollar and `EUR` for the euro.
-  * - `symbolDisplay` is a boolean indicating whether to use the currency symbol or code.
-  * - `true`: use symbol (e.g. `$`).
-  * - `false`(default): use code (e.g. `USD`).
-  * - `digitInfo` See {@link DecimalPipe} for detailed description.
-  * *
-  * WARNING: this pipe uses the Internationalization API which is not yet available in all browsers
-  * and may require a polyfill. See {@linkDocs guide/browser-support} for details.
-  * *
-  * ### Example
-  * *
-  * {@example common/pipes/ts/number_pipe.ts region='CurrencyPipe'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Formats a number as currency using locale rules.
+ * \@howToUse `number_expression | currency[:currencyCode[:symbolDisplay[:digitInfo]]]`
+ * \@description
+ *
+ * Use `currency` to format a number as currency.
+ *
+ * - `currencyCode` is the [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217) currency code, such
+ *    as `USD` for the US dollar and `EUR` for the euro.
+ * - `symbolDisplay` is a boolean indicating whether to use the currency symbol or code.
+ *   - `true`: use symbol (e.g. `$`).
+ *   - `false`(default): use code (e.g. `USD`).
+ * - `digitInfo` See {\@link DecimalPipe} for detailed description.
+ *
+ * WARNING: this pipe uses the Internationalization API which is not yet available in all browsers
+ * and may require a polyfill. See {\@linkDocs guide/browser-support} for details.
+ *
+ * ### Example
+ *
+ * {\@example common/pipes/ts/number_pipe.ts region='CurrencyPipe'}
+ *
+ * \@stable
  */
 var CurrencyPipe = (function () {
     /**
@@ -62429,43 +63094,48 @@ function CurrencyPipe_tsickle_Closure_declarations() {
 
 
 /**
- *  *
-  * Where the input expression is a `List` or `String`, and:
-  * - `start`: The starting index of the subset to return.
-  * - **a positive integer**: return the item at `start` index and all items after
-  * in the list or string expression.
-  * - **a negative integer**: return the item at `start` index from the end and all items after
-  * in the list or string expression.
-  * - **if positive and greater than the size of the expression**: return an empty list or string.
-  * - **if negative and greater than the size of the expression**: return entire list or string.
-  * - `end`: The ending index of the subset to return.
-  * - **omitted**: return all items until the end.
-  * - **if positive**: return all items before `end` index of the list or string.
-  * - **if negative**: return all items before `end` index from the end of the list or string.
-  * *
-  * All behavior is based on the expected behavior of the JavaScript API `Array.prototype.slice()`
-  * and `String.prototype.slice()`.
-  * *
-  * When operating on a [List], the returned list is always a copy even when all
-  * the elements are being returned.
-  * *
-  * When operating on a blank value, the pipe returns the blank value.
-  * *
-  * ## List Example
-  * *
-  * This `ngFor` example:
-  * *
-  * {@example common/pipes/ts/slice_pipe.ts region='SlicePipe_list'}
-  * *
-  * produces the following:
-  * *
-  * <li>b</li>
-  * <li>c</li>
-  * *
-  * ## String Examples
-  * *
-  * {@example common/pipes/ts/slice_pipe.ts region='SlicePipe_string'}
-  * *
+ * \@ngModule CommonModule
+ * \@whatItDoes Creates a new List or String containing a subset (slice) of the elements.
+ * \@howToUse `array_or_string_expression | slice:start[:end]`
+ * \@description
+ *
+ * Where the input expression is a `List` or `String`, and:
+ * - `start`: The starting index of the subset to return.
+ *   - **a positive integer**: return the item at `start` index and all items after
+ *     in the list or string expression.
+ *   - **a negative integer**: return the item at `start` index from the end and all items after
+ *     in the list or string expression.
+ *   - **if positive and greater than the size of the expression**: return an empty list or string.
+ *   - **if negative and greater than the size of the expression**: return entire list or string.
+ * - `end`: The ending index of the subset to return.
+ *   - **omitted**: return all items until the end.
+ *   - **if positive**: return all items before `end` index of the list or string.
+ *   - **if negative**: return all items before `end` index from the end of the list or string.
+ *
+ * All behavior is based on the expected behavior of the JavaScript API `Array.prototype.slice()`
+ * and `String.prototype.slice()`.
+ *
+ * When operating on a [List], the returned list is always a copy even when all
+ * the elements are being returned.
+ *
+ * When operating on a blank value, the pipe returns the blank value.
+ *
+ * ## List Example
+ *
+ * This `ngFor` example:
+ *
+ * {\@example common/pipes/ts/slice_pipe.ts region='SlicePipe_list'}
+ *
+ * produces the following:
+ *
+ *     <li>b</li>
+ *     <li>c</li>
+ *
+ * ## String Examples
+ *
+ * {\@example common/pipes/ts/slice_pipe.ts region='SlicePipe_string'}
+ *
+ * \@stable
  */
 var SlicePipe = (function () {
     function SlicePipe() {
@@ -62543,7 +63213,7 @@ var /** @type {?} */ isPromise = __WEBPACK_IMPORTED_MODULE_0__angular_core__["__
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.3');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
@@ -62717,7 +63387,7 @@ function StylesCollection_tsickle_Closure_declarations() {
 
 
 /**
- *  Creates a new AotCompiler based on options and a host.
+ * Creates a new AotCompiler based on options and a host.
  * @param {?} compilerHost
  * @param {?} options
  * @return {?}
@@ -62762,11 +63432,11 @@ function createAotCompiler(compilerHost, options) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return GeneratedFile; });
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  */
 var GeneratedFile = (function () {
     /**
@@ -62805,18 +63475,18 @@ var __extends = (this && this.__extends) || function (d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  * @return {?}
  */
 function unimplemented() {
     throw new Error('unimplemented');
 }
 /**
- * @stable
+ * \@stable
  */
 var BaseError = (function (_super) {
     __extends(BaseError, _super);
@@ -62873,11 +63543,14 @@ var BaseError = (function (_super) {
     return BaseError;
 }(Error));
 function BaseError_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal *
+     * @type {?}
+     */
     BaseError.prototype._nativeError;
 }
 /**
- * @stable
+ * \@stable
  */
 var WrappedError = (function (_super) {
     __extends(WrappedError, _super);
@@ -63071,7 +63744,7 @@ function Extractor_tsickle_Closure_declarations() {
 
 var /** @type {?} */ _expParser = new __WEBPACK_IMPORTED_MODULE_1__expression_parser_parser__["a" /* Parser */](new __WEBPACK_IMPORTED_MODULE_0__expression_parser_lexer__["c" /* Lexer */]());
 /**
- *  Returns a function converting html nodes to an i18n Message given an interpolationConfig
+ * Returns a function converting html nodes to an i18n Message given an interpolationConfig
  * @param {?} interpolationConfig
  * @return {?}
  */
@@ -63298,10 +63971,11 @@ var /** @type {?} */ TAG_TO_PLACEHOLDER_NAMES = {
     'UL': 'UNORDERED_LIST',
 };
 /**
- *  Creates unique names for placeholder with different content.
-  * *
-  * Returns the same placeholder name when the content is identical.
-  * *
+ * Creates unique names for placeholder with different content.
+ *
+ * Returns the same placeholder name when the content is identical.
+ *
+ * \@internal
  */
 var PlaceholderRegistry = (function () {
     function PlaceholderRegistry() {
@@ -63416,7 +64090,7 @@ function PlaceholderRegistry_tsickle_Closure_declarations() {
 
 
 /**
- *  A container for translated messages
+ * A container for translated messages
  */
 var TranslationBundle = (function () {
     /**
@@ -63678,7 +64352,7 @@ var /** @type {?} */ _NO_RESOURCE_LOADER = {
         throw new Error("No ResourceLoader implementation has been provided. Can't read the url \"" + url + "\"");
     }
 };
-var /** @type {?} */ baseHtmlParser = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["OpaqueToken"]('HtmlParser');
+var /** @type {?} */ baseHtmlParser = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["InjectionToken"]('HtmlParser');
 /**
  * A set of providers that provide `JitCompiler` and its dependencies to use for
  * template compilation.
@@ -63916,27 +64590,27 @@ var __extends = (this && this.__extends) || function (d, b) {
 // http://cldr.unicode.org/index/cldr-spec/plural-rules
 var /** @type {?} */ PLURAL_CASES = ['zero', 'one', 'two', 'few', 'many', 'other'];
 /**
- *  Expands special forms into elements.
-  * *
-  * For example,
-  * *
-  * ```
-  * { messages.length, plural,
-  * =0 {zero}
-  * =1 {one}
-  * other {more than one}
-  * }
-  * ```
-  * *
-  * will be expanded into
-  * *
-  * ```
-  * <ng-container [ngPlural]="messages.length">
-  * <template ngPluralCase="=0">zero</template>
-  * <template ngPluralCase="=1">one</template>
-  * <template ngPluralCase="other">more than one</template>
-  * </ng-container>
-  * ```
+ * Expands special forms into elements.
+ *
+ * For example,
+ *
+ * ```
+ * { messages.length, plural,
+ *   =0 {zero}
+ *   =1 {one}
+ *   other {more than one}
+ * }
+ * ```
+ *
+ * will be expanded into
+ *
+ * ```
+ * <ng-container [ngPlural]="messages.length">
+ *   <template ngPluralCase="=0">zero</template>
+ *   <template ngPluralCase="=1">one</template>
+ *   <template ngPluralCase="other">more than one</template>
+ * </ng-container>
+ * ```
  * @param {?} nodes
  * @return {?}
  */
@@ -63977,8 +64651,9 @@ var ExpansionError = (function (_super) {
     return ExpansionError;
 }(__WEBPACK_IMPORTED_MODULE_0__parse_util__["a" /* ParseError */]));
 /**
- *  Expand expansion forms (plural, select) to directives
-  * *
+ * Expand expansion forms (plural, select) to directives
+ *
+ * \@internal
  */
 var _Expander = (function () {
     function _Expander() {
@@ -64243,7 +64918,6 @@ function _ControlFlowError_tsickle_Closure_declarations() {
     /** @type {?} */
     _ControlFlowError.prototype.error;
 }
-// See http://www.w3.org/TR/html51/syntax.html#writing
 var _Tokenizer = (function () {
     /**
      * @param {?} _file The html source
@@ -64325,6 +64999,7 @@ var _Tokenizer = (function () {
         return new TokenizeResult(mergeTextTokens(this.tokens), this.errors);
     };
     /**
+     * \@internal
      * @return {?}
      */
     _Tokenizer.prototype._tokenizeExpansionForm = function () {
@@ -66030,15 +66705,15 @@ function JitEmitterVisitor_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- *  Interface that defines how import statements should be generated.
+ * Interface that defines how import statements should be generated.
  * @abstract
  */
 var ImportResolver = (function () {
     function ImportResolver() {
     }
     /**
-     *  Converts a file path to a module name that can be used as an `import.
-      * I.e. `path/to/importedFile.ts` should be imported by `path/to/containingFile.ts`.
+     * Converts a file path to a module name that can be used as an `import.
+     * I.e. `path/to/importedFile.ts` should be imported by `path/to/containingFile.ts`.
      * @abstract
      * @param {?} importedFilePath
      * @param {?} containingFilePath
@@ -66046,8 +66721,8 @@ var ImportResolver = (function () {
      */
     ImportResolver.prototype.fileNameToModuleName = function (importedFilePath, containingFilePath) { };
     /**
-     *  Converts the given StaticSymbol into another StaticSymbol that should be used
-      * to generate the import from.
+     * Converts the given StaticSymbol into another StaticSymbol that should be used
+     * to generate the import from.
      * @abstract
      * @param {?} symbol
      * @return {?}
@@ -66134,137 +66809,6 @@ registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["SecurityContext"].R
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return ShadowCss; });
 /* unused harmony export CssRule */
 /* unused harmony export processRules */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-/**
- * This file is a port of shadowCSS from webcomponents.js to TypeScript.
- *
- * Please make sure to keep to edits in sync with the source file.
- *
- * Source:
- * https://github.com/webcomponents/webcomponentsjs/blob/4efecd7e0e/src/ShadowCSS/ShadowCSS.js
- *
- * The original file level comment is reproduced below
- */
-/*
-  This is a limited shim for ShadowDOM css styling.
-  https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html#styles
-
-  The intention here is to support only the styling features which can be
-  relatively simply implemented. The goal is to allow users to avoid the
-  most obvious pitfalls and do so without compromising performance significantly.
-  For ShadowDOM styling that's not covered here, a set of best practices
-  can be provided that should allow users to accomplish more complex styling.
-
-  The following is a list of specific ShadowDOM styling features and a brief
-  discussion of the approach used to shim.
-
-  Shimmed features:
-
-  * :host, :host-context: ShadowDOM allows styling of the shadowRoot's host
-  element using the :host rule. To shim this feature, the :host styles are
-  reformatted and prefixed with a given scope name and promoted to a
-  document level stylesheet.
-  For example, given a scope name of .foo, a rule like this:
-
-    :host {
-        background: red;
-      }
-    }
-
-  becomes:
-
-    .foo {
-      background: red;
-    }
-
-  * encapsulation: Styles defined within ShadowDOM, apply only to
-  dom inside the ShadowDOM. Polymer uses one of two techniques to implement
-  this feature.
-
-  By default, rules are prefixed with the host element tag name
-  as a descendant selector. This ensures styling does not leak out of the 'top'
-  of the element's ShadowDOM. For example,
-
-  div {
-      font-weight: bold;
-    }
-
-  becomes:
-
-  x-foo div {
-      font-weight: bold;
-    }
-
-  becomes:
-
-
-  Alternatively, if WebComponents.ShadowCSS.strictStyling is set to true then
-  selectors are scoped by adding an attribute selector suffix to each
-  simple selector that contains the host element tag name. Each element
-  in the element's ShadowDOM template is also given the scope attribute.
-  Thus, these rules match only elements that have the scope attribute.
-  For example, given a scope name of x-foo, a rule like this:
-
-    div {
-      font-weight: bold;
-    }
-
-  becomes:
-
-    div[x-foo] {
-      font-weight: bold;
-    }
-
-  Note that elements that are dynamically added to a scope must have the scope
-  selector added to them manually.
-
-  * upper/lower bound encapsulation: Styles which are defined outside a
-  shadowRoot should not cross the ShadowDOM boundary and should not apply
-  inside a shadowRoot.
-
-  This styling behavior is not emulated. Some possible ways to do this that
-  were rejected due to complexity and/or performance concerns include: (1) reset
-  every possible property for every possible selector for a given scope name;
-  (2) re-implement css in javascript.
-
-  As an alternative, users should make sure to use selectors
-  specific to the scope in which they are working.
-
-  * ::distributed: This behavior is not emulated. It's often not necessary
-  to style the contents of a specific insertion point and instead, descendants
-  of the host element can be styled selectively. Users can also create an
-  extra node around an insertion point and style that node's contents
-  via descendent selectors. For example, with a shadowRoot like this:
-
-    <style>
-      ::content(div) {
-        background: red;
-      }
-    </style>
-    <content></content>
-
-  could become:
-
-    <style>
-      / *@polyfill .content-container div * /
-      ::content(div) {
-        background: red;
-      }
-    </style>
-    <div class="content-container">
-      <content></content>
-    </div>
-
-  Note the use of @polyfill in the comment above a ShadowDOM specific style
-  declaration. This is a directive to the styling shim to use the selector
-  in comments in lieu of the next selector when running under polyfill.
-*/
 var ShadowCss = (function () {
     function ShadowCss() {
         this.strictStyling = true;
@@ -66808,7 +67352,7 @@ function escapeBlocks(input) {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.3');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
@@ -67957,10 +68501,11 @@ function ViewBuilderVisitor_tsickle_Closure_declarations() {
     ViewBuilderVisitor.prototype.targetDependencies;
 }
 /**
- *  Walks up the nodes while the direct parent is a container.
-  * *
-  * Returns the outer container or the node itself when it is not a direct child of a container.
-  * *
+ * Walks up the nodes while the direct parent is a container.
+ *
+ * Returns the outer container or the node itself when it is not a direct child of a container.
+ *
+ * \@internal
  * @param {?} node
  * @return {?}
  */
@@ -67972,10 +68517,11 @@ function _getOuterContainerOrSelf(node) {
     return node;
 }
 /**
- *  Walks up the nodes while they are container and returns the first parent which is not.
-  * *
-  * Returns the parent of the outer container or the node itself when it is not a container.
-  * *
+ * Walks up the nodes while they are container and returns the first parent which is not.
+ *
+ * Returns the parent of the outer container or the node itself when it is not a container.
+ *
+ * \@internal
  * @param {?} el
  * @return {?}
  */
@@ -68070,7 +68616,7 @@ function createViewTopLevelStmts(view, targetStatements) {
             __WEBPACK_IMPORTED_MODULE_7__output_output_ast__["f" /* literal */](view.component.template.ngContentSelectors.length),
             __WEBPACK_IMPORTED_MODULE_12__constants__["b" /* ViewEncapsulationEnum */].fromValue(view.component.template.encapsulation),
             view.styles,
-            __WEBPACK_IMPORTED_MODULE_7__output_output_ast__["l" /* literalMap */](view.animations.map(function (entry) { return [entry.name, entry.fnExp]; })),
+            __WEBPACK_IMPORTED_MODULE_7__output_output_ast__["l" /* literalMap */](view.animations.map(function (entry) { return [entry.name, entry.fnExp]; }), null, true),
         ]))
             .toDeclStmt(__WEBPACK_IMPORTED_MODULE_7__output_output_ast__["d" /* importType */](__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__identifiers__["a" /* createIdentifier */])(__WEBPACK_IMPORTED_MODULE_5__identifiers__["b" /* Identifiers */].RenderComponentType))));
     }
@@ -68553,11 +69099,11 @@ function flattenStyles(styles) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return AnimationStyles; });
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  */
 var AnimationStyles = (function () {
     /**
@@ -68798,9 +69344,10 @@ function _localeFactory(locale) {
     return locale || 'en-US';
 }
 /**
- *  This module includes the providers of @angular/core that are needed
-  * to bootstrap components via `ApplicationRef`.
-  * *
+ * This module includes the providers of \@angular/core that are needed
+ * to bootstrap components via `ApplicationRef`.
+ *
+ * \@experimental
  */
 var ApplicationModule = (function () {
     function ApplicationModule() {
@@ -68912,6 +69459,7 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_43", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["l"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_44", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["m"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "e", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_45", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["n"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "l", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["e"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "m", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["d"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "c", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["a"]; });
@@ -68920,9 +69468,9 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "P", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["h"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__di__ = __webpack_require__(27);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_6", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["i"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_9", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_8", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["k"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_8", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["j"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__application_ref__ = __webpack_require__(159);
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_9", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["k"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_10", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["e"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "g", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["c"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "a", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["a"]; });
@@ -68941,29 +69489,29 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "A", function() { return __WEBPACK_IMPORTED_MODULE_7__zone__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__zone__ = __webpack_require__(437);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__render__ = __webpack_require__(435);
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_45", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_46", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["c"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "S", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["b"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "y", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__linker__ = __webpack_require__(423);
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_46", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_47", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["h"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "f", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_47", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["i"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_48", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_49", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_50", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["l"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_48", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["i"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_49", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_50", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["k"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_51", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["l"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "W", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["g"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "T", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_51", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["m"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_52", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["n"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_52", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["m"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_53", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["n"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "o", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_53", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["o"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_54", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["p"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_54", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["o"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_55", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["p"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "p", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_55", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["q"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_56", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["q"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "Q", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["d"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "R", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_56", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["r"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_57", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["s"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_57", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["r"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_58", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["s"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__debug_debug_node__ = __webpack_require__(257);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_14", function() { return __WEBPACK_IMPORTED_MODULE_10__debug_debug_node__["a"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_16", function() { return __WEBPACK_IMPORTED_MODULE_10__debug_debug_node__["g"]; });
@@ -68974,10 +69522,10 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__testability_testability__ = __webpack_require__(171);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "H", function() { return __WEBPACK_IMPORTED_MODULE_11__testability_testability__["c"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "K", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_59", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_58", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_60", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_59", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["f"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "U", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_60", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_61", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["g"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "L", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__change_detection__ = __webpack_require__(418);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "V", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["d"]; });
@@ -69004,25 +69552,25 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "B", function() { return __WEBPACK_IMPORTED_MODULE_20__core_private_export__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__animation_metadata__ = __webpack_require__(251);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "r", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_61", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_62", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_63", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_64", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_65", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_66", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["g"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_67", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["h"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_68", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["i"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_69", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_70", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_71", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["l"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_72", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["m"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_73", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["n"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_74", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["o"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_75", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["p"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_76", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["q"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_77", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["r"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_78", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["s"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(exports, "_79", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["t"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_62", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_63", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_64", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_65", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_66", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_67", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_68", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_69", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["i"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_70", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_71", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["k"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_72", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["l"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_73", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["m"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_74", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["n"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_75", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["o"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_76", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["p"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_77", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["q"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_78", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["r"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_79", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["s"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(exports, "_80", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["t"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__animation_animation_transition_event__ = __webpack_require__(250);
 /* harmony reexport (binding) */ __webpack_require__.d(exports, "_25", function() { return __WEBPACK_IMPORTED_MODULE_22__animation_animation_transition_event__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__animation_animation_player__ = __webpack_require__(157);
@@ -69715,7 +70263,10 @@ var ReflectiveProtoInjector = (function () {
     return ReflectiveProtoInjector;
 }());
 function ReflectiveProtoInjector_tsickle_Closure_declarations() {
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ReflectiveProtoInjector.prototype._strategy;
     /** @type {?} */
     ReflectiveProtoInjector.prototype.numberOfProviders;
@@ -69940,71 +70491,76 @@ function ReflectiveInjectorDynamicStrategy_tsickle_Closure_declarations() {
     ReflectiveInjectorDynamicStrategy.prototype.injector;
 }
 /**
- *  A ReflectiveDependency injection container used for instantiating objects and resolving
-  * dependencies.
-  * *
-  * An `Injector` is a replacement for a `new` operator, which can automatically resolve the
-  * constructor dependencies.
-  * *
-  * In typical use, application code asks for the dependencies in the constructor and they are
-  * resolved by the `Injector`.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/jzjec0?p=preview))
-  * *
-  * The following example creates an `Injector` configured to create `Engine` and `Car`.
-  * *
-  * ```typescript
-  * class Engine {
-  * }
-  * *
-  * class Car {
-  * constructor(public engine:Engine) {}
-  * }
-  * *
-  * var injector = ReflectiveInjector.resolveAndCreate([Car, Engine]);
-  * var car = injector.get(Car);
-  * expect(car instanceof Car).toBe(true);
-  * expect(car.engine instanceof Engine).toBe(true);
-  * ```
-  * *
-  * Notice, we don't use the `new` operator because we explicitly want to have the `Injector`
-  * resolve all of the object's dependencies automatically.
-  * *
+ * A ReflectiveDependency injection container used for instantiating objects and resolving
+ * dependencies.
+ *
+ * An `Injector` is a replacement for a `new` operator, which can automatically resolve the
+ * constructor dependencies.
+ *
+ * In typical use, application code asks for the dependencies in the constructor and they are
+ * resolved by the `Injector`.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/jzjec0?p=preview))
+ *
+ * The following example creates an `Injector` configured to create `Engine` and `Car`.
+ *
+ * ```typescript
+ * \@Injectable()
+ * class Engine {
+ * }
+ *
+ * \@Injectable()
+ * class Car {
+ *   constructor(public engine:Engine) {}
+ * }
+ *
+ * var injector = ReflectiveInjector.resolveAndCreate([Car, Engine]);
+ * var car = injector.get(Car);
+ * expect(car instanceof Car).toBe(true);
+ * expect(car.engine instanceof Engine).toBe(true);
+ * ```
+ *
+ * Notice, we don't use the `new` operator because we explicitly want to have the `Injector`
+ * resolve all of the object's dependencies automatically.
+ *
+ * \@stable
  * @abstract
  */
 var ReflectiveInjector = (function () {
     function ReflectiveInjector() {
     }
     /**
-     *  Turns an array of provider definitions into an array of resolved providers.
-      * *
-      * A resolution is a process of flattening multiple nested arrays and converting individual
-      * providers into an array of {@link ResolvedReflectiveProvider}s.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/AiXTHi?p=preview))
-      * *
-      * ```typescript
-      * class Engine {
-      * }
-      * *
-      * class Car {
-      * constructor(public engine:Engine) {}
-      * }
-      * *
-      * var providers = ReflectiveInjector.resolve([Car, [[Engine]]]);
-      * *
-      * expect(providers.length).toEqual(2);
-      * *
-      * expect(providers[0] instanceof ResolvedReflectiveProvider).toBe(true);
-      * expect(providers[0].key.displayName).toBe("Car");
-      * expect(providers[0].dependencies.length).toEqual(1);
-      * expect(providers[0].factory).toBeDefined();
-      * *
-      * expect(providers[1].key.displayName).toBe("Engine");
-      * });
-      * ```
-      * *
-      * See {@link ReflectiveInjector#fromResolvedProviders} for more info.
+     * Turns an array of provider definitions into an array of resolved providers.
+     *
+     * A resolution is a process of flattening multiple nested arrays and converting individual
+     * providers into an array of {\@link ResolvedReflectiveProvider}s.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/AiXTHi?p=preview))
+     *
+     * ```typescript
+     * \@Injectable()
+     * class Engine {
+     * }
+     *
+     * \@Injectable()
+     * class Car {
+     *   constructor(public engine:Engine) {}
+     * }
+     *
+     * var providers = ReflectiveInjector.resolve([Car, [[Engine]]]);
+     *
+     * expect(providers.length).toEqual(2);
+     *
+     * expect(providers[0] instanceof ResolvedReflectiveProvider).toBe(true);
+     * expect(providers[0].key.displayName).toBe("Car");
+     * expect(providers[0].dependencies.length).toEqual(1);
+     * expect(providers[0].factory).toBeDefined();
+     *
+     * expect(providers[1].key.displayName).toBe("Engine");
+     * });
+     * ```
+     *
+     * See {\@link ReflectiveInjector#fromResolvedProviders} for more info.
      * @param {?} providers
      * @return {?}
      */
@@ -70012,28 +70568,30 @@ var ReflectiveInjector = (function () {
         return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__reflective_provider__["b" /* resolveReflectiveProviders */])(providers);
     };
     /**
-     *  Resolves an array of providers and creates an injector from those providers.
-      * *
-      * The passed-in providers can be an array of `Type`, {@link Provider},
-      * or a recursive array of more providers.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/ePOccA?p=preview))
-      * *
-      * ```typescript
-      * class Engine {
-      * }
-      * *
-      * class Car {
-      * constructor(public engine:Engine) {}
-      * }
-      * *
-      * var injector = ReflectiveInjector.resolveAndCreate([Car, Engine]);
-      * expect(injector.get(Car) instanceof Car).toBe(true);
-      * ```
-      * *
-      * This function is slower than the corresponding `fromResolvedProviders`
-      * because it needs to resolve the passed-in providers first.
-      * See {@link Injector#resolve} and {@link Injector#fromResolvedProviders}.
+     * Resolves an array of providers and creates an injector from those providers.
+     *
+     * The passed-in providers can be an array of `Type`, {\@link Provider},
+     * or a recursive array of more providers.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/ePOccA?p=preview))
+     *
+     * ```typescript
+     * \@Injectable()
+     * class Engine {
+     * }
+     *
+     * \@Injectable()
+     * class Car {
+     *   constructor(public engine:Engine) {}
+     * }
+     *
+     * var injector = ReflectiveInjector.resolveAndCreate([Car, Engine]);
+     * expect(injector.get(Car) instanceof Car).toBe(true);
+     * ```
+     *
+     * This function is slower than the corresponding `fromResolvedProviders`
+     * because it needs to resolve the passed-in providers first.
+     * See {\@link Injector#resolve} and {\@link Injector#fromResolvedProviders}.
      * @param {?} providers
      * @param {?=} parent
      * @return {?}
@@ -70044,24 +70602,27 @@ var ReflectiveInjector = (function () {
         return ReflectiveInjector.fromResolvedProviders(ResolvedReflectiveProviders, parent);
     };
     /**
-     *  Creates an injector from previously resolved providers.
-      * *
-      * This API is the recommended way to construct injectors in performance-sensitive parts.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/KrSMci?p=preview))
-      * *
-      * ```typescript
-      * class Engine {
-      * }
-      * *
-      * class Car {
-      * constructor(public engine:Engine) {}
-      * }
-      * *
-      * var providers = ReflectiveInjector.resolve([Car, Engine]);
-      * var injector = ReflectiveInjector.fromResolvedProviders(providers);
-      * expect(injector.get(Car) instanceof Car).toBe(true);
-      * ```
+     * Creates an injector from previously resolved providers.
+     *
+     * This API is the recommended way to construct injectors in performance-sensitive parts.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/KrSMci?p=preview))
+     *
+     * ```typescript
+     * \@Injectable()
+     * class Engine {
+     * }
+     *
+     * \@Injectable()
+     * class Car {
+     *   constructor(public engine:Engine) {}
+     * }
+     *
+     * var providers = ReflectiveInjector.resolve([Car, Engine]);
+     * var injector = ReflectiveInjector.fromResolvedProviders(providers);
+     * expect(injector.get(Car) instanceof Car).toBe(true);
+     * ```
+     * \@experimental
      * @param {?} providers
      * @param {?=} parent
      * @return {?}
@@ -70072,18 +70633,18 @@ var ReflectiveInjector = (function () {
     };
     Object.defineProperty(ReflectiveInjector.prototype, "parent", {
         /**
-         *  Parent of this injector.
-          * *
-          * <!-- TODO: Add a link to the section of the user guide talking about hierarchical injection.
-          * -->
-          * *
-          * ### Example ([live demo](http://plnkr.co/edit/eosMGo?p=preview))
-          * *
-          * ```typescript
-          * var parent = ReflectiveInjector.resolveAndCreate([]);
-          * var child = parent.resolveAndCreateChild([]);
-          * expect(child.parent).toBe(parent);
-          * ```
+         * Parent of this injector.
+         *
+         * <!-- TODO: Add a link to the section of the user guide talking about hierarchical injection.
+         * -->
+         *
+         * ### Example ([live demo](http://plnkr.co/edit/eosMGo?p=preview))
+         *
+         * ```typescript
+         * var parent = ReflectiveInjector.resolveAndCreate([]);
+         * var child = parent.resolveAndCreateChild([]);
+         * expect(child.parent).toBe(parent);
+         * ```
          * @return {?}
          */
         get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); },
@@ -70091,59 +70652,59 @@ var ReflectiveInjector = (function () {
         configurable: true
     });
     /**
-     *  Resolves an array of providers and creates a child injector from those providers.
-      * *
-      * <!-- TODO: Add a link to the section of the user guide talking about hierarchical injection.
-      * -->
-      * *
-      * The passed-in providers can be an array of `Type`, {@link Provider},
-      * or a recursive array of more providers.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/opB3T4?p=preview))
-      * *
-      * ```typescript
-      * class ParentProvider {}
-      * class ChildProvider {}
-      * *
-      * var parent = ReflectiveInjector.resolveAndCreate([ParentProvider]);
-      * var child = parent.resolveAndCreateChild([ChildProvider]);
-      * *
-      * expect(child.get(ParentProvider) instanceof ParentProvider).toBe(true);
-      * expect(child.get(ChildProvider) instanceof ChildProvider).toBe(true);
-      * expect(child.get(ParentProvider)).toBe(parent.get(ParentProvider));
-      * ```
-      * *
-      * This function is slower than the corresponding `createChildFromResolved`
-      * because it needs to resolve the passed-in providers first.
-      * See {@link Injector#resolve} and {@link Injector#createChildFromResolved}.
+     * Resolves an array of providers and creates a child injector from those providers.
+     *
+     * <!-- TODO: Add a link to the section of the user guide talking about hierarchical injection.
+     * -->
+     *
+     * The passed-in providers can be an array of `Type`, {\@link Provider},
+     * or a recursive array of more providers.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/opB3T4?p=preview))
+     *
+     * ```typescript
+     * class ParentProvider {}
+     * class ChildProvider {}
+     *
+     * var parent = ReflectiveInjector.resolveAndCreate([ParentProvider]);
+     * var child = parent.resolveAndCreateChild([ChildProvider]);
+     *
+     * expect(child.get(ParentProvider) instanceof ParentProvider).toBe(true);
+     * expect(child.get(ChildProvider) instanceof ChildProvider).toBe(true);
+     * expect(child.get(ParentProvider)).toBe(parent.get(ParentProvider));
+     * ```
+     *
+     * This function is slower than the corresponding `createChildFromResolved`
+     * because it needs to resolve the passed-in providers first.
+     * See {\@link Injector#resolve} and {\@link Injector#createChildFromResolved}.
      * @param {?} providers
      * @return {?}
      */
     ReflectiveInjector.prototype.resolveAndCreateChild = function (providers) { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); };
     /**
-     *  Creates a child injector from previously resolved providers.
-      * *
-      * <!-- TODO: Add a link to the section of the user guide talking about hierarchical injection.
-      * -->
-      * *
-      * This API is the recommended way to construct injectors in performance-sensitive parts.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/VhyfjN?p=preview))
-      * *
-      * ```typescript
-      * class ParentProvider {}
-      * class ChildProvider {}
-      * *
-      * var parentProviders = ReflectiveInjector.resolve([ParentProvider]);
-      * var childProviders = ReflectiveInjector.resolve([ChildProvider]);
-      * *
-      * var parent = ReflectiveInjector.fromResolvedProviders(parentProviders);
-      * var child = parent.createChildFromResolved(childProviders);
-      * *
-      * expect(child.get(ParentProvider) instanceof ParentProvider).toBe(true);
-      * expect(child.get(ChildProvider) instanceof ChildProvider).toBe(true);
-      * expect(child.get(ParentProvider)).toBe(parent.get(ParentProvider));
-      * ```
+     * Creates a child injector from previously resolved providers.
+     *
+     * <!-- TODO: Add a link to the section of the user guide talking about hierarchical injection.
+     * -->
+     *
+     * This API is the recommended way to construct injectors in performance-sensitive parts.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/VhyfjN?p=preview))
+     *
+     * ```typescript
+     * class ParentProvider {}
+     * class ChildProvider {}
+     *
+     * var parentProviders = ReflectiveInjector.resolve([ParentProvider]);
+     * var childProviders = ReflectiveInjector.resolve([ChildProvider]);
+     *
+     * var parent = ReflectiveInjector.fromResolvedProviders(parentProviders);
+     * var child = parent.createChildFromResolved(childProviders);
+     *
+     * expect(child.get(ParentProvider) instanceof ParentProvider).toBe(true);
+     * expect(child.get(ChildProvider) instanceof ChildProvider).toBe(true);
+     * expect(child.get(ParentProvider)).toBe(parent.get(ParentProvider));
+     * ```
      * @param {?} providers
      * @return {?}
      */
@@ -70151,51 +70712,55 @@ var ReflectiveInjector = (function () {
         return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])();
     };
     /**
-     *  Resolves a provider and instantiates an object in the context of the injector.
-      * *
-      * The created object does not get cached by the injector.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/yvVXoB?p=preview))
-      * *
-      * ```typescript
-      * class Engine {
-      * }
-      * *
-      * class Car {
-      * constructor(public engine:Engine) {}
-      * }
-      * *
-      * var injector = ReflectiveInjector.resolveAndCreate([Engine]);
-      * *
-      * var car = injector.resolveAndInstantiate(Car);
-      * expect(car.engine).toBe(injector.get(Engine));
-      * expect(car).not.toBe(injector.resolveAndInstantiate(Car));
-      * ```
+     * Resolves a provider and instantiates an object in the context of the injector.
+     *
+     * The created object does not get cached by the injector.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/yvVXoB?p=preview))
+     *
+     * ```typescript
+     * \@Injectable()
+     * class Engine {
+     * }
+     *
+     * \@Injectable()
+     * class Car {
+     *   constructor(public engine:Engine) {}
+     * }
+     *
+     * var injector = ReflectiveInjector.resolveAndCreate([Engine]);
+     *
+     * var car = injector.resolveAndInstantiate(Car);
+     * expect(car.engine).toBe(injector.get(Engine));
+     * expect(car).not.toBe(injector.resolveAndInstantiate(Car));
+     * ```
      * @param {?} provider
      * @return {?}
      */
     ReflectiveInjector.prototype.resolveAndInstantiate = function (provider) { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_errors__["b" /* unimplemented */])(); };
     /**
-     *  Instantiates an object using a resolved provider in the context of the injector.
-      * *
-      * The created object does not get cached by the injector.
-      * *
-      * ### Example ([live demo](http://plnkr.co/edit/ptCImQ?p=preview))
-      * *
-      * ```typescript
-      * class Engine {
-      * }
-      * *
-      * class Car {
-      * constructor(public engine:Engine) {}
-      * }
-      * *
-      * var injector = ReflectiveInjector.resolveAndCreate([Engine]);
-      * var carProvider = ReflectiveInjector.resolve([Car])[0];
-      * var car = injector.instantiateResolved(carProvider);
-      * expect(car.engine).toBe(injector.get(Engine));
-      * expect(car).not.toBe(injector.instantiateResolved(carProvider));
-      * ```
+     * Instantiates an object using a resolved provider in the context of the injector.
+     *
+     * The created object does not get cached by the injector.
+     *
+     * ### Example ([live demo](http://plnkr.co/edit/ptCImQ?p=preview))
+     *
+     * ```typescript
+     * \@Injectable()
+     * class Engine {
+     * }
+     *
+     * \@Injectable()
+     * class Car {
+     *   constructor(public engine:Engine) {}
+     * }
+     *
+     * var injector = ReflectiveInjector.resolveAndCreate([Engine]);
+     * var carProvider = ReflectiveInjector.resolve([Car])[0];
+     * var car = injector.instantiateResolved(carProvider);
+     * expect(car.engine).toBe(injector.get(Engine));
+     * expect(car).not.toBe(injector.instantiateResolved(carProvider));
+     * ```
      * @param {?} provider
      * @return {?}
      */
@@ -70211,7 +70776,7 @@ var ReflectiveInjector = (function () {
 }());
 var ReflectiveInjector_ = (function () {
     /**
-     *  Private
+     * Private
      * @param {?} _proto
      * @param {?=} _parent
      */
@@ -70247,8 +70812,9 @@ var ReflectiveInjector_ = (function () {
     });
     Object.defineProperty(ReflectiveInjector_.prototype, "internalStrategy", {
         /**
-         *  Internal. Do not use.
-          * We return `any` not to export the InjectorStrategy type.
+         * \@internal
+         * Internal. Do not use.
+         * We return `any` not to export the InjectorStrategy type.
          * @return {?}
          */
         get: function () { return this._strategy; },
@@ -70288,6 +70854,7 @@ var ReflectiveInjector_ = (function () {
         return this._instantiateProvider(provider);
     };
     /**
+     * \@internal
      * @param {?} provider
      * @return {?}
      */
@@ -70472,6 +71039,7 @@ var ReflectiveInjector_ = (function () {
         }
     };
     /**
+     * \@internal
      * @param {?} key
      * @param {?} notFoundValue
      * @return {?}
@@ -70485,6 +71053,7 @@ var ReflectiveInjector_ = (function () {
         }
     };
     /**
+     * \@internal
      * @param {?} key
      * @param {?} notFoundValue
      * @return {?}
@@ -70494,6 +71063,7 @@ var ReflectiveInjector_ = (function () {
         return (obj !== UNDEFINED) ? obj : this._throwOrNull(key, notFoundValue);
     };
     /**
+     * \@internal
      * @param {?} key
      * @param {?} notFoundValue
      * @param {?} lowerBoundVisibility
@@ -70542,11 +71112,20 @@ var ReflectiveInjector_ = (function () {
 function ReflectiveInjector__tsickle_Closure_declarations() {
     /** @type {?} */
     ReflectiveInjector_.prototype._strategy;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ReflectiveInjector_.prototype._constructionCounter;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ReflectiveInjector_.prototype._proto;
-    /** @type {?} */
+    /**
+     * \@internal
+     * @type {?}
+     */
     ReflectiveInjector_.prototype._parent;
 }
 var /** @type {?} */ INJECTOR_KEY = __WEBPACK_IMPORTED_MODULE_4__reflective_key__["a" /* ReflectiveKey */].get(__WEBPACK_IMPORTED_MODULE_1__injector__["b" /* Injector */]);
@@ -70779,25 +71358,27 @@ function ElementInjector_tsickle_Closure_declarations() {
 
 
 /**
- *  An unmodifiable list of items that Angular keeps up to date when the state
-  * of the application changes.
-  * *
-  * The type of object that {@link Query} and {@link ViewQueryMetadata} provide.
-  * *
-  * Implements an iterable interface, therefore it can be used in both ES6
-  * javascript `for (var i of items)` loops as well as in Angular templates with
-  * `*ngFor="let i of myList"`.
-  * *
-  * Changes can be observed by subscribing to the changes `Observable`.
-  * *
-  * NOTE: In the future this class will implement an `Observable` interface.
-  * *
-  * ### Example ([live demo](http://plnkr.co/edit/RX8sJnQYl9FWuSCWme5z?p=preview))
-  * ```typescript
-  * class Container {
-  * @ViewChildren(Item) items:QueryList<Item>;
-  * }
-  * ```
+ * An unmodifiable list of items that Angular keeps up to date when the state
+ * of the application changes.
+ *
+ * The type of object that {\@link Query} and {\@link ViewQueryMetadata} provide.
+ *
+ * Implements an iterable interface, therefore it can be used in both ES6
+ * javascript `for (var i of items)` loops as well as in Angular templates with
+ * `*ngFor="let i of myList"`.
+ *
+ * Changes can be observed by subscribing to the changes `Observable`.
+ *
+ * NOTE: In the future this class will implement an `Observable` interface.
+ *
+ * ### Example ([live demo](http://plnkr.co/edit/RX8sJnQYl9FWuSCWme5z?p=preview))
+ * ```typescript
+ * \@Component({...})
+ * class Container {
+ *   \@ViewChildren(Item) items:QueryList<Item>;
+ * }
+ * ```
+ * \@stable
  */
 var QueryList = (function () {
     function QueryList() {
@@ -70838,15 +71419,15 @@ var QueryList = (function () {
         configurable: true
     });
     /**
-     *  See
-      * [Array.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+     * See
+     * [Array.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
      * @param {?} fn
      * @return {?}
      */
     QueryList.prototype.map = function (fn) { return this._results.map(fn); };
     /**
-     *  See
-      * [Array.filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+     * See
+     * [Array.filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
      * @param {?} fn
      * @return {?}
      */
@@ -70854,15 +71435,15 @@ var QueryList = (function () {
         return this._results.filter(fn);
     };
     /**
-     *  See
-      * [Array.find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+     * See
+     * [Array.find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
      * @param {?} fn
      * @return {?}
      */
     QueryList.prototype.find = function (fn) { return this._results.find(fn); };
     /**
-     *  See
-      * [Array.reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+     * See
+     * [Array.reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
      * @param {?} fn
      * @param {?} init
      * @return {?}
@@ -70871,15 +71452,15 @@ var QueryList = (function () {
         return this._results.reduce(fn, init);
     };
     /**
-     *  See
-      * [Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+     * See
+     * [Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
      * @param {?} fn
      * @return {?}
      */
     QueryList.prototype.forEach = function (fn) { this._results.forEach(fn); };
     /**
-     *  See
-      * [Array.some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
+     * See
+     * [Array.some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
      * @param {?} fn
      * @return {?}
      */
@@ -70911,13 +71492,13 @@ var QueryList = (function () {
      */
     QueryList.prototype.notifyOnChanges = function () { this._emitter.emit(this); };
     /**
-     *  internal
+     * internal
      * @return {?}
      */
     QueryList.prototype.setDirty = function () { this._dirty = true; };
     Object.defineProperty(QueryList.prototype, "dirty", {
         /**
-         *  internal
+         * internal
          * @return {?}
          */
         get: function () { return this._dirty; },
@@ -70957,9 +71538,10 @@ function QueryList_tsickle_Closure_declarations() {
 var /** @type {?} */ _SEPARATOR = '#';
 var /** @type {?} */ FACTORY_CLASS_SUFFIX = 'NgFactory';
 /**
- *  Configuration for SystemJsNgModuleLoader.
-  * token.
-  * *
+ * Configuration for SystemJsNgModuleLoader.
+ * token.
+ *
+ * \@experimental
  * @abstract
  */
 var SystemJsNgModuleLoaderConfig = (function () {
@@ -70984,7 +71566,8 @@ var /** @type {?} */ DEFAULT_CONFIG = {
     factoryPathSuffix: '.ngfactory',
 };
 /**
- *  NgModuleFactoryLoader that uses SystemJS to load NgModuleFactory
+ * NgModuleFactoryLoader that uses SystemJS to load NgModuleFactory
+ * \@experimental
  */
 var SystemJsNgModuleLoader = (function () {
     /**
@@ -71118,8 +71701,8 @@ var /** @type {?} */ _scope_check = __webpack_require__.i(__WEBPACK_IMPORTED_MOD
 var /** @type {?} */ EMPTY_CONTEXT = new Object();
 var /** @type {?} */ UNDEFINED = new Object();
 /**
- *  Cost of making objects: http://jsperf.com/instantiate-size-of-object
-  * *
+ * Cost of making objects: http://jsperf.com/instantiate-size-of-object
+ *
  * @abstract
  */
 var AppView = (function () {
@@ -71199,14 +71782,14 @@ var AppView = (function () {
         return this.createInternal(rootSelectorOrNode);
     };
     /**
-     *  Overwritten by implementations.
-      * Returns the ComponentRef for the host element for ViewType.HOST.
+     * Overwritten by implementations.
+     * Returns the ComponentRef for the host element for ViewType.HOST.
      * @param {?} rootSelectorOrNode
      * @return {?}
      */
     AppView.prototype.createInternal = function (rootSelectorOrNode) { return null; };
     /**
-     *  Overwritten by implementations.
+     * Overwritten by implementations.
      * @param {?} templateNodeIndex
      * @return {?}
      */
@@ -71248,7 +71831,7 @@ var AppView = (function () {
         return result;
     };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @param {?} token
      * @param {?} nodeIndex
      * @param {?} notFoundResult
@@ -71302,12 +71885,12 @@ var AppView = (function () {
         this.cdMode = __WEBPACK_IMPORTED_MODULE_0__change_detection_change_detection__["c" /* ChangeDetectorStatus */].Destroyed;
     };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @return {?}
      */
     AppView.prototype.destroyInternal = function () { };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @return {?}
      */
     AppView.prototype.detachInternal = function () { };
@@ -71472,14 +72055,14 @@ var AppView = (function () {
         }
     };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @param {?} cb
      * @param {?} c
      * @return {?}
      */
     AppView.prototype.visitRootNodesInternal = function (cb, c) { };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @param {?} nodeIndex
      * @param {?} ngContentIndex
      * @param {?} cb
@@ -71488,7 +72071,7 @@ var AppView = (function () {
      */
     AppView.prototype.visitProjectableNodesInternal = function (nodeIndex, ngContentIndex, cb, c) { };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @return {?}
      */
     AppView.prototype.dirtyParentQueriesInternal = function () { };
@@ -71521,7 +72104,7 @@ var AppView = (function () {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__profile_profile__["b" /* wtfLeave */])(s);
     };
     /**
-     *  Overwritten by implementations
+     * Overwritten by implementations
      * @return {?}
      */
     AppView.prototype.detectChangesInternal = function () { };
@@ -71792,8 +72375,8 @@ function DebugAppView_tsickle_Closure_declarations() {
 
 
 /**
- *  A ViewContainer is created for elements that have a ViewContainerRef
-  * to keep track of the nested views.
+ * A ViewContainer is created for elements that have a ViewContainerRef
+ * to keep track of the nested views.
  */
 var ViewContainer = (function () {
     /**
@@ -71984,7 +72567,7 @@ function ViewContainer_tsickle_Closure_declarations() {
 /***/ function(module, exports, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__di_opaque_token__ = __webpack_require__(163);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__di_injection_token__ = __webpack_require__(163);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_decorators__ = __webpack_require__(67);
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return ANALYZE_FOR_ENTRY_COMPONENTS; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return Attribute; });
@@ -72036,7 +72619,7 @@ function ViewContainer_tsickle_Closure_declarations() {
  *
  * @experimental
  */
-var /** @type {?} */ ANALYZE_FOR_ENTRY_COMPONENTS = new __WEBPACK_IMPORTED_MODULE_0__di_opaque_token__["a" /* OpaqueToken */]('AnalyzeForEntryComponents');
+var /** @type {?} */ ANALYZE_FOR_ENTRY_COMPONENTS = new __WEBPACK_IMPORTED_MODULE_0__di_injection_token__["a" /* InjectionToken */]('AnalyzeForEntryComponents');
 /**
  * Attribute decorator and metadata.
  *
@@ -72045,11 +72628,12 @@ var /** @type {?} */ ANALYZE_FOR_ENTRY_COMPONENTS = new __WEBPACK_IMPORTED_MODUL
  */
 var /** @type {?} */ Attribute = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__util_decorators__["b" /* makeParamDecorator */])('Attribute', [['attributeName', undefined]]);
 /**
- *  Base class for query metadata.
-  * *
-  * See {@link ContentChildren}, {@link ContentChild}, {@link ViewChildren}, {@link ViewChild} for
-  * more information.
-  * *
+ * Base class for query metadata.
+ *
+ * See {\@link ContentChildren}, {\@link ContentChild}, {\@link ViewChildren}, {\@link ViewChild} for
+ * more information.
+ *
+ * \@stable
  * @abstract
  */
 var Query = (function () {
@@ -72502,8 +73086,9 @@ function jsonpFactory(jsonpBackend, requestOptions) {
     return new __WEBPACK_IMPORTED_MODULE_7__http__["b" /* Jsonp */](jsonpBackend, requestOptions);
 }
 /**
- *  The module that includes http's providers
-  * *
+ * The module that includes http's providers
+ *
+ * \@experimental
  */
 var HttpModule = (function () {
     function HttpModule() {
@@ -72536,8 +73121,9 @@ function HttpModule_tsickle_Closure_declarations() {
     HttpModule.ctorParameters;
 }
 /**
- *  The module that includes jsonp's providers
-  * *
+ * The module that includes jsonp's providers
+ *
+ * \@experimental
  */
 var JsonpModule = (function () {
     function JsonpModule() {
@@ -72657,7 +73243,7 @@ function JsonpModule_tsickle_Closure_declarations() {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.3');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
@@ -72992,7 +73578,7 @@ var CachedResourceLoader = (function (_super) {
 /**
  * @stable
  */
-var VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.3');
+var VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
@@ -73018,9 +73604,10 @@ var __extends = (this && this.__extends) || function (d, b) {
 
 
 /**
- *  Provides DOM operations in any browser environment.
-  * *
-  * can introduce XSS risks.
+ * Provides DOM operations in any browser environment.
+ *
+ * \@security Tread carefully! Interacting with the DOM directly is dangerous and
+ * can introduce XSS risks.
  * @abstract
  */
 var GenericBrowserDomAdapter = (function (_super) {
@@ -73116,11 +73703,11 @@ function GenericBrowserDomAdapter_tsickle_Closure_declarations() {
 "use strict";
 /* harmony export (immutable) */ exports["a"] = supportsState;
 /**
- * @license undefined
-  * Copyright Google Inc. All Rights Reserved.
-  * *
-  * Use of this source code is governed by an MIT-style license that can be
-  * found in the LICENSE file at https://angular.io/license
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
  * @return {?}
  */
 function supportsState() {
@@ -73169,8 +73756,8 @@ function ChangeDetectionPerfRecord_tsickle_Closure_declarations() {
     ChangeDetectionPerfRecord.prototype.numTicks;
 }
 /**
- *  Entry point for all Angular debug tools. This object corresponds to the `ng`
-  * global variable accessible in the dev console.
+ * Entry point for all Angular debug tools. This object corresponds to the `ng`
+ * global variable accessible in the dev console.
  */
 var AngularTools = (function () {
     /**
@@ -73186,8 +73773,8 @@ function AngularTools_tsickle_Closure_declarations() {
     AngularTools.prototype.profiler;
 }
 /**
- *  Entry point for all Angular profiling-related debug tools. This object
-  * corresponds to the `ng.profiler` in the dev console.
+ * Entry point for all Angular profiling-related debug tools. This object
+ * corresponds to the `ng.profiler` in the dev console.
  */
 var AngularProfiler = (function () {
     /**
@@ -73197,20 +73784,20 @@ var AngularProfiler = (function () {
         this.appRef = ref.injector.get(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ApplicationRef"]);
     }
     /**
-     *  Exercises change detection in a loop and then prints the average amount of
-      * time in milliseconds how long a single round of change detection takes for
-      * the current state of the UI. It runs a minimum of 5 rounds for a minimum
-      * of 500 milliseconds.
-      * *
-      * Optionally, a user may pass a `config` parameter containing a map of
-      * options. Supported options are:
-      * *
-      * `record` (boolean) - causes the profiler to record a CPU profile while
-      * it exercises the change detector. Example:
-      * *
-      * ```
-      * ng.profiler.timeChangeDetection({record: true})
-      * ```
+     * Exercises change detection in a loop and then prints the average amount of
+     * time in milliseconds how long a single round of change detection takes for
+     * the current state of the UI. It runs a minimum of 5 rounds for a minimum
+     * of 500 milliseconds.
+     *
+     * Optionally, a user may pass a `config` parameter containing a map of
+     * options. Supported options are:
+     *
+     * `record` (boolean) - causes the profiler to record a CPU profile while
+     * it exercises the change detector. Example:
+     *
+     * ```
+     * ng.profiler.timeChangeDetection({record: true})
+     * ```
      * @param {?} config
      * @return {?}
      */
@@ -73269,16 +73856,17 @@ function AngularProfiler_tsickle_Closure_declarations() {
 
 var /** @type {?} */ context = (__WEBPACK_IMPORTED_MODULE_0__facade_lang__["e" /* global */]);
 /**
- *  Enabled Angular 2 debug tools that are accessible via your browser's
-  * developer console.
-  * *
-  * Usage:
-  * *
-  * 1. Open developer console (e.g. in Chrome Ctrl + Shift + j)
-  * 1. Type `ng.` (usually the console will show auto-complete suggestion)
-  * 1. Try the change detection profiler `ng.profiler.timeChangeDetection()`
-  * then hit Enter.
-  * *
+ * Enabled Angular 2 debug tools that are accessible via your browser's
+ * developer console.
+ *
+ * Usage:
+ *
+ * 1. Open developer console (e.g. in Chrome Ctrl + Shift + j)
+ * 1. Type `ng.` (usually the console will show auto-complete suggestion)
+ * 1. Try the change detection profiler `ng.profiler.timeChangeDetection()`
+ *    then hit Enter.
+ *
+ * \@experimental All debugging apis are currently experimental.
  * @param {?} ref
  * @return {?}
  */
@@ -73287,8 +73875,9 @@ function enableDebugTools(ref) {
     return ref;
 }
 /**
- *  Disables Angular 2 tools.
-  * *
+ * Disables Angular 2 tools.
+ *
+ * \@experimental All debugging apis are currently experimental.
  * @return {?}
  */
 function disableDebugTools() {
@@ -73316,27 +73905,28 @@ function disableDebugTools() {
 
 
 /**
- *  Predicates for use with {@link DebugElement}'s query functions.
-  * *
+ * Predicates for use with {\@link DebugElement}'s query functions.
+ *
+ * \@experimental All debugging apis are currently experimental.
  */
 var By = (function () {
     function By() {
     }
     /**
-     *  Match all elements.
-      * *
-      * ## Example
-      * *
-      * {@example platform-browser/dom/debug/ts/by/by.ts region='by_all'}
+     * Match all elements.
+     *
+     * ## Example
+     *
+     * {\@example platform-browser/dom/debug/ts/by/by.ts region='by_all'}
      * @return {?}
      */
     By.all = function () { return function (debugElement) { return true; }; };
     /**
-     *  Match elements by the given CSS selector.
-      * *
-      * ## Example
-      * *
-      * {@example platform-browser/dom/debug/ts/by/by.ts region='by_css'}
+     * Match elements by the given CSS selector.
+     *
+     * ## Example
+     *
+     * {\@example platform-browser/dom/debug/ts/by/by.ts region='by_css'}
      * @param {?} selector
      * @return {?}
      */
@@ -73348,11 +73938,11 @@ var By = (function () {
         };
     };
     /**
-     *  Match elements that have the given directive present.
-      * *
-      * ## Example
-      * *
-      * {@example platform-browser/dom/debug/ts/by/by.ts region='by_directive'}
+     * Match elements that have the given directive present.
+     *
+     * ## Example
+     *
+     * {\@example platform-browser/dom/debug/ts/by/by.ts region='by_directive'}
      * @param {?} type
      * @return {?}
      */
@@ -73467,13 +74057,16 @@ var WebAnimationsPlayer = (function () {
         this._player.addEventListener('finish', function () { return _this._onFinish(); });
     };
     /**
+     * \@internal
      * @param {?} element
      * @param {?} keyframes
      * @param {?} options
      * @return {?}
      */
     WebAnimationsPlayer.prototype._triggerWebAnimation = function (element, keyframes, options) {
-        return (element.animate(keyframes, options));
+        // jscompiler doesn't seem to know animate is a native property because it's not fully
+        // supported yet across common browsers (we polyfill it for Edge/Safari) [CL #143630929]
+        return (element['animate'](keyframes, options));
     };
     Object.defineProperty(WebAnimationsPlayer.prototype, "domPlayer", {
         /**
@@ -73708,7 +74301,7 @@ var /** @type {?} */ EventListener = win['EventListener'];
  */
 
 /**
- *  Wraps Javascript Objects
+ * Wraps Javascript Objects
  */
 var StringMapWrapper = (function () {
     function StringMapWrapper() {
@@ -74017,7 +74610,7 @@ var /** @type {?} */ inertElement = null;
 /** Lazily initialized to make sure the DOM adapter gets set before use. */
 var /** @type {?} */ DOM = null;
 /**
- *  Returns an HTML element that is guaranteed to not execute code when creating elements in it.
+ * Returns an HTML element that is guaranteed to not execute code when creating elements in it.
  * @return {?}
  */
 function getInertElement() {
@@ -74108,8 +74701,8 @@ var /** @type {?} */ HTML_ATTRS = tagSet('abbr,accesskey,align,alt,autoplay,axis
 // are left out here.
 var /** @type {?} */ VALID_ATTRS = merge(URI_ATTRS, SRCSET_ATTRS, HTML_ATTRS);
 /**
- *  SanitizingHtmlSerializer serializes a DOM fragment, stripping out any unsafe elements and unsafe
-  * attributes.
+ * SanitizingHtmlSerializer serializes a DOM fragment, stripping out any unsafe elements and unsafe
+ * attributes.
  */
 var SanitizingHtmlSerializer = (function () {
     function SanitizingHtmlSerializer() {
@@ -74216,9 +74809,9 @@ var /** @type {?} */ SURROGATE_PAIR_REGEXP = /[\uD800-\uDBFF][\uDC00-\uDFFF]/g;
 // ! to ~ is the ASCII range.
 var /** @type {?} */ NON_ALPHANUMERIC_REGEXP = /([^\#-~ |!])/g;
 /**
- *  Escapes all potentially dangerous characters, so that the
-  * resulting string can be safely inserted into attribute or
-  * element text.
+ * Escapes all potentially dangerous characters, so that the
+ * resulting string can be safely inserted into attribute or
+ * element text.
  * @param {?} value
  * @return {?}
  */
@@ -74234,11 +74827,11 @@ function encodeEntities(value) {
         .replace(/>/g, '&gt;');
 }
 /**
- *  When IE9-11 comes across an unknown namespaced attribute e.g. 'xlink:foo' it adds 'xmlns:ns1'
-  * attribute to declare ns1 namespace and prefixes the attribute with 'ns1' (e.g. 'ns1:xlink:foo').
-  * *
-  * This is undesirable since we don't want to allow any of these custom attributes. This method
-  * strips them all.
+ * When IE9-11 comes across an unknown namespaced attribute e.g. 'xlink:foo' it adds 'xmlns:ns1'
+ * attribute to declare ns1 namespace and prefixes the attribute with 'ns1' (e.g. 'ns1:xlink:foo').
+ *
+ * This is undesirable since we don't want to allow any of these custom attributes. This method
+ * strips them all.
  * @param {?} el
  * @return {?}
  */
@@ -74255,8 +74848,8 @@ function stripCustomNsAttrs(el) {
     }
 }
 /**
- *  Sanitizes the given unsafe, untrusted HTML fragment, and returns HTML text that is safe to add to
-  * the DOM in a browser environment.
+ * Sanitizes the given unsafe, untrusted HTML fragment, and returns HTML text that is safe to add to
+ * the DOM in a browser environment.
  * @param {?} unsafeHtmlInput
  * @return {?}
  */
@@ -74339,8 +74932,12 @@ function sanitizeHtml(unsafeHtmlInput) {
 var /** @type {?} */ VALUES = '[-,."\'%_!# a-zA-Z0-9]+';
 var /** @type {?} */ TRANSFORMATION_FNS = '(?:matrix|translate|scale|rotate|skew|perspective)(?:X|Y|3d)?';
 var /** @type {?} */ COLOR_FNS = '(?:rgb|hsl)a?';
-var /** @type {?} */ FN_ARGS = '\\([-0-9.%, a-zA-Z]+\\)';
-var /** @type {?} */ SAFE_STYLE_VALUE = new RegExp("^(" + VALUES + "|(?:" + TRANSFORMATION_FNS + "|" + COLOR_FNS + ")" + FN_ARGS + ")$", 'g');
+var /** @type {?} */ GRADIENTS = '(?:repeating-)?(?:linear|radial)-gradient';
+var /** @type {?} */ CSS3_FNS = '(?:calc|attr)';
+var /** @type {?} */ FN_ARGS = '\\([-0-9.%, #a-zA-Z]+\\)';
+var /** @type {?} */ SAFE_STYLE_VALUE = new RegExp(("^(" + VALUES + "|") +
+    ("(?:" + TRANSFORMATION_FNS + "|" + COLOR_FNS + "|" + GRADIENTS + "|" + CSS3_FNS + ")") +
+    (FN_ARGS + ")$"), 'g');
 /**
  * Matches a `url(...)` value with an arbitrary argument as long as it does
  * not contain parentheses.
@@ -74361,12 +74958,12 @@ var /** @type {?} */ SAFE_STYLE_VALUE = new RegExp("^(" + VALUES + "|(?:" + TRAN
  */
 var /** @type {?} */ URL_RE = /^url\(([^)]+)\)$/;
 /**
- *  Checks that quotes (" and ') are properly balanced inside a string. Assumes
-  * that neither escape (\) nor any other character that could result in
-  * breaking out of a string parsing context are allowed;
-  * see http://www.w3.org/TR/css3-syntax/#string-token-diagram.
-  * *
-  * This code was taken from the Closure sanitization library.
+ * Checks that quotes (" and ') are properly balanced inside a string. Assumes
+ * that neither escape (\) nor any other character that could result in
+ * breaking out of a string parsing context are allowed;
+ * see http://www.w3.org/TR/css3-syntax/#string-token-diagram.
+ *
+ * This code was taken from the Closure sanitization library.
  * @param {?} value
  * @return {?}
  */
@@ -74385,8 +74982,8 @@ function hasBalancedQuotes(value) {
     return outsideSingle && outsideDouble;
 }
 /**
- *  Sanitizes the given untrusted CSS style property value (i.e. not an entire object, just a single
-  * value) and returns a value that is safe to use in a browser environment.
+ * Sanitizes the given untrusted CSS style property value (i.e. not an entire object, just a single
+ * value) and returns a value that is safe to use in a browser environment.
  * @param {?} value
  * @return {?}
  */
@@ -74426,7 +75023,7 @@ function sanitizeStyle(value) {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.3');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
@@ -75454,7 +76051,7 @@ function Navigation_tsickle_Closure_declarations() {
     Navigation.prototype.commands;
 }
 /**
- *  Transforms commands to a normalized `Navigation`
+ * Transforms commands to a normalized `Navigation`
  * @param {?} commands
  * @return {?}
  */
@@ -76280,7 +76877,7 @@ function getResolve(route) {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.3');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["Version"]('4.0.0-beta.4');
 //# sourceMappingURL=version.js.map
 
 /***/ },
